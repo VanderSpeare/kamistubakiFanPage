@@ -1,0 +1,350 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ========================= */
+/* GLOBAL */
+/* ========================= */
+
+html, body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  scroll-behavior: smooth;
+  overscroll-behavior-y: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ========================= */
+/* BASE BLACK LAYER */
+/* Lớp nền đen toàn cục — chỉ dành cho Landing page.
+   Teams.jsx tự quản lý nền riêng (top_visual_2.jpg).
+   Ẩn đi khi body có class "page-teams".             */
+/* ========================= */
+
+.base-black {
+  position: fixed;
+  inset: 0;
+  z-index: -10;
+  background: black;
+}
+
+/* Ẩn base-black khi đang ở trang Teams */
+body.page-teams .base-black {
+  display: none;
+}
+
+/* ========================= */
+/* HOME FONT MENUBAR */
+/* ========================= */
+.font-cinematic {
+  font-family: 'Cinzel', serif;
+}
+
+/* ========================= */
+/* HOME BACKGROUND VIDEO */
+/* ========================= */
+
+.home-video {
+  position: absolute;
+  inset: 0;
+  z-index: -5; /* above base-black, below poster */
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.home-video iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translate(-50%, -50%);
+}
+
+/* ========================= */
+/* BOTTOM IMAGE (bg_bldg-btm.png)
+   Ảnh tòa nhà chân trang — chỉ dành cho Landing page.
+   z-index: 2 → nằm trên color fade (z:1) và base-black (z:-10).
+   Ẩn hoàn toàn khi ở trang Teams để không che top_visual_2.jpg. */
+/* ========================= */
+
+.bottom-image {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 45vh;
+  z-index: -1;
+  pointer-events: none;
+
+  background-image: url('../public/bg_bldg-btm.png');
+  background-position: bottom center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* Ẩn bottom-image khi đang ở trang Teams */
+body.page-teams .bottom-image {
+  display: none;
+}
+
+/* On phones/tablets in portrait, 45vh of a much shorter viewport
+   eats a big chunk of the screen. Scale it down progressively. */
+@media (max-width: 767px) {
+  .bottom-image {
+    height: 28vh;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .bottom-image {
+    height: 35vh;
+  }
+}
+
+/* ========================= */
+/* BOTTOM COLOR FADE
+   Gradient đỏ chân trang — chỉ dành cho Landing page.
+   Ẩn khi ở trang Teams.                               */
+/* ========================= */
+
+.bottom-color {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50vh;
+  z-index: -2;
+  pointer-events: none;
+
+  --fade: 0;
+
+  background: linear-gradient(
+    to top,
+    rgba(139,0,0, calc(0.95 * var(--fade))) 0%,
+    rgba(139,0,0, calc(0.6 * var(--fade))) 40%,
+    rgba(0,0,0,0) 100%
+  );
+}
+
+/* Ẩn bottom-color khi đang ở trang Teams */
+body.page-teams .bottom-color {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .bottom-color {
+    height: 32vh;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .bottom-color {
+    height: 40vh;
+  }
+}
+
+/* ========================= */
+/* VIDEO WRAPPER (STORY SECTION) */
+/* ========================= */
+
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  margin: clamp(48px, 10vh, 120px) auto;
+  aspect-ratio: 16 / 9;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.video-wrapper iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+}
+
+.video-wrapper:hover iframe {
+  transform: scale(1.02);
+}
+
+/* ========================= */
+/* FULLSCREEN VIDEO MODAL */
+/* ========================= */
+
+.video-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  animation: fadeIn 0.3s ease;
+}
+
+.video-modal-content {
+  width: 90%;
+  max-width: 1200px;
+  aspect-ratio: 16 / 9;
+}
+
+.video-modal-content iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* ========================= */
+/* SHUFFLE TEXT EFFECT */
+/* ========================= */
+
+.js-shuffleTxt {
+  display: inline-block;
+  opacity: 0;
+  font-family: monospace;
+  letter-spacing: 0.08em;
+  white-space: pre;
+  line-height: 1.8;
+}
+
+.js-shuffleTxt.animate {
+  animation: shuffleFade 8s infinite ease-in-out;
+}
+
+.hero_text-content__txt:nth-child(1) .js-shuffleTxt { animation-delay: 0s; }
+.hero_text-content__txt:nth-child(2) .js-shuffleTxt { animation-delay: 2s; }
+.hero_text-content__txt:nth-child(3) .js-shuffleTxt { animation-delay: 4s; }
+
+@keyframes shuffleFade {
+  0%   { opacity: 0; transform: translateY(10px); }
+  10%  { opacity: 1; transform: translateY(0); }
+  90%  { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-10px); }
+}
+
+/* ========================= */
+/* HERO TEXT LAYOUT */
+/* ========================= */
+
+.hero_text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  /* Use vh + clamp instead of % so this scales off viewport HEIGHT,
+     not the containing block's WIDTH (the old bug that made it
+     collapse to near-nothing on narrow phone/tablet screens). */
+  margin-bottom: clamp(32px, 11vh, 160px);
+  padding-top: clamp(20px, 7.7vh, 110px);
+  pointer-events: none;
+}
+
+.hero_text-content {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.hero_text-content__txt {
+  /* vmin instead of vw: on a tall narrow phone, vw alone crushes this
+     toward the 4px floor. vmin keeps it legible across phone/tablet/TV. */
+  font-size: clamp(7px, 1.1vmin, 13px);
+  line-height: 2;
+  text-wrap: nowrap;
+  color: red;
+  text-align: center;
+}
+
+/* ========================= */
+/* DISABLE SCROLL SNAP */
+/* ========================= */
+
+html, body, section {
+  scroll-snap-type: none !important;
+  scroll-snap-stop: normal !important;
+}
+
+/* =================================
+   KAMITSUBAKI DATA FLOW GLITCH
+================================= */
+
+.story-dataflow {
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-top: clamp(-120px, -8vh, -48px);
+}
+
+.data-line {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  /* --max-percent was never defined anywhere, which made this clamp()
+     invalid (and browsers silently drop the whole declaration).
+     Replaced with a plain vmin-based clamp that scales on any device. */
+  font-size: clamp(6px, 0.9vmin, 13px);
+  letter-spacing: 0.25em;
+  line-height: 2;
+  color: #ff0022;
+  text-wrap: nowrap;
+  text-align: center;
+  text-rendering: better-speed;
+}
+
+.data-line::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.15);
+  filter: blur(4px);
+  z-index: -1;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-bottom: clamp(32px, 11vh, 160px);
+  padding-top: clamp(20px, 7.7vh, 110px);
+  pointer-events: none;
+}
+
+/* ================================
+    Kamitsubaki Explore Button
+================================= */
+
+.explore-btn-wrapper {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.explore-btn {
+  width: 26px;
+  cursor: pointer;
+  opacity: 0.9;
+  transition: all 0.4s ease;
+  animation: floatArrow 3s ease-in-out infinite;
+}
+
+.explore-btn:hover {
+  opacity: 1;
+  transform: translateY(6px);
+}
+
+@keyframes floatArrow {
+  0%   { transform: translateY(0px); }
+  50%  { transform: translateY(8px); }
+  100% { transform: translateY(0px); }
+}

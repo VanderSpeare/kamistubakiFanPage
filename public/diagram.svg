@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 200 200" height="200" width="200">
+  
+  <path stroke-linejoin="round" stroke-width="18" stroke="#3B4A9B" d="M100 10 L170 50 L170 150 L100 190 L30 150 L30 50 Z"></path>
+  
+  
+  <path stroke-linejoin="round" stroke-width="8" stroke="#3B4A9B" d="M100 20 L165 55 L165 145 L100 180 L35 145 L35 55 Z"></path>
+  
+  
+  <text fill="#3B4A9B" text-anchor="middle" font-weight="700" font-size="52" font-family="sans-serif" y="95" x="100">大</text>
+  <text fill="#3B4A9B" text-anchor="middle" font-weight="700" font-size="52" font-family="sans-serif" y="135" x="100">智</text>
+</svg>

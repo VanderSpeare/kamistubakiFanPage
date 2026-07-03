@@ -1,0 +1,14 @@
+<svg id="arrow_t" xmlns="http://www.w3.org/2000/svg" width="29.656" height="64.9" viewBox="0 0 29.656 64.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ff3600;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="線_2" data-name="線 2" class="cls-1" d="M698.712,6590.77h-0.26v-62.94h0.26v62.94Z" transform="translate(-683.844 -6526.38)"/>
+  <path id="三角形_2" data-name="三角形 2" class="cls-1" d="M684.253,6545.76l14.422-18.58,14.421,18.58" transform="translate(-683.844 -6526.38)"/>
+</svg>

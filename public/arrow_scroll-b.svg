@@ -1,0 +1,14 @@
+<svg id="btn_scroll" xmlns="http://www.w3.org/2000/svg" width="29.656" height="64.9" viewBox="0 0 29.656 64.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ff3600;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="線_2" data-name="線 2" class="cls-1" d="M700.288,1033.42h0.26v62.93h-0.26v-62.93Z" transform="translate(-685.5 -1032.91)"/>
+  <path id="三角形_2" data-name="三角形 2" class="cls-1" d="M714.746,1078.42l-14.421,18.59L685.9,1078.42" transform="translate(-685.5 -1032.91)"/>
+</svg>

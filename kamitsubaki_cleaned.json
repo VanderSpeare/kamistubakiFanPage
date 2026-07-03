@@ -1,0 +1,1444 @@
+{
+  "studio": {
+    "name": "KAMITSUBAKI STUDIO",
+    "founded": "2019",
+    "operator": "THINKR inc.",
+    "description": "Creative label quản lý virtual singers, artists, AI voice entities, producers, và mixed-media projects (Kamitsubaki City, etc.).",
+    "links": {
+      "official": "https://kamitsubaki.jp/",
+      "artists": "https://kamitsubaki.jp/artist/",
+      "events": "https://kamitsubaki.jp/event/",
+      "store": "https://findmestore.thinkr.jp/",
+      "tcg": "https://tcg.kamitsubaki.jp/"
+    }
+  },
+
+  "talents": [
+    {
+      "id": "kaf",
+      "name": "KAF",
+      "name_jp": "花譜",
+      "type": "Virtual Singer",
+      "debut": "2018",
+      "groups": ["V.W.P"],
+      "social": {
+        "youtube_main": "https://www.youtube.com/@virtual_kaf",
+        "youtube_sub": "https://www.youtube.com/@kaf_sub",
+        "site": "https://kaf.kamitsubaki.jp/"
+      },
+      "notes": "Pioneer talent. Voice provider cho KAFU."
+    },
+    {
+      "id": "rim",
+      "name": "RIM",
+      "name_jp": "理芽",
+      "type": "Virtual Singer",
+      "debut": "2019",
+      "groups": ["V.W.P"],
+      "social": {
+        "youtube_main": "https://www.youtube.com/channel/UCfBkUgaJ6eqYA9_TX2cmq9A",
+        "youtube_membership": "https://www.youtube.com/@RIMstrangegirlclub",
+        "x": "@RIM_virtual"
+      },
+      "notes": "Known for covers in multiple languages."
+    },
+    {
+      "id": "harusaruhi",
+      "name": "Harusaruhi",
+      "name_jp": "春猿火",
+      "type": "Virtual Singer/Rapper",
+      "debut": "~2019",
+      "groups": ["V.W.P"],
+      "social": {
+        "youtube": "Via studio & collab uploads",
+        "x": "Via @kamitsubaki_jp"
+      },
+      "notes": ""
+    },
+    {
+      "id": "isekaijoucho",
+      "name": "Isekaijoucho",
+      "name_jp": "ヰ世界情緒",
+      "type": "Virtual Singer",
+      "debut": "~2020",
+      "groups": ["V.W.P"],
+      "social": {
+        "youtube": "Studio channels",
+        "x": "Via studio"
+      },
+      "notes": ""
+    },
+    {
+      "id": "koko",
+      "name": "KOKO",
+      "name_jp": "幸祜",
+      "type": "Virtual Singer",
+      "debut": "~2020",
+      "groups": ["V.W.P"],
+      "social": {
+        "youtube": "Studio channels",
+        "x": "Via studio"
+      },
+      "notes": ""
+    },
+    {
+      "id": "kafu",
+      "name": "KAFU",
+      "name_jp": "可不",
+      "type": "AI Agent Singer / CeVIO AI Musical Isotope",
+      "debut": "2021-07",
+      "voice_provider": "KAF",
+      "groups": [],
+      "social": {
+        "site": "https://kaf-u.kamitsubaki.jp/",
+        "youtube": "Featured in KAF/studio videos"
+      },
+      "notes": "Voice synthesizer developed by Kamitsubaki. Used in songs & projects. (Không phải nghệ sĩ biểu diễn trực tiếp trong live)."
+    },
+    {
+      "id": "kuusou",
+      "name": "Kuusou",
+      "name_jp": "空爽",
+      "type": "Virtual Artist",
+      "debut": "Recent",
+      "groups": [],
+      "social": {
+        "youtube": "Studio channels",
+        "x": "Via @kamitsubaki_jp"
+      },
+      "notes": "1st EP 'CYAN' phát hành 2026."
+    },
+    {
+      "id": "akari",
+      "name": "Akari",
+      "name_jp": "明透",
+      "type": "Virtual Artist",
+      "debut": "",
+      "groups": [],
+      "social": {
+        "youtube": "Studio",
+        "x": "Via studio"
+      },
+      "notes": ""
+    },
+    {
+      "id": "bimai",
+      "name": "Bimai",
+      "name_jp": "琶舞",
+      "type": "Virtual Artist",
+      "debut": "",
+      "groups": [],
+      "social": {
+        "youtube": "Studio",
+        "x": "Via studio"
+      },
+      "notes": ""
+    },
+    {
+      "id": "ciel",
+      "name": "CIEL",
+      "name_jp": "",
+      "type": "Virtual Artist",
+      "debut": "",
+      "groups": [],
+      "social": {
+        "youtube": "Studio (e.g. Strawberry Live streams)",
+        "x": "Via studio"
+      },
+      "notes": "Cover lives"
+    },
+    {
+      "id": "empty_old_city",
+      "name": "Empty old City",
+      "name_jp": "",
+      "type": "Virtual Unit/Artist",
+      "debut": "",
+      "groups": [],
+      "social": {
+        "youtube": "Studio",
+        "x": "Via studio"
+      },
+      "notes": "2nd ONE-MAN LIVE dự kiến 2026."
+    },
+    {
+      "id": "valis",
+      "name": "VALIS",
+      "name_jp": "",
+      "type": "Virtual Girls Group",
+      "debut": "",
+      "members": ["CHINO", "MYU", "NEFFY", "RARA", "VITTE"],
+      "social": {
+        "youtube": "Studio",
+        "x": "Via studio"
+      },
+      "notes": "7th ONE-MAN LIVE (2025), tạm ngưng hoạt động sau show này."
+    },
+    {
+      "id": "girls_revolution_project",
+      "name": "Girls Revolution Project",
+      "name_jp": "少女革命計画",
+      "type": "Unit (Sinseiki / Tsumitobatsu)",
+      "debut": "",
+      "members": ["Kakyo-in", "Orihime", "Garasumiya", "Mikoto", "Yunagi", "Hinageshi", "etc."],
+      "sub_units": ["Shinseiki", "Tsumitobatsu"],
+      "social": {
+        "youtube": "Studio",
+        "x": "Via studio"
+      },
+      "notes": "Story + music unit"
+    },
+    {
+      "id": "anmc",
+      "name": "ANMC",
+      "name_jp": "",
+      "type": "Virtual Artists",
+      "debut": "",
+      "members": ["kahoca", "一ノ瀬陽鞠"],
+      "social": {
+        "youtube": "Studio",
+        "x": "Via studio"
+      },
+      "notes": "Game collabs"
+    }
+  ],
+
+  "anime_project": {
+    "title": "Kamitsubaki City Under Construction",
+    "year": 2025,
+    "type": "Anime",
+    "characters": [
+      { "character": "Kafu Morisaki", "character_jp": "森先 化歩", "voiced_by": "kaf" },
+      { "character": "Rime Tanioki", "character_jp": "谷置 狸眼", "voiced_by": "rim" },
+      { "character": "Haru Asanushi", "character_jp": "朝主 派流", "voiced_by": "harusaruhi" },
+      { "character": "Sekai Yorukawa", "character_jp": "夜河 世界", "voiced_by": "isekaijoucho" },
+      { "character": "Koko Rinne", "character_jp": "輪廻 此処", "voiced_by": "koko" }
+    ]
+  },
+
+  "series": [
+    {
+      "id": "series_2026_kamitsubaki_wars",
+      "title": "KAMITSUBAKI WARS 2026 神椿横浜戦線",
+      "series_name": "KAMITSUBAKI WARS",
+      "year": 2026,
+      "description": "Chuỗi 2 đêm diễn tại Pacifico Yokohama, gồm 1 đêm FES nhiều nghệ sĩ và 1 đêm ONE-MAN LIVE của KAF. Venue/vé/goods chung được khai báo ở đây, chi tiết từng đêm nằm trong events tương ứng (event_ids).",
+      "event_ids": ["event_2026_kamitsubaki_fes_day1", "event_2026_kaf_5th_oneman_live"],
+      "venue": {
+        "name": "Pacifico Yokohama National Hall",
+        "name_jp": "パシフィコ横浜 国立大ホール",
+        "address": "1-1-1 Minato Mirai, Nishi-ku, Yokohama, Kanagawa 220-0012, Japan",
+        "nearest_stations": [
+          { "station": "Minatomirai Station", "walk": "5 minutes" },
+          { "station": "Sakuragicho Station", "walk": "12 minutes" }
+        ],
+        "google_maps": "https://maps.app.goo.gl/yZDCcKTif4eRJoSh6",
+        "venue_map_url": "TBA"
+      },
+      "tickets_general": {
+        "official_page": "https://kamitsubaki.jp/event/",
+        "sales_status": "Official ticket sales announced through KAMITSUBAKI STUDIO. Some categories may sell out during lottery sales before general sale.",
+        "streaming": "Streaming ticket information announced separately per performance."
+      },
+      "merchandise_general": {
+        "official_store": "https://findmestore.thinkr.jp/",
+        "preorder_available": true,
+        "venue_sales_available": true,
+        "goods_examples": [
+          "Event T-shirts", "Acrylic stands", "Random can badges",
+          "Key visual posters", "Towels", "Light sticks",
+          "Trading cards", "Acrylic keychains"
+        ]
+      },
+      "related_products": [
+        {
+          "name": "KAMITSUBAKI WARS '26 EXTRA PACK",
+          "type": "KAMITSUBAKI CARD GAME",
+          "release_date": "2026-02-28",
+          "price_jpy": 500,
+          "description": "30-card collection themed after KAMITSUBAKI WARS 2026."
+        },
+        {
+          "name": "KAMITSUBAKI LIVE KEY VISUAL EXTRA PACK",
+          "type": "KAMITSUBAKI CARD GAME",
+          "release_date": "2026-05-03",
+          "price_jpy": 500
+        }
+      ],
+      "official_links": {
+        "event": "https://kamitsubaki.jp/event/",
+        "news": "https://kamitsubaki.jp/news/2026/05/12/11008/",
+        "goods": "https://findmestore.thinkr.jp/",
+        "tcg": "https://tcg.kamitsubaki.jp/"
+      }
+    }
+  ],
+
+  "events": [
+    {
+      "id": "event_2026_kamitsubaki_fes_day1",
+      "series_id": "series_2026_kamitsubaki_wars",
+      "title": "KAMITSUBAKI FES '26 FIELD OF RESONANCE",
+      "type": "fes",
+      "year": 2026,
+      "date": "2026-09-05",
+      "open": "16:00",
+      "start": "17:00",
+      "venue_ref": "series_2026_kamitsubaki_wars.venue",
+      "performers": [
+        { "artist_id": "kaf", "role": "Performer" },
+        { "artist_id": "rim", "role": "Performer" },
+        { "artist_id": "harusaruhi", "role": "Performer" },
+        { "artist_id": "isekaijoucho", "role": "Performer" },
+        { "artist_id": "koko", "role": "Performer" },
+        { "artist_id": "kuusou", "role": "Performer" },
+        { "artist_id": "akari", "role": "Performer" },
+        { "artist_id": "bimai", "role": "Performer" },
+        { "artist_id": "girls_revolution_project", "role": "Performer", "sub_unit": "Shinseiki" },
+        { "artist_id": "girls_revolution_project", "role": "Performer", "sub_unit": "Tsumitobatsu" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official announcement, kamitsubaki.jp/news (2026-05-12)",
+      "tickets_ref": "series_2026_kamitsubaki_wars.tickets_general",
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general"
+    },
+
+    {
+      "id": "event_2026_kaf_5th_oneman_live",
+      "series_id": "series_2026_kamitsubaki_wars",
+      "title": "KAF 5th ONE-MAN LIVE『宿声 / 深愛（巡）』",
+      "type": "one_man_live",
+      "year": 2026,
+      "date": "2026-09-06",
+      "open": "16:30",
+      "start": "17:30",
+      "venue_ref": "series_2026_kamitsubaki_wars.venue",
+      "performers": [
+        { "artist_id": "kaf", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "goods_special": "TBA — thường có goods riêng ngoài goods_general của series, ví dụ merch riêng theo theme '宿声 / 深愛（巡）'. Cập nhật khi có công bố.",
+      "ticket_special": "TBA — kiểm tra xem có bán vé combo 2 ngày hay tách riêng.",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official announcement, kamitsubaki.jp/news (2026-05-12). Lưu ý: tên/ngày/venue đã xác nhận chính thức, nhưng setlist và goods riêng của đêm này (goods_special) vẫn chưa công bố — theo dõi field đó riêng.",
+      "tickets_ref": "series_2026_kamitsubaki_wars.tickets_general",
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general"
+    },
+
+    {
+      "id": "event_2026_kuusou_cyan_release",
+      "title": "Kuusou 1st EP『CYAN』Release Event",
+      "type": "release_event",
+      "year": 2026,
+      "date": "TBA",
+      "venue": "TBA",
+      "performers": [
+        { "artist_id": "kuusou", "role": "Featured Artist" }
+      ],
+      "release_info": {
+        "product": "1st EP『CYAN』",
+        "tracklist": "TBA",
+        "formats": "TBA"
+      },
+      "tickets": "TBA",
+      "goods": "TBA",
+      "status": "Announced",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Chỉ có trong notes gốc của talent Kuusou ('1st EP CYAN (2026)'), chưa có announcement event chính thức riêng — chưa rõ có 'release event' thật hay chỉ là ngày phát hành digital.",
+      "notes": "Dữ liệu gốc chỉ có tên EP, chưa có ngày/venue/tracklist cụ thể."
+    },
+
+    {
+      "id": "event_2026_empty_old_city_oneman_live_2",
+      "title": "Empty old City 2nd ONE-MAN LIVE",
+      "type": "one_man_live",
+      "year": 2026,
+      "date": "TBA",
+      "venue": "TBA",
+      "performers": [
+        { "artist_id": "empty_old_city", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "tickets": "TBA",
+      "goods": "TBA",
+      "status": "Announced",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Chỉ có trong notes gốc của talent Empty old City ('2nd ONE-MAN LIVE (2026)'), chưa có announcement event chính thức riêng (ngày/venue/vé).",
+      "notes": "Dữ liệu gốc chỉ ghi tên show, chưa có ngày/venue cụ thể."
+    },
+
+    {
+      "id": "event_2026_anmc_collab_live",
+      "title": "ANMC Game Collaboration Live",
+      "type": "collab_live",
+      "year": 2026,
+      "date": "TBA",
+      "venue": "TBA",
+      "performers": [
+        { "artist_id": "anmc", "role": "Performer" }
+      ],
+      "collab_partner": "TBA — game hợp tác chưa xác định trong dữ liệu gốc",
+      "setlist": "TBA",
+      "tickets": "TBA",
+      "goods": "TBA",
+      "status": "Announced",
+      "data_completeness": "placeholder",
+      "confidence": "low",
+      "source": "Không có announcement — event này được Claude suy ra/dựng khung từ notes rất sơ bộ ('Game collabs') của talent ANMC trong dữ liệu gốc. Chưa xác nhận có sự kiện live thật nào tồn tại dưới tên này.",
+      "notes": "Dữ liệu gốc chỉ ghi 'Game collabs' trong notes của ANMC, chưa có tên game/ngày/venue cụ thể."
+    },
+
+    {
+      "id": "event_2026_popup_store_01",
+      "title": "KAMITSUBAKI STUDIO Popup Store / Exhibition 2026",
+      "type": "exhibition_popup_store",
+      "year": 2026,
+      "date": "TBA",
+      "venue": "TBA",
+      "performers": [],
+      "featured_talents": [],
+      "goods": "TBA",
+      "status": "Placeholder — chưa có dữ liệu nguồn",
+      "data_completeness": "placeholder",
+      "confidence": "low",
+      "source": "Không có nguồn nào trong dữ liệu gốc đề cập popup store/exhibition cụ thể cho 2026. Object này hoàn toàn là khung mẫu (template) do Claude dựng sẵn theo yêu cầu, không phản ánh sự kiện có thật đã được công bố.",
+      "notes": "Khung sẵn để thêm các popup store/exhibition trong năm 2026. Vì loại sự kiện này không gắn với performer cụ thể (mảng 'performers' để trống), nếu 1 popup gắn riêng cho 1 nghệ sĩ (VD: popup riêng của KAF), điền vào 'featured_talents'. Có thể nhân bản object này cho mỗi popup/exhibition mới, đổi id thành event_2026_popup_store_02, _03..."
+    },
+        {
+      "id": "event_2026_vwp_4th_oneman_live",
+      "series_id": "series_2026_kamitsubaki_wars",
+      "title": "V.W.P 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+      "type": "one_man_live",
+      "year": 2026,
+      "date": "2026-02-28",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Pia Arena MM",
+        "name_jp": "ぴあアリーナMM",
+        "address": "Yokohama, Kanagawa, Japan",
+        "nearest_stations": "TBA"
+      },
+      "performers": [
+        { "artist_id": "kaf", "role": "Performer" },
+        { "artist_id": "rim", "role": "Performer" },
+        { "artist_id": "harusaruhi", "role": "Performer" },
+        { "artist_id": "isekaijoucho", "role": "Performer" },
+        { "artist_id": "koko", "role": "Performer" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official announcement from kamitsubaki.jp and Z-aN (2025-2026 announcements)",
+      "tickets_ref": "series_2026_kamitsubaki_wars.tickets_general",
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+      "notes": "Đây là V.W.P 4th ONE-MAN LIVE, thuộc chuỗi KAMITSUBAKI WARS 2026. Chủ đề \"現象Ⅳ-反転運命-\" (Phenomenon IV - Reversal of Fate). Đây là show lớn sau anime Kamitsubaki City Under Construction."
+    },
+
+    {
+      "id": "event_2026_kaf_5th_oneman_live",
+      "series_id": "series_2026_kamitsubaki_wars",
+      "title": "KAF 5th ONE-MAN LIVE「宿声 / 深愛（巡）」",
+      "type": "one_man_live",
+      "year": 2026,
+      "date": "2026-09-06",
+      "open": "16:30",
+      "start": "17:30",
+      "venue_ref": "series_2026_kamitsubaki_wars.venue",
+      "performers": [
+        { "artist_id": "kaf", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official announcement from kamitsubaki.jp (2026-05-12) and Z-aN",
+      "tickets_ref": "series_2026_kamitsubaki_wars.tickets_general",
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+      "goods_special": [
+        "C4U KAF 3D rubber charm (diameter ~7cm)",
+        "Reversible eye mask & blanket set (Special ver.)",
+        "KAF×vaultroom TEE",
+        "Limited goods via FINDME STORE pre-order"
+      ],
+      "notes": "Đây là show solo thứ 5 của KAF, chủ đề \"宿声 / 深愛（巡）\" nhấn mạnh origin return và possibility expansion. Là DAY-2 của KAMITSUBAKI WARS 2026 Yokohama. Có vé combo 2 ngày, streaming trên Z-aN, và collab với HIS (hotel plan + goods)."
+    },
+
+    {
+      "id": "event_2026_kamitsubaki_fes_day1",
+      "series_id": "series_2026_kamitsubaki_wars",
+      "title": "KAMITSUBAKI FES '26 FIELD OF RESONANCE",
+      "type": "fes",
+      "year": 2026,
+      "date": "2026-09-05",
+      "open": "16:00",
+      "start": "17:00",
+      "venue_ref": "series_2026_kamitsubaki_wars.venue",
+      "performers": [
+        { "artist_id": "kaf", "role": "Performer" },
+        { "artist_id": "rim", "role": "Performer" },
+        { "artist_id": "harusaruhi", "role": "Performer" },
+        { "artist_id": "isekaijoucho", "role": "Performer" },
+        { "artist_id": "koko", "role": "Performer" },
+        { "artist_id": "kuusou", "role": "Performer" },
+        { "artist_id": "akari", "role": "Performer" },
+        { "artist_id": "bimai", "role": "Performer" },
+        { "artist_id": "girls_revolution_project", "role": "Performer", "sub_unit": "Shinseiki" },
+        { "artist_id": "girls_revolution_project", "role": "Performer", "sub_unit": "Tsumitobatsu" },
+        { "artist_id": "girls_revolution_project", "role": "Performer", "sub_unit": "罪十罰" },
+        { "artist_id": "girls_revolution_project", "role": "Performer", "sub_unit": "心世紀" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official announcement from kamitsubaki.jp (2026-05-12)",
+      "tickets_ref": "series_2026_kamitsubaki_wars.tickets_general",
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+      "goods_special": [
+        "KAMITSUBAKI FES 2026 T-shirt (Black ver. & White ver.)",
+        "Artist visual & logo design goods",
+        "Light sticks, towels, acrylic goods, random badges"
+      ],
+      "notes": "Đây là DAY-1 của KAMITSUBAKI WARS 2026 Yokohama. Chủ đề \"FIELD OF RESONANCE\" tập trung spotlight vào các virtual artists. Kết hợp với DAY-2 là solo live của KAF."
+    },
+    {
+      "id": "event_2026_kaf_5th_oneman_live",
+      "series_id": "series_2026_kamitsubaki_wars",
+      "title": "KAF 5th ONE-MAN LIVE「宿声 / 深愛（巡）」",
+      "type": "one_man_live",
+      "year": 2026,
+      "date": "2026-09-06",
+      "open": "16:30",
+      "start": "17:30",
+      "venue_ref": "series_2026_kamitsubaki_wars.venue",
+      "performers": [
+        { "artist_id": "kaf", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official announcement from kamitsubaki.jp (2026-05-12) và Z-aN",
+      "tickets_ref": "series_2026_kamitsubaki_wars.tickets_general",
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+      "goods_special": [
+        "C4U KAF 3D rubber charm (đường kính ~7cm)",
+        "Reversible eye mask & blanket set (Special ver.)",
+        "KAF×vaultroom TEE",
+        "Limited goods qua FINDME STORE pre-order",
+        "Collab HIS hotel plan kèm goods"
+      ],
+      "notes": "Đây là show solo thứ 5 của KAF, chủ đề \"宿声 / 深愛（巡）\" nhấn mạnh việc quay về cội nguồn và mở rộng khả năng. Là DAY-2 của KAMITSUBAKI WARS 2026 Yokohama. Có vé streaming trên Z-aN và combo vé 2 ngày."
+    },
+
+    {
+      "id": "event_2025_singularity_live_vol4",
+      "series_id": null,
+      "title": "Singularity Live Vol.4 - Harusaruhi × Isekaijoucho TWO-MAN LIVE",
+      "type": "two_man_live",
+      "year": 2025,
+      "date": "2025-11-03",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Kanadevia Hall (Tokyo Dome City Hall)",
+        "name_jp": "Kanadevia Hall",
+        "address": "Tokyo, Japan"
+      },
+      "performers": [
+        { "artist_id": "harusaruhi", "role": "Performer" },
+        { "artist_id": "isekaijoucho", "role": "Performer" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official PR Times & kamitsubaki.jp announcement (2025)",
+      "tickets_ref": null,
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+      "goods_special": [
+        "Artist-specific T-shirts",
+        "Key visual zipper bag",
+        "Multi pouch for fan goods",
+        "Acrylic stands, badges, towels"
+      ],
+      "notes": "Đây là Vol.4 của chuỗi Singularity Live (two-man series). Vol.1 là RIM & Isekaijoucho, Vol.2 là Harusaruhi & KOKO. Diễn ra cùng ngày với KAMITSUBAKI FES '25 OUR ONE-DAY WAR (DAY-2 của WARS 2025)."
+    },
+    {
+      "id": "event_singularity_live_vol3",
+      "series_id": null,
+      "title": "Singularity Live Vol.3",
+      "type": "two_man_live",
+      "year": 2025,
+      "date": "TBA",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "TBA (Tokyo area)",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "TBA", "role": "Performer" },
+        { "artist_id": "TBA", "role": "Performer" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced / Upcoming",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Chuỗi Singularity Live (two-man series) của KAMITSUBAKI STUDIO. Vol.4 đã xác nhận là Harusaruhi × Isekaijoucho (2025-11). Vol.3 chưa có announcement chính thức chi tiết (ngày, venue, cặp đôi) trong dữ liệu hiện tại.",
+      "tickets_ref": null,
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+      "goods_special": [
+        "Artist-specific T-shirts",
+        "Key visual goods",
+        "Acrylic stands, badges"
+      ],
+      "notes": "Singularity Live là chuỗi two-man live. Vol.1: RIM & Isekaijoucho, Vol.2: Harusaruhi & KOKO, Vol.4: Harusaruhi & Isekaijoucho. Vol.3 chưa có thông tin công bố cụ thể (cặp đôi, ngày diễn) tại thời điểm dataset này được cập nhật."
+    },
+
+    {
+      "id": "event_singularity_live_vol1",
+      "series_id": null,
+      "title": "Singularity Live Vol.1 - RIM × Isekaijoucho TWO-MAN LIVE",
+      "type": "two_man_live",
+      "year": 2025,
+      "date": "TBA",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "TBA (Tokyo area)",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "rim", "role": "Performer" },
+        { "artist_id": "isekaijoucho", "role": "Performer" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Chuỗi Singularity Live (two-man series) của KAMITSUBAKI STUDIO",
+      "tickets_ref": null,
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+      "goods_special": [
+        "Artist-specific T-shirts",
+        "Collab goods",
+        "Acrylic stands, badges"
+      ],
+      "notes": "Vol.1 của chuỗi Singularity Live."
+    },
+
+    {
+      "id": "event_singularity_live_vol2",
+      "series_id": null,
+      "title": "Singularity Live Vol.2 - Harusaruhi × KOKO TWO-MAN LIVE",
+      "type": "two_man_live",
+      "year": 2025,
+      "date": "TBA",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "TBA (Tokyo area)",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "harusaruhi", "role": "Performer" },
+        { "artist_id": "koko", "role": "Performer" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Chuỗi Singularity Live (two-man series) của KAMITSUBAKI STUDIO",
+      "tickets_ref": null,
+      "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+      "goods_special": [
+        "Artist-specific T-shirts",
+        "Collab goods",
+        "Acrylic stands, badges"
+      ],
+      "notes": "Vol.2 của chuỗi Singularity Live."
+    },
+    {
+      "id": "event_2026_animejapan_kamitsubaki_city",
+      "title": "Kamitsubaki City Under Construction Special Stage",
+      "series": "AnimeJapan 2026",
+      "type": "exhibition_stage_event",
+      "year": 2026,
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Đã diễn ra (status: Completed), thông tin đầy đủ về ngày/venue/performers.",
+      "related_anime_project": "Kamitsubaki City Under Construction",
+      "date": "2026-03-28",
+      "venue": {
+        "name": "Tokyo Big Sight",
+        "hall": "AnimeJapan 2026 Exhibition Area / Special Stage",
+        "city": "Tokyo",
+        "country": "Japan"
+      },
+      "organizer": "AnimeJapan",
+      "participating_organization": "KAMITSUBAKI STUDIO",
+      "performers": [
+        { "artist_id": "kaf", "role": "Voice Actress / Virtual Singer", "character": "Kafu Morisaki" },
+        { "artist_id": "rim", "role": "Voice Actress / Virtual Singer", "character": "Rime Tanioki" },
+        { "artist_id": "harusaruhi", "role": "Voice Actress / Virtual Singer", "character": "Haru Asanushi" },
+        { "artist_id": "isekaijoucho", "role": "Voice Actress / Virtual Singer", "character": "Sekai Yorukawa" },
+        { "artist_id": "koko", "role": "Voice Actress / Virtual Singer", "character": "Koko Rinne" }
+      ],
+      "schedule": {
+        "public_days": ["2026-03-28", "2026-03-29"],
+        "business_days": ["2026-03-30", "2026-03-31"],
+        "stage_time": "TBA"
+      },
+      "ticket": {
+        "required": true,
+        "event_ticket": "AnimeJapan 2026 Admission Ticket",
+        "stage_lottery": "Some stages require advance lottery reservation.",
+        "official_ticket_page": "https://anime-japan.jp/en/tickets/"
+      },
+      "goods": {
+        "venue_goods": true,
+        "official_goods": true,
+        "kamitsubaki_goods": [
+          "Kamitsubaki City merchandise", "Character acrylic stands",
+          "Illustration goods", "Postcards", "Can badges"
+        ],
+        "online_store": "https://findmestore.thinkr.jp/"
+      },
+      "streaming": {
+        "available": false,
+        "notes": "No official livestream announced at publication."
+      },
+      "related_media": ["Anime Promotion", "Voice Cast Talk", "Project Presentation"],
+      "official_links": {
+        "animejapan": "https://anime-japan.jp/en/",
+        "kamitsubaki_events": "https://kamitsubaki.jp/event/",
+        "store": "https://findmestore.thinkr.jp/"
+      },
+      "status": "Completed",
+      "last_updated": "2026-03-28"
+    },
+
+    {
+      "id": "event_2025_valis_oneman_live_7",
+      "title": "VALIS 7th ONE-MAN LIVE",
+      "type": "one_man_live",
+      "year": 2025,
+      "date": "TBA",
+      "venue": "TBA",
+      "performers": [
+        { "artist_id": "valis", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "tickets": "TBA",
+      "goods": "TBA",
+      "status": "Completed",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Sự kiện xác nhận ĐÃ diễn ra năm 2025 (theo notes gốc: '7th ONE-MAN LIVE, activity pause after'), nhưng ngày cụ thể/venue/setlist không có trong dữ liệu gốc.",
+      "notes": "Nhóm tạm ngưng hoạt động (activity pause) sau show này. Ngày/venue cụ thể chưa có trong dữ liệu gốc."
+    },
+    {
+      "id": "event_rim_1st_oneman_live",
+      "series_id": null,
+      "title": "RIM 1st ONE-MAN LIVE「NEUROMANCE」",
+      "type": "one_man_live",
+      "year": 2021,
+      "date": "2021-05",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "TBA",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "rim", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Official history of RIM",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["Album 'New Romancer'", "Live goods"],
+      "notes": "First solo live of RIM."
+    },
+    {
+      "id": "event_rim_2nd_oneman_live",
+      "series_id": null,
+      "title": "RIM 2nd ONE-MAN LIVE「NEUROMANCE II -神椿市壱番街-」",
+      "type": "one_man_live",
+      "year": 2023,
+      "date": "2023",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "TBA (Tokyo area)",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "rim", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "kamitsubaki.jp and RIM official channels",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["Album 'NEW ROMANCER2'", "Live goods, merch"],
+      "notes": "Second major solo live, tied to 神椿市 theme."
+    },
+    {
+      "id": "event_harusaruhi_1st_oneman_live",
+      "series_id": null,
+      "title": "Harusaruhi 1st ONE-MAN LIVE「シャーマニズム」",
+      "type": "one_man_live",
+      "year": 2021,
+      "date": "2021-08-27",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Hulic Hall Tokyo",
+        "name_jp": "Hulic Hall Tokyo"
+      },
+      "performers": [
+        { "artist_id": "harusaruhi", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official Kamitsubaki history",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["Live goods, albums"],
+      "notes": "First solo live of Harusaruhi."
+    },
+    {
+      "id": "event_harusaruhi_2nd_oneman_live",
+      "series_id": null,
+      "title": "Harusaruhi 2nd ONE-MAN LIVE「シャーマニズムⅡ -神椿市弐番街-」",
+      "type": "one_man_live",
+      "year": 2024,
+      "date": "2024",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "TBA (Tokyo area)",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "harusaruhi", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "kamitsubaki.jp and live archives",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["Live goods, albums, 神椿市 themed merch"],
+      "notes": "Second major solo live, tied to Kamitsubaki City theme."
+    },
+    {
+      "id": "event_koko_oneman_live",
+      "series_id": null,
+      "title": "KOKO ONE-MAN LIVE",
+      "type": "one_man_live",
+      "year": 2025,
+      "date": "TBA",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "TBA (Tokyo area)",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "koko", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced / Upcoming",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Kamitsubaki Studio announcements",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["Live goods, albums"],
+      "notes": "Solo live của KOKO (chưa có ngày/venue chi tiết công bố)."
+    },
+    {
+      "id": "event_isekaijoucho_oneman_live",
+      "series_id": null,
+      "title": "Isekaijoucho ONE-MAN LIVE",
+      "type": "one_man_live",
+      "year": 2025,
+      "date": "TBA",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "TBA (Tokyo area)",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "isekaijoucho", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced / Upcoming",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Kamitsubaki Studio announcements",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["Live goods, albums"],
+      "notes": "Solo live của Isekaijoucho (chưa có ngày/venue chi tiết)."
+    },
+    {
+      "id": "event_empty_old_city_2nd_oneman_live",
+      "series_id": null,
+      "title": "Empty old City 2nd ONE-MAN LIVE 「Strings in Owl ||:echo:||」",
+      "type": "one_man_live",
+      "year": 2026,
+      "date": "2026-07-31",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "TBA",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "empty_old_city", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "kamitsubaki.jp/news (2026)",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["Live goods, albums"],
+      "notes": "Second solo live của Empty old City. Có thêm show."
+    },
+    {
+      "id": "event_valis_7th_oneman_live",
+      "series_id": null,
+      "title": "VALIS 7th ONE-MAN LIVE「彷徨フォーエバー」",
+      "type": "one_man_live",
+      "year": 2025,
+      "date": "2025-12-21",
+      "open": "17:00",
+      "start": "18:00",
+      "venue": {
+        "name": "Zepp Shinjuku",
+        "name_jp": "Zepp Shinjuku (TOKYO)"
+      },
+      "performers": [
+        { "artist_id": "valis", "role": "Headliner (group live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official kamitsubaki.jp",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["ぬいちゃんメタルキーホルダー (plush metal keyholder)", "Special signed images"],
+      "notes": "Last live trước khi VALIS tạm ngưng hoạt động."
+    },
+    {
+      "id": "event_ciel_strawberry_live_3",
+      "series_id": null,
+      "title": "CIEL STREAMING COVER LIVE「ストロベリーライブ3」",
+      "type": "streaming_cover_live",
+      "year": 2026,
+      "date": "2026-07-25",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Online (YouTube)",
+        "name_jp": "YouTube Live"
+      },
+      "performers": [
+        { "artist_id": "ciel", "role": "Headliner" }
+      ],
+      "setlist": "Cover songs",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "kamitsubaki.jp/news (2026-06-27)",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Free streaming cover live trên YouTube official."
+    },
+    {
+      "id": "event_akari_bimai_joint_live",
+      "series_id": null,
+      "title": "Akari & Bimai Joint Live / New Song Release Event",
+      "type": "joint_live",
+      "year": 2026,
+      "date": "2026-05-06",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Online / TBA",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "akari", "role": "Performer" },
+        { "artist_id": "bimai", "role": "Performer" }
+      ],
+      "setlist": "New songs: \"Little Bit\" (Akari), \"月夜にマリアージュ\" (Bimai)",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "kamitsubaki.jp/news (2026-05-06)",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Simultaneous new song release + joint performance."
+    },
+    {
+      "id": "event_anmc_collab_live",
+      "series_id": null,
+      "title": "ANMC Game Collaboration Live / Mini Live",
+      "type": "collab_live",
+      "year": 2026,
+      "date": "TBA",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Online / Game event",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "anmc", "role": "Performer" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Kamitsubaki announcements",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Live liên quan đến game collaboration (Platonica Space, etc.)."
+    },
+    {
+      "id": "event_ciel_strawberry_live_3",
+      "series_id": null,
+      "title": "CIEL STREAMING COVER LIVE「ストロベリーライブ3」",
+      "type": "streaming_cover_live",
+      "year": 2026,
+      "date": "2026-07-25",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Online (YouTube)",
+        "name_jp": "YouTube Live"
+      },
+      "performers": [
+        { "artist_id": "ciel", "role": "Headliner" }
+      ],
+      "setlist": "Cover songs",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "kamitsubaki.jp/news (2026-06-27)",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Free streaming cover live trên YouTube official."
+    },
+    {
+      "id": "event_akari_bimai_joint_live",
+      "series_id": null,
+      "title": "Akari & Bimai Joint Live / New Song Release Event",
+      "type": "joint_live",
+      "year": 2026,
+      "date": "2026-05-06",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Online / TBA",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "akari", "role": "Performer" },
+        { "artist_id": "bimai", "role": "Performer" }
+      ],
+      "setlist": "New songs: \"Little Bit\" (Akari), \"月夜にマリアージュ\" (Bimai)",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "kamitsubaki.jp/news (2026-05-06)",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Simultaneous new song release + joint performance."
+    },
+    {
+      "id": "event_anmc_collab_live",
+      "series_id": null,
+      "title": "ANMC Game Collaboration Live / Mini Live",
+      "type": "collab_live",
+      "year": 2026,
+      "date": "TBA",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Online / Game event",
+        "name_jp": "TBA"
+      },
+      "performers": [
+        { "artist_id": "anmc", "role": "Performer" }
+      ],
+      "setlist": "TBA",
+      "status": "Announced",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "Kamitsubaki announcements",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Live liên quan đến game collaboration (Platonica Space, etc.)."
+    },
+    {
+      "id": "event_kaf_5th_album_release",
+      "series_id": null,
+      "title": "KAF 5th Album『深愛』Release",
+      "type": "album_release",
+      "year": 2026,
+      "date": "TBA",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Digital + Physical",
+        "name_jp": "Digital + Physical"
+      },
+      "performers": [
+        { "artist_id": "kaf", "role": "Artist" }
+      ],
+      "setlist": null,
+      "status": "Upcoming",
+      "data_completeness": "partial",
+      "confidence": "medium",
+      "source": "KAF 5th Live announcement",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["Album limited edition", "Merch bundle"],
+      "notes": "Album đặc biệt gắn liền với 5th ONE-MAN LIVE",
+      "links": {
+        "official": "https://kaf.kamitsubaki.jp/",
+        "store": "https://findmestore.thinkr.jp/"
+      }
+    },
+    {
+      "id": "event_kaf_membership_stream_vol43",
+      "series_id": null,
+      "title": "KAF YouTube MEMBERSHIP「未確認少女観測部 -配信番組 vol.43-」",
+      "type": "membership_stream",
+      "year": 2026,
+      "date": "TBA",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "YouTube Membership",
+        "name_jp": "YouTube Membership"
+      },
+      "performers": [
+        { "artist_id": "kaf", "role": "Host" }
+      ],
+      "setlist": "Talk + Music",
+      "status": "Regular",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "YouTube",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Series membership stream định kỳ",
+      "links": {
+        "example": "https://www.youtube.com/watch?v=pNgwyspYu08"
+      }
+    },
+    {
+      "id": "event_rim_new_song_insight",
+      "series_id": null,
+      "title": "RIM New Song「閃光だった / INSIGHT」Release",
+      "type": "song_release",
+      "year": 2025,
+      "date": "2025-07-30",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Digital",
+        "name_jp": "Digital"
+      },
+      "performers": [
+        { "artist_id": "rim", "role": "Artist" }
+      ],
+      "setlist": null,
+      "status": "Released",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official MV",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Ending theme cho anime Kamitsubaki City Under Construction",
+      "links": {
+        "mv": "https://www.youtube.com/watch?v=LYnF2X_mnBI"
+      }
+    },
+    {
+      "id": "event_ciel_strawberry_live_3",
+      "series_id": null,
+      "title": "CIEL STREAMING COVER LIVE「ストロベリーライブ3」",
+      "type": "streaming_cover_live",
+      "year": 2026,
+      "date": "2026-07-25",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "YouTube Live",
+        "name_jp": "YouTube Live"
+      },
+      "performers": [
+        { "artist_id": "ciel", "role": "Headliner" }
+      ],
+      "setlist": "Cover songs",
+      "status": "Announced",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "kamitsubaki.jp",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Free full streaming",
+      "links": {
+        "youtube": "https://www.youtube.com/channel/UCfBkUgaJ6eqYA9_TX2cmq9A (CIEL channel)"
+      }
+    },
+    {
+      "id": "event_kaf_3rd_oneman_live",
+      "series_id": null,
+      "title": "KAF 3rd ONE-MAN LIVE「不可解参(狂)」",
+      "type": "one_man_live",
+      "year": 2022,
+      "date": "2022-08",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Nippon Budokan",
+        "name_jp": "日本武道館"
+      },
+      "performers": [
+        { "artist_id": "kaf", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official archives",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["Blu-ray 2 discs (making-of + documentary)", "Photo booklet"],
+      "notes": "Lần đầu tiên virtual singer biểu diễn tại Nippon Budokan.",
+      "links": {
+        "blu-ray": "https://kaf.kamitsubaki.jp/discography/20230601/213/"
+      }
+    },
+    {
+      "id": "event_kaf_4th_oneman_live",
+      "series_id": null,
+      "title": "KAF 4th ONE-MAN LIVE「KAIKA (怪歌)」",
+      "type": "one_man_live",
+      "year": 2024,
+      "date": "2024-01-14",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "Yoyogi National Gymnasium",
+        "name_jp": "国立代々木競技場 第一体育館"
+      },
+      "performers": [
+        { "artist_id": "kaf", "role": "Headliner (solo live)" }
+      ],
+      "setlist": "TBA",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "kamitsubaki.jp",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": ["FMS Limited Pheasant Plushie", "Live goods"],
+      "notes": "First arena solo live của KAF.",
+      "links": {
+        "streaming": "https://www.zan-live.com/en/live/detail/10354"
+      }
+    },
+    {
+      "id": "event_kaf_anniversary_7th",
+      "series_id": null,
+      "title": "KAF 7th Anniversary Special Stream",
+      "type": "anniversary_stream",
+      "year": 2025,
+      "date": "2025",
+      "open": "TBA",
+      "start": "TBA",
+      "venue": {
+        "name": "YouTube",
+        "name_jp": "YouTube"
+      },
+      "performers": [
+        { "artist_id": "kaf", "role": "Host" }
+      ],
+      "setlist": "Special performance",
+      "status": "Completed",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "KAF official",
+      "tickets_ref": null,
+      "goods_ref": null,
+      "goods_special": [],
+      "notes": "Stream kỷ niệm 7 năm debut.",
+      "links": {
+        "video": "https://www.youtube.com/watch?v=vqGo8rPOqfg"
+      }
+    },
+    {
+      "id": "release_kaf_1st_ep_hana_to_shinzou",
+      "series_id": null,
+      "title": "KAF 1st EP「Hana to Shinzou (花と心臓)」",
+      "type": "ep_release",
+      "year": 2019,
+      "date": "2019-05-15",
+      "performers": [
+        { "artist_id": "kaf", "role": "Artist" }
+      ],
+      "status": "Released",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official discography",
+      "links": {
+        "official": "https://kaf.kamitsubaki.jp/"
+      }
+    },
+    {
+      "id": "release_kaf_1st_album_kansoku",
+      "series_id": null,
+      "title": "KAF 1st Full Album「Kansoku (観測)」",
+      "type": "album_release",
+      "year": 2019,
+      "date": "2019-09-11",
+      "performers": [
+        { "artist_id": "kaf", "role": "Artist" }
+      ],
+      "status": "Released",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official discography",
+      "links": {
+        "official": "https://kaf.kamitsubaki.jp/"
+      }
+    },
+    {
+      "id": "release_kaf_4th_album_fable",
+      "series_id": null,
+      "title": "KAF 4th Album「Fable」",
+      "type": "album_release",
+      "year": 2024,
+      "date": "2024-12-25",
+      "performers": [
+        { "artist_id": "kaf", "role": "Artist" }
+      ],
+      "status": "Released",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "Official",
+      "links": {
+        "streaming": "Apple Music / Spotify"
+      }
+    },
+    {
+      "id": "release_kaf_5th_album_shinai",
+      "series_id": null,
+      "title": "KAF 5th Album「深愛 (Shin'ai)」",
+      "type": "album_release",
+      "year": 2026,
+      "date": "2026 (TBA)",
+      "performers": [
+        { "artist_id": "kaf", "role": "Artist" }
+      ],
+      "status": "Upcoming",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "source": "5th Live announcement",
+      "links": {
+        "official": "https://kaf.kamitsubaki.jp/",
+        "store": "https://findmestore.thinkr.jp/collections/kaf"
+      },
+      "notes": "Album gắn liền với 5th ONE-MAN LIVE「宿声 / 深愛（巡）」"
+    },
+    {
+      "id": "release_kaf_rinne",
+      "series_id": null,
+      "title": "KAF Single「輪廻 (Rinne)」feat. V.W.P",
+      "type": "single_release",
+      "year": 2021,
+      "date": "2021",
+      "performers": [
+        { "artist_id": "kaf", "role": "Artist" }
+      ],
+      "status": "Released",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "links": {}
+    },
+    {
+      "id": "release_kaf_answer_english",
+      "series_id": null,
+      "title": "KAF Single「Answer (English Version)」",
+      "type": "single_release",
+      "year": 2024,
+      "date": "2024-10-23",
+      "performers": [
+        { "artist_id": "kaf", "role": "Artist" }
+      ],
+      "status": "Released",
+      "data_completeness": "confirmed",
+      "confidence": "high",
+      "links": {}
+    }
+  ],
+
+  "meta": {
+    "schema_version": "2.0",
+    "source_notes": "File gốc chứa lỗi cú pháp JSON (key trùng lặp, block AnimeJapan 2026 bị lặp 2 lần y hệt, 'status' và 'official_links' bị lồng sai). Một số sự kiện (Kuusou EP, Empty old City live, ANMC collab, VALIS live, popup store) chỉ có tên/mô tả sơ lược trong 'notes' gốc, không có ngày/venue/setlist cụ thể — đánh dấu 'TBA' thay vì bịa số liệu.",
+    "data_completeness_scale": {
+      "confirmed": "Có announcement/nguồn chính thức xác nhận (event name, ngày, venue). Có thể vẫn thiếu vài field phụ (setlist, goods riêng) — check field đó riêng, không suy ra là cả event chưa chắc chắn.",
+      "partial": "Sự kiện có thật / tên đã được nhắc tới trong nguồn (kể cả đã diễn ra), nhưng thiếu thông tin cốt lõi như ngày/venue cụ thể — không nên coi các field 'TBA' trong nhóm này là suy đoán, mà là 'chưa công bố/chưa ghi nhận'.",
+      "placeholder": "KHÔNG có nguồn xác nhận sự kiện này tồn tại dưới hình thức/tên gọi như vậy. Object chỉ là khung mẫu do Claude dựng theo yêu cầu người dùng để tiện điền sau. Khi dùng cho RAG, nên loại các event 'placeholder' khỏi câu trả lời trừ khi người dùng hỏi rõ về khung dữ liệu, để tránh AI trả lời như thể đó là tin đã xác nhận."
+    },
+    "design_notes": [
+      "Bỏ 'performance_index' thủ công của phiên bản trước — dễ lệch dữ liệu khi thêm event mới. Thay vào đó, lịch diễn của 1 nghệ sĩ/nhóm = filter events[] theo performers[].artist_id. Ví dụ pseudo-query: events.filter(e => e.performers.some(p => p.artist_id === 'kaf')).",
+      "Mỗi event có 3 field 'data_completeness' / 'confidence' / 'source' để hệ RAG lọc/cảnh báo độ tin cậy trước khi trả lời — filter theo data_completeness khi cần chỉ trả lời dựa trên tin đã xác nhận: events.filter(e => e.data_completeness === 'confirmed').",
+      "Mỗi 'event' là 1 object độc lập, tự chứa đủ field (setlist, ticket, goods, venue...) để có thể dùng làm 1 chunk/document riêng khi đưa vào RAG — không cần join nhiều nơi mới đọc được thông tin.",
+      "Các show con của cùng 1 chuỗi lớn (VD: KAMITSUBAKI WARS 2 đêm) được tách thành event riêng, dùng 'series_id' trỏ về object trong 'series[]' để dùng chung venue/ticket/goods, tránh lặp dữ liệu nhưng vẫn cho phép mỗi đêm có setlist/goods riêng.",
+      "'type' của event dùng enum chữ thường, gạch dưới (one_man_live, fes, release_event, collab_live, exhibition_popup_store...) để filter/metadata search nhất quán.",
+      "Khi thêm event mới: chỉ cần push 1 object vào events[], gán đúng performers[].artist_id khớp với talents[].id — KHÔNG cần sửa gì ở talents[] hay bất kỳ đâu khác.",
+      "Khi thêm nghệ sĩ mới: chỉ cần push vào talents[] — không ảnh hưởng tới events[] cho tới khi họ thực sự tham gia 1 show."
+    ],
+    "last_cleaned": "2026-07-01"
+  }
+}
