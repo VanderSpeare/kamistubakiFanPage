@@ -1,0 +1,63 @@
+# Backend wiring — setup checklist
+
+## 1. Install deps
+```
+npm install qs jsonwebtoken
+```
+(`mongoose`, `express` you already have.)
+
+## 2. Mount the new routes in your main server file
+Add alongside your existing `app.use('/api/notifications', ...)` etc.:
+```js
+app.use('/api/products', require('./routes/products'));         // public storefront
+app.use('/api/admin/products', require('./routes/adminProducts')); // protected CRUD
+app.use('/api/vnpay', require('./routes/vnpay'));
+```
+And add one route to whatever file currently wires up `googleCallback`:
+```js
+const { protect } = require('./middleware/auth');
+router.get('/me', protect, authController.getMe);
+```
+
+## 3. .env additions
+```
+JWT_SECRET=...              # MUST match whatever utils/generateToken.js already signs with
+VNP_TMNCODE=...             # from your VNPay merchant portal
+VNP_HASHSECRET=...          # from your VNPay merchant portal — never expose this to the frontend
+VNP_URL=https://sandbox.vnpayment.vn/paymentgateway/paygate.php   # sandbox; swap for prod URL when ready
+VNP_RETURNURL=http://localhost:5000/api/vnpay/return
+FRONTEND_URL=http://localhost:5173
+```
+
+## 4. Frontend .env
+```
+VITE_API_BASE=http://localhost:5000
+```
+
+## 5. Things I assumed — please confirm/fix
+- **`utils/generateToken.js`** signs `{ id: user._id }` with `process.env.JWT_SECRET`.
+  `middleware/auth.js` decodes assuming this shape — adjust the two marked
+  lines in that file if your payload/secret differ.
+- **User model has (or gets) an `isAdmin: Boolean` field.** Add it if it's
+  not there yet, and manually flip it to `true` on your own user document.
+- **Frontend stores the JWT under `localStorage.getItem('token')`** — both
+  `productStore.js` and `Admin.jsx` assume this key name.
+- **Google OAuth start route is `/api/auth/google`** — `Admin.jsx`'s login
+  button links here. Confirm against however you've actually mounted
+  `passport.authenticate('google', ...)`.
+- **Folder casing**: `authController.js` imports `../Models/User.js`
+  (capital M) while every other file here uses lowercase `models/`. Pick one
+  — a case-sensitive Linux prod host will 500 on whichever doesn't match the
+  real folder name, even though it's silently fine on Windows/Mac dev
+  machines.
+
+## 6. VNPay notes
+- Sandbox test cards/flow: https://sandbox.vnpayment.vn (your merchant
+  portal has the current test card numbers).
+- The `/return` endpoint is for the shopper's browser (UX only). The `/ipn`
+  endpoint is the one VNPay calls server-to-server and the one that should
+  actually be trusted to mark an order "paid" — that's already how
+  `vnpayController.js` treats them.
+- Guest checkout is allowed by default (no login required to buy). If you
+  want to require login first, uncomment the two lines at the top of
+  `routes/vnpay.js`.

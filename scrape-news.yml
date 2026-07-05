@@ -1,0 +1,41 @@
+name: Scrape News
+
+# Runs daily at 03:00 UTC — worth running more often than weekly now that
+# this pulls from several sources (official news page, YouTube, Google
+# News, event microsites). Change back to a weekly cron ('0 3 * * 1') if
+# you'd rather conserve Google News/YouTube request volume.
+# Also triggerable manually from the Actions tab (workflow_dispatch).
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Run scraper
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+          MONGODB_DB: ${{ vars.MONGODB_DB }} # optional, defaults to kamitsubaki_fansite
+          # Only needed if you've enabled the optional X API source in
+          # scripts/scrapeNews.mjs.
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: node scripts/scrapeNews.mjs
+
+      # No git-commit step needed anymore — results go straight into
+      # MongoDB, which api/news.js reads from on every request. Nothing
+      # to redeploy; the live site picks up new data automatically
+      # (subject to the 10-minute CDN cache set in api/news.js).

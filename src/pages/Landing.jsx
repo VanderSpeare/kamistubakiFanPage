@@ -9,13 +9,14 @@ import About from './About';
 import { useEffect, useState, useMemo } from "react";
 import React from "react";
 import { useNavigate } from "react-router-dom";
-
+import UpcomingEventsSection from '../components/UpcomingEventsSection';
+import NewsSection from '../components/NewsSection';  
 
 const baseText =
 "/.@, .@ %. ( /.  .#. . ,% / ( ( # # , #, , # % .( ,( ,((@ ( / . . (@ % ##( . . 　　(% , % .( ,( ,((@ ( / (@ % ##( . . 　　(% /.@, .@ %. .. (% , % .( ,( ,((@ ( / (@ % ##( . . (% , % .( ,( ,((@ ( / (@ % ##( . .(% , % .( ,( ,((@ ( / (@ % ##( . .";
 
 const glitchChars = "/.@%#(),";
-const sections = ['HOME', 'STORY', 'CHARACTERS', 'STAFF & CAST', 'MUSIC', 'NEWS'];
+const sections = ['HOME', 'STORY', 'CHARACTERS', 'STAFF & CAST','MUSIC', 'PRODUCT', 'NEWS'];
 
 
 const characters = [
@@ -360,7 +361,8 @@ export default function Landing() {
     pointer-events-none
   "
 />
-
+  
+      
   <div className="relative group">
      
     
@@ -398,7 +400,7 @@ export default function Landing() {
     </div>
 
   </div>
-<div className="mt-20 relative inline-block group z-50">
+  <div className="mt-20 relative inline-block group z-50">
 
   {/* Glow */}
   <div
@@ -433,8 +435,8 @@ export default function Landing() {
   >
     VIEW MORE
   </button>
-
-    
+  
+  
   </div>
 
   </div>
@@ -709,48 +711,89 @@ export default function Landing() {
 </div>
 </SectionHero>
 {/* STAFF & CAST - Dùng SectionHero */}
-      <SectionHero id="staff-cast" title="STAFF & CAST" subtitle="Đội ngũ sáng tạo">
-        <img 
-          src="/introduction_bg-tit.svg" 
-          alt="Story Header"
-          className="
-              absolute
-            -bottom-32
-            left-0
-            w-[50%]
-            max-w-none
-            opacity-60
-            pointer-events-none
-          "
-        />
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-12 max-w-6xl w-full">
-          {[
-            { role: 'Original Creator', name: 'KAMITSUBAKI STUDIO', desc: 'Producer & World Building' },
-            { role: 'Director', name: 'Tetsuya Yamamoto', desc: 'Known for virtual singer projects' },
-            { role: 'Character Design', name: 'PALOW', desc: 'Famous VTuber & anime illustrator' },
-            { role: 'Music Producer', name: 'TAKU INOUE', desc: 'Composer for KAF, RIM, etc.' },
-            { role: 'Animation Studio', name: 'Graphinica × WIT STUDIO', desc: 'High-quality anime production' },
-            { role: 'Voice Actor - KAF', name: 'KAF (Virtual Singer)', desc: 'Main heroine voice' },
-          ].map((item, i) => (
-            <motion.div
-              key={i}
-              initial={{ opacity: 0, y: 50 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ delay: i * 0.1 }}
-              whileHover={{ scale: 1.05 }}
-              className="bg-white/5 backdrop-blur-md rounded-2xl p-8 text-center border border-white/10"
-            >
-              <p className="text-sm text-gray-400 mb-2">{item.role}</p>
-              <h3 className="text-2xl font-bold mb-3">{item.name}</h3>
-              <p className="text-gray-300 text-sm">{item.desc}</p>
-            </motion.div>
-          ))}
-        </div>
-      </SectionHero>
-          <DataFlow />
+<SectionHero id="staff-cast" title="STAFF & CAST" subtitle=" The Team Behind Kamitsubaki">
+   {/* Story-only Clouds */}
+  <motion.div
+    style={{ y: cloudY1 }}
+    className="absolute inset-0 z-0 pointer-events-none overflow-hidden"
+  >
+    <img
+      src="/hero_bg-cloud__l.png"
+      alt=""
+      className="center -left-24 w-[55%] opacity-25"
+    />
+  </motion.div>
+
+  <motion.div
+    style={{ y: cloudY2 }}
+    className="absolute inset-0 z-0 pointer-events-none overflow-hidden"
+  >
+    <img
+      src="/hero_bg-cloud__r.png"
+      alt=""
+      className="center "
+    />
+  </motion.div>
+
+  <img
+    src="/introduction_bg-tit.svg"
+    alt="Story Header"
+    className="
+      absolute
+      -bottom-32
+      left-0
+      w-[50%]
+      max-w-none
+      opacity-60
+      pointer-events-none
+      z-10
+    "
+  />
+  <img 
+    src="/introduction_bg-tit.svg" 
+    alt="Story Header"
+    className="
+        absolute
+      -bottom-32
+      left-0
+      w-[50%]
+      max-w-none
+      opacity-60
+      pointer-events-none
+    "
+  />
+  <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-12 max-w-6xl w-full">
+    {[
+      { role: 'Original Creator', name: 'KAMITSUBAKI STUDIO', desc: 'Producer & World Building', onClick: () => window.open('https://www.kamitsubaki.com', '_blank') },
+      { role: 'Director', name: 'Tetsuya Yamamoto', desc: 'Known for virtual singer projects', onClick: () => window.open('https://kamitsubaki.studio/en/artist/', '_blank') },
+      { role: 'Character Design', name: 'PALOW', desc: 'Famous VTuber & anime illustrator', onClick: () => window.open('https://kamitsubaki.studio/en/artist/palow/', '_blank') },
+      { role: 'Music Producer', name: 'TAKU INOUE', desc: 'Composer for KAF, RIM, etc.', onClick: () => window.open('https://taku-inoue.com/', '_blank') },
+      { role: 'Animation Studio', name: 'Graphinica × WIT STUDIO', desc: 'High-quality anime production', onClick: () => window.open('https://www.graphinica.com/en/', '_blank') },
+      { role: 'Voice Actor - KAF', name: 'KAF (Virtual Singer)', desc: 'Main heroine voice', onClick: () => window.open('https://yokohamawars2026.kamitsubaki.jp/kaf', '_blank') },
+    ].map((item, i) => (
+      <motion.div
+        key={i}
+        initial={{ opacity: 0, y: 50 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        transition={{ delay: i * 0.1 }}
+        whileHover={{ scale: 1.05 }}
+        onClick={item.onClick}
+        role="button"
+        tabIndex={0}
+        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') item.onClick(); }}
+        className="bg-white/5 backdrop-blur-md rounded-2xl p-8 text-center border border-white/10 hover:border-white/30 cursor-pointer transition-colors"
+      >
+        <p className="text-sm text-gray-400 mb-2">{item.role}</p>
+        <h3 className="text-2xl font-bold mb-3">{item.name}</h3>
+        <p className="text-gray-300 text-sm">{item.desc}</p>
+      </motion.div>
+    ))}
+  </div>
+</SectionHero>
+      <DataFlow />
       {/* MUSIC - Dùng SectionHero */}
-      <SectionHero id="music" title="MUSIC" subtitle="Âm nhạc của Kamitsubaki">
+      <SectionHero id="music" title="MUSIC" subtitle="Music of Kamitsubaki">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 max-w-6xl">
           {[
             { title: 'Opening Theme', song: '"Construction"', artist: 'KAF', yt: 'https://www.youtube.com/watch?v=example1' },
@@ -782,36 +825,82 @@ export default function Landing() {
         </div>
         
       </SectionHero>
-          
-      {/* NEWS - Dùng SectionHero */}
-      <SectionHero id="news" title="NEWS" subtitle="Tin tức mới nhất">
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 max-w-7xl">
-          {[
-            { date: '2026.01.08', title: 'Anime PV Teaser Released', desc: 'Official trailer now available on YouTube!' },
-            { date: '2025.12.25', title: 'Main Cast Announcement', desc: 'Voice actors for KAF, RIM, and more revealed' },
-            { date: '2025.11.15', title: 'Project Launch Event', desc: 'Live stream with creators and virtual singers' },
-            { date: '2025.10.01', title: 'Kamitsubaki City Construction Begins', desc: 'New anime project officially announced' },
-          ].map((news, i) => (
-            <motion.article
-              key={i}
-              initial={{ opacity: 0, y: 40 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ delay: i * 0.1 }}
-              whileHover={{ y: -10 }}
-              className="bg-white/5 backdrop-blur-md rounded-2xl p-8 border border-white/10 hover:border-white/30 transition-all"
-            >
-              <time className="text-sm text-gray-400 mb-4 block">{news.date}</time>
-              <h3 className="text-2xl font-bold mb-4">{news.title}</h3>
-              <p className="text-gray-300">{news.desc}</p>
-              
-            </motion.article>
-            
-          ))}
-        </div>
-        
-      </SectionHero>
-      <DataFlow />
+        {/*PRODUCT - Dùng SectionHero */}
+        <SectionHero id="product" title="PRODUCT" subtitle="Merchandise & Goods">
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 max-w-6xl">
+             
+               {[
+                  { image: '/merch1.webp', title: 'Isekaijoucho Hoodie', desc: 'Premium streetwear inspired by the Isekaijoucho world.', price: '549,000₫' },
+                  { image: '/merch2.webp', title: 'Kamitsubaki City T-Shirt', desc: 'Everyday tee featuring the Kamitsubaki City emblem.', price: '289,000₫' },
+                  { image: '/merch3.webp', title: 'Mini Character Standee', desc: 'Collectible acrylic standees of your favorite characters.', price: '159,000₫' },
+                  { image: '/merch4.webp', title: 'Kamitsubaki Studio Notebook', desc: 'Bound notebook for daily notes and lyrics.', price: '75,000₫' },
+                  { image: '/merch1.webp', title: 'Character Print Poster', desc: 'High-resolution poster prints, A2/A3 sizes.', price: '99,000₫' },
+                  { image: '/merch2.webp', title: 'Canvas Tote Bag', desc: 'Durable canvas tote for everyday carry.', price: '149,000₫' },
+                ].map((product, i) => (
+                  <motion.article
+                    key={i}
+                    initial={{ opacity: 0, y: 40 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    viewport={{ once: true }}
+                    transition={{ delay: i * 0.1 }}
+                    whileHover={{ y: -10 }}
+                    className="bg-white/5 backdrop-blur-md rounded-2xl overflow-hidden border border-white/10 hover:border-white/30 transition-all"
+                  >
+                    <div className="aspect-square overflow-hidden">
+                      <img
+                        src={product.image}
+                        alt={product.title}
+                        className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
+                      />
+                    </div>
+                    <div className="p-8">
+                      <h3 className="text-2xl font-bold mb-3">{product.title}</h3>
+                      <p className="text-gray-300 mb-4">{product.desc}</p>
+                      <span className="text-red-400 font-semibold tracking-wide">{product.price}</span>
+                    </div>
+                  </motion.article>
+                ))}
+              </div>
+
+              {/* STORE PAGE button */}
+              <div className="flex justify-center">
+                <div className="mt-20 relative inline-block group z-50">
+                  {/* Glow */}
+                  <div
+                    className="
+                      absolute inset-0
+                      rounded-full
+                      bg-red-600
+                      blur-2xl
+                      opacity-45
+                      transition-all duration-500
+                      group-hover:opacity-70
+                      pointer-events-none
+                    "
+                  />
+                  <button
+                    onClick={() => navigate('/Services')}
+                    className="
+                      relative z-50
+                      px-16 py-5
+                      text-sm tracking-[0.35em] font-semibold text-white
+                      bg-gradient-to-r from-black via-[#330000] to-red-700
+                      border border-red-600/40
+                      transition-all duration-500 ease-out
+                      shadow-[0_0_15px_rgba(255,0,0,0.25)]
+                      hover:shadow-[0_0_35px_rgba(255,0,0,0.6)]
+                      hover:text-red-500 hover:tracking-[0.45em] hover:scale-105
+                    "
+                  >
+                    STORE PAGE
+                  </button>
+                </div>
+              </div>
+</SectionHero>       
+        {/* NEWS - Dùng SectionHero */}
+        <UpcomingEventsSection />
+        <NewsSection />
+        <DataFlow />
       {/* Footer Ticker */}
         <footer className="w-full bg-black/80 backdrop-blur-md py-2 mt-20">
           <Marquee gradient={false} speed={80}>

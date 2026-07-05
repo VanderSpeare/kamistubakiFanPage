@@ -74,6 +74,7 @@ export default function Header() {
                   >
                     {item}
                   </Link>
+                 
                 </motion.li>
               ))}
             </motion.ul>

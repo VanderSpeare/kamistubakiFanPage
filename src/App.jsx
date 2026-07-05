@@ -1,17 +1,26 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 import Header from "./components/Header/Header";
 import AnimatedLayout from "./components/layout/AnimatedLayout";
 import { PremiereVideoProvider } from "./components/premiereVideoSession";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import NotFoundPage from "./pages/NotFoundPage";
+import Services from "./pages/Services";  
 import Dashboard from "./pages/Dashboard";
 import Landing from "./pages/Landing";
 import BottomEffect from "./BottomEffect";
 import { useAuth } from "./context/AuthContext";
 import Teams from "./pages/Teams";
+import Portfolio from "./pages/Portfolio";
+import Contact from "./pages/Contact.jsx";
+import Admin from "./pages/lib/Admin.jsx";
 
+
+const ADMIN_PATH = "/kamitsubaki-internal-9f3a";
 function App() {
   const { user, loading } = useAuth();
+  const location = useLocation();
+  const isAdminRoute = location.pathname === ADMIN_PATH;
 
   if (loading) {
     return (
@@ -24,13 +33,15 @@ function App() {
   return (
     <PremiereVideoProvider>
 
-      <div className="base-black" />
+      {!isAdminRoute && <div className="base-black" />}
 
-      <BottomEffect />
+      {!isAdminRoute && <BottomEffect />}
 
-      <Header />
+      {!isAdminRoute && <Header />}
 
       <Routes>
+
+        <Route path={ADMIN_PATH} element={<Admin />} />
 
         <Route
           path="/"
@@ -59,15 +70,7 @@ function App() {
           }
         />
 
-        <Route
-          path="/services"
-          element={
-            <AnimatedLayout>
-              <About />
-            </AnimatedLayout>
-          }
-        />
-        
+       
         <Route
           path="/dashboard"
           element={
@@ -76,7 +79,32 @@ function App() {
             </AnimatedLayout>
           }
         />
+         <Route
+            path="/services"
+            element={
+              <AnimatedLayout>
+                <Services />
+              </AnimatedLayout>
+            }
+          />
 
+          <Route
+            path="/portfolio"
+            element={
+              <AnimatedLayout>
+                <Portfolio />
+              </AnimatedLayout>
+            }
+          />
+
+          <Route
+            path="/contact"
+            element={
+              <AnimatedLayout>
+                <Contact />
+              </AnimatedLayout>
+            }
+          />
         <Route
           path="/teams"
           element={
