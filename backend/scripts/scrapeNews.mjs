@@ -55,7 +55,7 @@
 import { chromium } from 'playwright';
 import * as cheerio from 'cheerio';
 import { XMLParser } from 'fast-xml-parser';
-import { getNewsCollection, getDb } from '../lib/mongo.mjs';
+import { getNewsCollection, getDb } from '../../lib/mongo.mjs';
 
 // ---------------------------------------------------------------------------
 // SOURCE CONFIG
@@ -337,7 +337,13 @@ async function scrapeHtmlEventSource(browser, source) {
 // MAIN
 // ---------------------------------------------------------------------------
 
-async function main() {
+/**
+ * Runs one full scrape across all sources and upserts results into
+ * MongoDB. Returns a summary object instead of exiting the process —
+ * this is what lets both the CLI (`node scripts/scrapeNews.mjs`) and the
+ * HTTP refresh endpoint (api/refresh-news.js) share the exact same logic.
+ */
+export async function runScrape() {
   const browser = await chromium.launch();
   const results = [];
 
@@ -380,9 +386,12 @@ async function main() {
   for (const item of merged) {
     titleCounts.set(item.title, (titleCounts.get(item.title) || 0) + 1);
   }
+  const duplicateWarnings = [];
   for (const [title, count] of titleCounts) {
     if (count >= 3) {
-      console.warn(`[scrapeNews] ⚠ "${title}" appeared ${count} times in this run — likely a parser bug (same block scraped repeatedly), not ${count} distinct announcements.`);
+      const msg = `"${title}" appeared ${count} times in this run — likely a parser bug, not ${count} distinct announcements.`;
+      console.warn(`[scrapeNews] ⚠ ${msg}`);
+      duplicateWarnings.push(msg);
     }
   }
 
@@ -402,10 +411,22 @@ async function main() {
   }
 
   console.log(`[scrapeNews] Upserted ${upserted} new items into MongoDB (${merged.length - upserted} already existed)`);
-  process.exit(0);
+
+  return {
+    scraped: merged.length,
+    upserted,
+    alreadyExisted: merged.length - upserted,
+    duplicateWarnings,
+  };
 }
 
-main().catch((err) => {
-  console.error('[scrapeNews] Fatal error:', err);
-  process.exit(1);
-});
+// Only run as a CLI script when invoked directly (`node scripts/scrapeNews.mjs`),
+// not when imported by api/refresh-news.js.
+if (import.meta.url === `file://${process.argv[1]}`) {
+  runScrape()
+    .then(() => process.exit(0))
+    .catch((err) => {
+      console.error('[scrapeNews] Fatal error:', err);
+      process.exit(1);
+    });
+}

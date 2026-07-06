@@ -22,3 +22,21 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# Playwright browser binaries (large, machine-specific — reinstalled via
+# `npx playwright install`, not meant to be committed)
+/test-results/
+/playwright-report/
+
+# Build output
+dist/
+build/
+
+# OS/editor cruft
+.DS_Store
+*.log

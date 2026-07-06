@@ -1,0 +1,272 @@
+[{
+  "_id": "kaf",
+  "debut": "2018",
+  "groups": [
+    "V.W.P"
+  ],
+  "id": "kaf",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.713Z"
+  },
+  "name": "KAF",
+  "name_jp": "花譜",
+  "notes": "Pioneer talent. Voice provider cho KAFU.",
+  "social": {
+    "youtube_main": "https://www.youtube.com/@virtual_kaf",
+    "youtube_sub": "https://www.youtube.com/@kaf_sub",
+    "site": "https://kaf.kamitsubaki.jp/"
+  },
+  "type": "Virtual Singer"
+},
+{
+  "_id": "rim",
+  "debut": "2019",
+  "groups": [
+    "V.W.P"
+  ],
+  "id": "rim",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.724Z"
+  },
+  "name": "RIM",
+  "name_jp": "理芽",
+  "notes": "Known for covers in multiple languages.",
+  "social": {
+    "youtube_main": "https://www.youtube.com/channel/UCfBkUgaJ6eqYA9_TX2cmq9A",
+    "youtube_membership": "https://www.youtube.com/@RIMstrangegirlclub",
+    "x": "@RIM_virtual"
+  },
+  "type": "Virtual Singer"
+},
+{
+  "_id": "harusaruhi",
+  "debut": "~2019",
+  "groups": [
+    "V.W.P"
+  ],
+  "id": "harusaruhi",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.726Z"
+  },
+  "name": "Harusaruhi",
+  "name_jp": "春猿火",
+  "notes": "",
+  "social": {
+    "youtube": "Via studio & collab uploads",
+    "x": "Via @kamitsubaki_jp"
+  },
+  "type": "Virtual Singer/Rapper"
+},
+{
+  "_id": "isekaijoucho",
+  "debut": "~2020",
+  "groups": [
+    "V.W.P"
+  ],
+  "id": "isekaijoucho",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.727Z"
+  },
+  "name": "Isekaijoucho",
+  "name_jp": "ヰ世界情緒",
+  "notes": "",
+  "social": {
+    "youtube": "Studio channels",
+    "x": "Via studio"
+  },
+  "type": "Virtual Singer"
+},
+{
+  "_id": "koko",
+  "debut": "~2020",
+  "groups": [
+    "V.W.P"
+  ],
+  "id": "koko",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.728Z"
+  },
+  "name": "KOKO",
+  "name_jp": "幸祜",
+  "notes": "",
+  "social": {
+    "youtube": "Studio channels",
+    "x": "Via studio"
+  },
+  "type": "Virtual Singer"
+},
+{
+  "_id": "kafu",
+  "debut": "2021-07",
+  "groups": [],
+  "id": "kafu",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.728Z"
+  },
+  "name": "KAFU",
+  "name_jp": "可不",
+  "notes": "Voice synthesizer developed by Kamitsubaki. Used in songs & projects. (Không phải nghệ sĩ biểu diễn trực tiếp trong live).",
+  "social": {
+    "site": "https://kaf-u.kamitsubaki.jp/",
+    "youtube": "Featured in KAF/studio videos"
+  },
+  "type": "AI Agent Singer / CeVIO AI Musical Isotope",
+  "voice_provider": "KAF"
+},
+{
+  "_id": "kuusou",
+  "debut": "Recent",
+  "groups": [],
+  "id": "kuusou",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.730Z"
+  },
+  "name": "Kuusou",
+  "name_jp": "空爽",
+  "notes": "1st EP 'CYAN' phát hành 2026.",
+  "social": {
+    "youtube": "Studio channels",
+    "x": "Via @kamitsubaki_jp"
+  },
+  "type": "Virtual Artist"
+},
+{
+  "_id": "akari",
+  "debut": "",
+  "groups": [],
+  "id": "akari",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.731Z"
+  },
+  "name": "Akari",
+  "name_jp": "明透",
+  "notes": "",
+  "social": {
+    "youtube": "Studio",
+    "x": "Via studio"
+  },
+  "type": "Virtual Artist"
+},
+{
+  "_id": "bimai",
+  "debut": "",
+  "groups": [],
+  "id": "bimai",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.733Z"
+  },
+  "name": "Bimai",
+  "name_jp": "琶舞",
+  "notes": "",
+  "social": {
+    "youtube": "Studio",
+    "x": "Via studio"
+  },
+  "type": "Virtual Artist"
+},
+{
+  "_id": "ciel",
+  "debut": "",
+  "groups": [],
+  "id": "ciel",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.735Z"
+  },
+  "name": "CIEL",
+  "name_jp": "",
+  "notes": "Cover lives",
+  "social": {
+    "youtube": "Studio (e.g. Strawberry Live streams)",
+    "x": "Via studio"
+  },
+  "type": "Virtual Artist"
+},
+{
+  "_id": "empty_old_city",
+  "debut": "",
+  "groups": [],
+  "id": "empty_old_city",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.736Z"
+  },
+  "name": "Empty old City",
+  "name_jp": "",
+  "notes": "2nd ONE-MAN LIVE dự kiến 2026.",
+  "social": {
+    "youtube": "Studio",
+    "x": "Via studio"
+  },
+  "type": "Virtual Unit/Artist"
+},
+{
+  "_id": "valis",
+  "debut": "",
+  "id": "valis",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.737Z"
+  },
+  "members": [
+    "CHINO",
+    "MYU",
+    "NEFFY",
+    "RARA",
+    "VITTE"
+  ],
+  "name": "VALIS",
+  "name_jp": "",
+  "notes": "7th ONE-MAN LIVE (2025), tạm ngưng hoạt động sau show này.",
+  "social": {
+    "youtube": "Studio",
+    "x": "Via studio"
+  },
+  "type": "Virtual Girls Group"
+},
+{
+  "_id": "girls_revolution_project",
+  "debut": "",
+  "id": "girls_revolution_project",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.737Z"
+  },
+  "members": [
+    "Kakyo-in",
+    "Orihime",
+    "Garasumiya",
+    "Mikoto",
+    "Yunagi",
+    "Hinageshi",
+    "etc."
+  ],
+  "name": "Girls Revolution Project",
+  "name_jp": "少女革命計画",
+  "notes": "Story + music unit",
+  "social": {
+    "youtube": "Studio",
+    "x": "Via studio"
+  },
+  "sub_units": [
+    "Shinseiki",
+    "Tsumitobatsu"
+  ],
+  "type": "Unit (Sinseiki / Tsumitobatsu)"
+},
+{
+  "_id": "anmc",
+  "debut": "",
+  "id": "anmc",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.738Z"
+  },
+  "members": [
+    "kahoca",
+    "一ノ瀬陽鞠"
+  ],
+  "name": "ANMC",
+  "name_jp": "",
+  "notes": "Game collabs",
+  "social": {
+    "youtube": "Studio",
+    "x": "Via studio"
+  },
+  "type": "Virtual Artists"
+}]

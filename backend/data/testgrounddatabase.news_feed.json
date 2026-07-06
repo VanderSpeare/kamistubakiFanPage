@@ -1,0 +1,2142 @@
+[{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458204f"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/27/1740/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.169Z"
+  },
+  "date": "2022.11.27",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.223Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.27花譜【花譜】3rd Album「狂想」先行予約発売決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582051"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/25/1692/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.195Z"
+  },
+  "date": "2022.11.25",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.227Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.25廉【廉】「始発駅、君を待つ。」「ドールジアビス」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582053"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/24/1738/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.197Z"
+  },
+  "date": "2022.11.24",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.229Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.24ヰ世界情緒【ヰ世界情緒】作品集「息吹 〜connecting world〜」コミックマーケット101にて発売決定。発売を記念して、バーチャル特典お渡し会も開催。"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582055"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/23/1725/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.199Z"
+  },
+  "date": "2022.11.23",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.230Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.23Guiano【Guiano】新曲「月」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582057"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/23/1722/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.200Z"
+  },
+  "date": "2022.11.23",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.233Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.23理芽ヰ世界情緒CIEL【理芽 & ヰ世界情緒】11/23「Singularity Live」配信アルバムタイトルの誤りとお詫び"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582059"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/19/1711/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.202Z"
+  },
+  "date": "2022.11.19",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.235Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.19OFFICIALCompilation Album「KAMITSUBAKI STUDIO SAMPLER Vol. 1」発売決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458205b"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/17/1707/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.204Z"
+  },
+  "date": "2022.11.17",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.236Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.17DUSTCELL【DUSTCELL】お詫び：DUSTROOMのシステム不備について"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458205d"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/17/1701/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.207Z"
+  },
+  "date": "2022.11.17",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.238Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.17DUSTCELL【DUSTCELL】12月から公式ファンクラブアプリ「DUSTROOM」始動"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458205f"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/17/1700/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.209Z"
+  },
+  "date": "2022.11.17",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.241Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.17DUSTCELL【DUSTCELL】23年春 2nd Mini Album発売 & 全国ツアー開催決定"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582061"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/17/1698/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.212Z"
+  },
+  "date": "2022.11.17",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.243Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.17DUSTCELL【DUSTCELL】11/17 (木) TOKYO DOME CITY HALL / 当日券販売決定"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582063"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/16/1695/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.213Z"
+  },
+  "date": "2022.11.16",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.244Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.16DUSTCELL【DUSTCELL】11/17 (木) LIVE 2022「PREPARATION」当日ご来場いただく皆様へのご案内（注意事項 / 先行物販 / 当日券等）"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582065"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/10/1683/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.214Z"
+  },
+  "date": "2022.11.10",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.245Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.10廉【廉】「完結型マイルーム」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582067"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/09/1685/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.215Z"
+  },
+  "date": "2022.11.09",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.247Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.09ヰ世界情緒【ヰ世界情緒】「かたちなきもの」配信開始 & MV公開"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582069"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/02/1646/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.217Z"
+  },
+  "date": "2022.11.02",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.248Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.02平田義久【平田義久】「夏至下る」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458206b"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/28/1663/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.218Z"
+  },
+  "date": "2022.10.28",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.249Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.28Misumi【Misumi】新曲「不完全愛情進行中」配信開始 & MV公開"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458206d"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/21/1657/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.219Z"
+  },
+  "date": "2022.10.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.250Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.21DUSTCELL【DUSTCELL】11/17 LIVE 2022「PREPARATION」配信決定"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458206f"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/21/1653/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.219Z"
+  },
+  "date": "2022.10.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.251Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.21Guiano【Guiano】「風」配信開始 & MV公開"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582071"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/14/1631/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.220Z"
+  },
+  "date": "2022.10.14",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.252Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.14理芽【理芽】山田悠介の新作小説「サブスクの子と呼ばれて」のテーマソングを担当"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582073"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/11/1629/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.221Z"
+  },
+  "date": "2022.10.11",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.253Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.11大沼パセリ【大沼パセリ】10/13 (木) 初のSTUDIO LIVEをYouTube Liveで無料配信"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582075"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/09/1622/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.222Z"
+  },
+  "date": "2022.10.09",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.254Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.09音楽的同位体「狐子」【音楽的同位体 狐子(COKO)】発売日決定&予約販売開始！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582077"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/05/1617/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.224Z"
+  },
+  "date": "2022.10.05",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.256Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.05理芽【理芽】「インナアチャイルド」配信開始 & 「少年のアビス」ドラマMV公開"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582079"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/29/1613/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.225Z"
+  },
+  "date": "2022.09.29",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.256Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.29春猿火幸祜CIEL【春猿火 / 幸祜】 11/6（日）TWO-MAN LIVE 「Singularity Live 2」オンラインにて開催決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458207b"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/26/1593/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.226Z"
+  },
+  "date": "2022.09.26",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.257Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.26OFFICIAL神椿市建設中。【KAMITSUBAKI DAO】NFTゲームプレス様にて記事掲載"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458207d"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/21/1589/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.227Z"
+  },
+  "date": "2022.09.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.258Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.21OFFICIAL神椿市建設中。【KAMITSUBAKI DAO】NFT Media様にて記事掲載"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458207f"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/16/1585/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.228Z"
+  },
+  "date": "2022.09.16",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.259Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.16OFFICIAL神椿市建設中。【KAMITSUBAKI DAO】神椿市のメタバースを共創するWeb3コミュニティ「KAMITSUBAKI DAO」発足。FiNANCiEにてトークンの新規発行・販売開始。"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582081"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/16/1582/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.229Z"
+  },
+  "date": "2022.09.16",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.259Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.16理芽ヰ世界情緒CIEL【理芽×ヰ世界情緒】11/23 TWO-MAN LIVE「Singularity Live」Blu-ray発売決定 / 受注予約開始"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582083"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/14/1579/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.229Z"
+  },
+  "date": "2022.09.14",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.260Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.14平田義久【平田義久】「飛燕」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582085"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/13/1570/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.230Z"
+  },
+  "date": "2022.09.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.261Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.13OFFICIAL神椿市建設中。【KAMITSUBAKI DAO】神椿が新たに産み出すWeb3コミュニティ「KAMITSUBAKI DAO」、9月16日(金)クラウドファンディング2.0サービスFiNANCiEにてプロジェクトの全容公開。"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582087"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/12/1557/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.232Z"
+  },
+  "date": "2022.09.12",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.261Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.12幸祜【幸祜】ストリーミングカバーライブ「あられライブ2」の開催決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582089"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/08/26/1567/",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.233Z"
+  },
+  "date": "2022.08.26",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.262Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.08.26花譜【花譜】「VTuberスタイル」9月号にて花譜が表紙決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458208b"
+  },
+  "link": "https://www.youtube.com/watch?v=exGINPKo2_4",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.234Z"
+  },
+  "date": "2026.06.25",
+  "image": "https://i2.ytimg.com/vi/exGINPKo2_4/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.262Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "【チャリティー配信】VTuber Summer Slam 2026! × KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458208d"
+  },
+  "link": "https://www.youtube.com/watch?v=BAmkHKb7KJk",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.235Z"
+  },
+  "date": "2026.06.22",
+  "image": "https://i3.ytimg.com/vi/BAmkHKb7KJk/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.263Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "目指せ動員数No.1！新作ボードゲーム「KAMITSUBAKI FES Star Reach WARS」"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458208f"
+  },
+  "link": "https://www.youtube.com/watch?v=MyeJSjr_OUY",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.236Z"
+  },
+  "date": "2026.06.18",
+  "image": "https://i2.ytimg.com/vi/MyeJSjr_OUY/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.263Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/05"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582091"
+  },
+  "link": "https://www.youtube.com/watch?v=H5W_-NJYYsc",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.236Z"
+  },
+  "date": "2026.05.26",
+  "image": "https://i1.ytimg.com/vi/H5W_-NJYYsc/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.264Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/04"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582093"
+  },
+  "link": "https://www.youtube.com/watch?v=LPNHLlcvwok",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.237Z"
+  },
+  "date": "2026.05.20",
+  "image": "https://i1.ytimg.com/vi/LPNHLlcvwok/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.265Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "【 #神椿フェス2026 】9月5日(土) パシフィコ横浜 国立大ホール「KAMITSUBAKI FES ’26 FIELD OF RESONANCE」開催決定ティザー映像"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582095"
+  },
+  "link": "https://www.youtube.com/watch?v=ftUC-kdPqaw",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.238Z"
+  },
+  "date": "2026.05.18",
+  "image": "https://i3.ytimg.com/vi/ftUC-kdPqaw/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.266Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "神椿TCG倶楽部 vol.9 ー大クイズ大会 & 驚きの新情報発表！ ー"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582097"
+  },
+  "link": "https://www.youtube.com/watch?v=RosZyttsjMU",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.240Z"
+  },
+  "date": "2026.05.07",
+  "image": "https://i3.ytimg.com/vi/RosZyttsjMU/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.267Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/03"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a4582099"
+  },
+  "link": "https://www.youtube.com/watch?v=Pu4pj0KNHF4",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.244Z"
+  },
+  "date": "2026.03.22",
+  "image": "https://i1.ytimg.com/vi/Pu4pj0KNHF4/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.267Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/02"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458209b"
+  },
+  "link": "https://www.youtube.com/watch?v=dlGG9e84M2I",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.249Z"
+  },
+  "date": "2026.03.17",
+  "image": "https://i1.ytimg.com/vi/dlGG9e84M2I/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.267Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "神椿TCG倶楽部 vol.8 ーBOX開封と春のイベント情報公開！ー"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458209d"
+  },
+  "link": "https://www.youtube.com/watch?v=eGvZE2lRlXY",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.250Z"
+  },
+  "date": "2026.02.24",
+  "image": "https://i2.ytimg.com/vi/eGvZE2lRlXY/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.268Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/01"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a458209f"
+  },
+  "link": "https://www.youtube.com/watch?v=4WFNKAdAFxA",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.250Z"
+  },
+  "date": "2026.01.29",
+  "image": "https://i1.ytimg.com/vi/4WFNKAdAFxA/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.268Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 25/12"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820a1"
+  },
+  "link": "https://www.youtube.com/watch?v=qddsY3Tl13A",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.251Z"
+  },
+  "date": "2026.01.27",
+  "image": "https://i2.ytimg.com/vi/qddsY3Tl13A/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.269Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "神椿TCG倶楽部 vol.7 ー追奏対決と新イベント情報発表！ー"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820a3"
+  },
+  "link": "https://www.youtube.com/watch?v=6hvbtEUdEXE",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.252Z"
+  },
+  "date": "2026.01.08",
+  "image": "https://i3.ytimg.com/vi/6hvbtEUdEXE/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.269Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 25/11"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820a5"
+  },
+  "link": "https://www.youtube.com/watch?v=M50M_X4-okw",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.252Z"
+  },
+  "date": "2026.01.07",
+  "image": "https://i2.ytimg.com/vi/M50M_X4-okw/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.269Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "新年もプレゼントはV.W.P次第！？KAMITSUBAKI VR NIGHT"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820a7"
+  },
+  "link": "https://www.youtube.com/watch?v=ER0G2xLlhGE",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.253Z"
+  },
+  "date": "2025.12.29",
+  "image": "https://i2.ytimg.com/vi/ER0G2xLlhGE/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.270Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "【限定アーカイブ版】KAMITSUBAKI GRAND CHAMPIONSHIP 2025 【決勝ラウンド生放送】"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820a9"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MUDUzMWtseUNEU2dKVExGMmxqenhramJ6MktweS0wQm4xM2poSFIweWdjT2ttQmNFYk5QUURNZ0piUVJwLUNydzBNcGI3dHVfRUdHYTVPRXE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.253Z"
+  },
+  "date": "2026.07.01",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.302Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "【Empty old City】 「Looma」English Ver.配信リリース - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820ab"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1scEt6RUVEaEMzai1OSkJRcGdEVVVaYlBrdTQ1U1c1RVlhaTZxNVY3dDlKMTNhUGw1ZEw0LTRRMjhHUFZ2cXdBVw?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.254Z"
+  },
+  "date": "2026.06.10",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.302Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "神椿のバーチャルユニット「空爽」 初の単独ライブをYouTubeで全編無料配信 - KAI-YOU"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820ad"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53RTR3RUpyYm54dEh0dGxweHY1TTVMUXFaNHNNbk5ROTlCa1kwRmVieGlTajhLUUh1ZjllQzN3VlY3dU9jUlcyOVRkQm8?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.255Z"
+  },
+  "date": "2026.06.04",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.303Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "花譜「宿声 in Hong Kong」ライブレポート 国や言語を超え、客席を熱狂させた歌声の価値 - panora.tokyo"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820af"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaNExFbnU5cjVYZ1lQSmZyWVlna1pDaE1QS2xlWHN0cExGSTZHRG5wNWVxc000NlJrazdCTWFBNzdHTVNiT0JCRA?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.256Z"
+  },
+  "date": "2026.06.19",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.303Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "KAMITSUBAKI STUDIOがチャリティー配信を実施 理芽、幸祜ら4名が参加 - KAI-YOU"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820b1"
+  },
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzT08xYVdCS0JCOU1YeTg3eHNIc2xZRUMtUm1PR1pzbG5nWGY0V2UwY2ZNRGY3RmViNjFCY28xeE9DVEpobEFISFpYWGUtMWNnUEp4X2o0eFl6aTk4eVNrSXRmTTRYUEU5UmI4anpVUXpmMzdBbU1z?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.258Z"
+  },
+  "date": "2026.06.24",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.304Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "KAMITSUBAKI STUDIO、米国チャリティーイベント「VTuber Summer Slam 2026」に出演 - Mogura VR"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820b3"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40NFptSmFOd1Z6dmxTM1RQTWJLUTBIM1UzZ24zZ0lweGFGSzU2eFF2Vmx6YzRZYVQ1bktTLTYyNzVESFNqVXpOdk03QTJfejhiRlNtOXc3NUJuZmVlUWVtRUN4LWEyYXAwM0E?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.259Z"
+  },
+  "date": "2026.06.19",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.304Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "KAMITSUBAKI STUDIOが米国チャリティーイベント「VTuber Summer Slam 2026」に参加決定！ - PR TIMES"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820b5"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8xcjJpZnBMOWltdnkyT0IwVU45c1h1VXFDM05WMzY4eVpxR1VoSWZxd3BKdVNfbWdydHdiQ0I2alhJMDNa?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.260Z"
+  },
+  "date": "2026.07.02",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.305Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "神椿アーティストがVTuber Summer Slam 2026で寄付100万円達成 - Koubo"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820b7"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sQ2ZHc3Rjc1RMYW9TdTBaRjNFQ2xDdUgzc0wwVEdBQmN0ZUgxb2lsdXhEMWJaS3A5WGlJeng5RUJ4Y2JTajJtSHJ1a3dISWdGUVpuNGFiMjVhM2FDejRHcmpWRQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.261Z"
+  },
+  "date": "2026.03.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.305Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "神椿アーティストが登場する新作ボドゲ「KAMITSUBAKI FES Star Reach WARS」が10月中発売へ。ステージを通じてファンを集める対戦型ゲーム - 4Gamer.net"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820b9"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UWjVOdDNFZFBycmYzLWlSY1J2R0xKTXBOMWtFZlpVSERZRFVfaXNDV0d6cmFmZnFxbl9PTkVxSGR5OW5tX3ZLOXNNZGFtT1ZvMmVqZktsY3E?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.261Z"
+  },
+  "date": "2026.02.12",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.305Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "神椿ゲームタイトルを無料で遊べるイベントを2月14日(土)・15日(日) 新宿で開催 - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820bb"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9seWNsZUpqbTVsMWtVVERRaElLYzBqZkRkUjNVd01oV1lMMjlMSTNNRzhQWHdPNzJELVdYOU9uQnloODFOc0ptd2ptQ3lTbThaMXhvV3FKSFBLUUVmWFdOeXBqQTN5SWx0?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.262Z"
+  },
+  "date": "2026.03.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.306Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "KAMITSUBAKI STUDIOの新作ボードゲーム「KAMITSUBAKI FES Star Reach WARS」、2026年10月発売へ - Mogura VR"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820bd"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJS2lZR01KRUlDZDAzdlBzZFdTZ09SLXVRN3AzVUJWb09kQ1o0eDZQN1RwYURJMmpablRHSEl5clJuTTg?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.263Z"
+  },
+  "date": "2026.05.27",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.306Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "【急上昇ワード】花譜、ニューアルバム『深愛』リリース - OTOTOY"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820bf"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80SnJjdFdYRW5YRnNoTzEzeHprNU5lcUgyTE1oZ3BzSkdTMDNIelZtWDUxSndqdzIwYjZ6aUx5WEF1STRYQVE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.263Z"
+  },
+  "date": "2026.05.27",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.307Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "【花譜】「学園戦線」MV公開 教室に収まらない青春が踊り出す 振付は200万人フォロワーを超えるKOTARO IDEが担当 - エイベックス・ポータル"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820c1"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11bEpBZ1EyM2g0UjJ4VDc5bHQzZU1hcmJ4bnYzTHI0SjhITzdNZmVBQmJtLXlJMkxoVElteUJBaERZWGpieVQxT3N2TktITlZkcktFNzhTYw?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.264Z"
+  },
+  "date": "2025.10.18",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.307Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "【花譜】バーチャルシンガー花譜、世界へ―― 次なる可能性の拡張。 - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820c3"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TNTl5ekVNMHJtVld3OGVlRmR3NDZUZlBMTUlSQ3c2bWk1WWNCUFlibVpVbjltLXNRUlJEeXB2TnlDeC1kN0NQVHF2YjctUWxEbjFDY21qVTVHdw?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.264Z"
+  },
+  "date": "2026.06.29",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.308Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "花譜 衣装 人気バーチャルシンガー 花譜 が 燕の衣装で1 7スケールフィギュアとして登場 9月19日 金 より予約開始 商品・サービストピックス ポータルサイト - richardajkeys.com"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820c5"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ETEhfT1N2T01SRUtGMjZWbm1UMldDblE5c3I5WUViUU1kUzFqald1MkdSUTlDM1FoOFQyQ1lGSXlCSmlUeV85a2JvcF80SVZfU3BqYUVtMUl6Y1M1WFBpS3E4cFdPVjVXY0E?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.265Z"
+  },
+  "date": "2025.10.18",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.308Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "花譜5th ONE-MAN LIVE「宿声 / 深愛」ぴあアリーナMMにて26年3月1日(日)開催決定！ - PR TIMES"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820c7"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sZVZpSUVfaHJEWDI3Vk9aT29yV0MyV3k0SUl0Mm9JYzA1Um5GSkU4ZjR1bFY1YWRsSmFIdXdVUkQzNzFodHNQMmxKLXhhazFNTkdjRlhCZmRFaDJiY0E?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.266Z"
+  },
+  "date": "2026.03.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.309Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "花譜、歩んできた7年間の軌跡を観測者と共に回顧、原点回帰した【神椿横浜決戦 DAY 2】、物語は新章へと拡張し続ける - DISK GARAGE （ディスクガレージ）"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820c9"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vRDdCRmNEN2NIenFJX2xmODB4dHZDVWx1YkJ0UTBTblVtSzRhSThSUkg2X1dPa1pucnpzcEVqM21LTEFYNGNLYQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.266Z"
+  },
+  "date": "2026.03.02",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.309Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "Vシンガー花譜、専門学校HALとのタイアップ決定 新CMソングを歌唱 - KAI-YOU"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820cb"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GRlRUQndlNlExVWdIWXVpZFpaX1FzbGl4OGRvSnlMN01XMEl1VVZGT0NCakZENGhoaVJ4cWxxRVRqb0s2QjhKRVRkT3NndUVzMFVSVW1GWjdiSGRETzBiVNIBZkFVX3lxTE83M3N2T00xZkdmN3h5Q3VubkpNZ1Z5SzNEQ0JaSVFDc0x5cENadXp3YzJoYlRDaGpWbnVLVXhNTlNCYy16TTdlcUFFd3pfYmswVUNLeTlrZFNpRDhDWndoQ0h2MkVSdw?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.267Z"
+  },
+  "date": "2026.06.30",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.310Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "星街すいせい、花譜、春麗、久慈川りせらが“次元”を越えて共演　『X VORDER RUNWAY』開催が発表 - Real Sound｜リアルサウンド"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820cd"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KeVVGMDVHazc1VW9QbTdiWGx1aHFuVUZrbzNOTWV6aXZ4ZGhvaklTWXVLWEdPSUFRYmhNVElvNkNhclZtSTYwMnJERC05dXM5QXI5YXRDTmtIZF9ENHVTVG1HQQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.268Z"
+  },
+  "date": "2026.03.18",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.310Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "作品情報まとめ】バーチャルシンガー・花譜の5thアルバム「深愛」起点の物語――中村 紬『カミュの歌鳥 花譜小説集 - カドブン"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820cf"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zQkNIdExlSFVVVG43V2hBT0paX1dJTTJpU2hIRlNfQ1I5SWw5QjR2dVFLWFlKT3ZqNjRhU2NibkhCSk5VRUE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.268Z"
+  },
+  "date": "2026.02.25",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.310Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "【花譜】小説・音楽・ライブが交差する5th Album『深愛』より新曲「周波数0の合言葉」を2月25日に先行配信リリース。 - エイベックス・ポータル"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820d1"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HNm1fd3kxU1JQdm56RlVkaVJud3kwVTRIWkNWcDhhSGRMWmpRWTJVZlhBbWFWZG5uYlc3N1R5QmtLUVRqWlgwQS05Ml9WSEUzWnMwdkdIRjQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.269Z"
+  },
+  "date": "2026.06.01",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.311Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "神椿横浜決戦2026 dアニメストアにて期間限定・見放題配信開始 - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820d3"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6WEZUbF8wRmJFMVNGLTFyb2VHNDVLalE0TFVzSEJIT2llbUVVTXhoMFhtSmE3Snl2V2U5R1VDLWZIaExqUEFPQUlsMkJkVGNmSTdLazFnZHB2UnhKRHc?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.270Z"
+  },
+  "date": "2026.03.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.311Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "V.W.P、“INTERVAL”期間前の最後のワンマンライブ！花譜、理芽、春猿火、ヰ世界情緒、幸祜5人の強い結束が感じられる充実のステージ【神椿横浜決戦 DAY 1】をレポート - DISK GARAGE （ディスクガレージ）"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820d5"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbnkwVnF4QlFFaGdSd3ZhR2h4VW1zN3labGJKMzUzTDc4TVFFQ1VfdFJaQzBROU1XeEw0eVZUSjJHV1dJVS1TbVZSVVJ3cVE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.270Z"
+  },
+  "date": "2026.02.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.312Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "PIA ARENA MM - ぴあアリーナMM"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820d7"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FM0xFSEdod1Y3Y2FHdUk2RUVXTklET1pFeDJMd0RJc1hKUF9JTHBIZTZBbXdfWmxkVjd4Y3NyenV4U01mYUdkZVNFWE5NOGpEWDJicjAyNkJrVHlDVE4tNHNwQmk0WW1XckE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.271Z"
+  },
+  "date": "2026.02.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.312Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "Photomaticがバーチャルアーティストグループ「V.W.P」の4th ONE-MAN LIVE「現象Ⅳ-反転運命-」とのコラボフレームを発売 - PR TIMES"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820d9"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ubjQ1eXVxX1FIell5b2lWdVkwdUpnWjcwTFVQamMzNExTaGsxWEtQUUozaDBSc0xTbW1aSTJiczVTLTFyQ2RQeQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.272Z"
+  },
+  "date": "2026.02.14",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.312Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "花譜ら所属の「V.W.P」が充電期間前に“挑戦状” 謎解き企画「Q：軌跡」始動 - KAI-YOU"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820db"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kR1NfenVuRVpFNVcwX2xWZjYwSUVNWk9nWG5CbEJpa2Q3aHU1UlpzWWh4TXg3MGlPWEc5T2dsWHUxQkdSdVItazZTX3g?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.272Z"
+  },
+  "date": "2026.06.01",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.313Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "dアニメストアで『KAMITSUBAKI WARS 2026 神椿横浜決戦』期間限定の見放題配信がスタート 2026年6月1日より - panora.tokyo"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820dd"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZ0RnZnljeFZ6UUMySkI4SmxGaWJISTB2UTNQb1J0blc0VmhvVWxYZFR3b0hNbEN6ZXZ2ZS0yQlFaVS0wRGFCNGdmdUdTX1JRUUJqOS1Ta1VXMzQ2eWhQbmdfeDB6cVU?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.273Z"
+  },
+  "date": "2026.01.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.313Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "バーチャルアーティストグループV.W.P、進化のための活動期間「INTERVAL」を発表 再開を前提とした前向きな決断 - Mogura VR"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820df"
+  },
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uQzNWSXhFbElOdS1QQUtTUGtzQU5FbHpxal9YMlBKX0FTdHIwZmd6YnNfcDBENlZtV1RJWE4xVGctcm1nbTNZVkdUOXQ3Q3cwZWJUcEtudVZsYVZxcEdMb295QkZSZGxJamdWei1DUkowMDViLXE0X0RBbVh3MWM?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.274Z"
+  },
+  "date": "2026.01.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.314Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "花譜・理芽・春猿火・ヰ世界情緒・幸祜によるV.W.P、活動を一時的に休む“INTERVAL”を発表 それぞれの成長に注力 - Yahoo!ニュース"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820e1"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaVGVKWjZSVWM0YVpBZnlOTlVoNnZJXzVBcFh1S0l3aHZxX29oeTlsNEhxbUJfMG5DSDd6Ukc3RWg0Nm1KZXZsblo1V2ZPSHNq?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.275Z"
+  },
+  "date": "2025.11.04",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.314Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "TVアニメ『神椿市建設中。』より「V.W.P」メンバーが声優を担当する「森先化歩」と「夜河世界」が豪華仕様の“Luminasta”フィギュアとしてセガプライズに登場!! - 電撃ホビーウェブ"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820e3"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ER0pJUEQ5eWxMbmpDeTYybEpkYlB4YTRUTV9henE0ZzJxeWV5MjRMbGtVUHQwenotbG80a1ZiWkZJTnN3dTdyTWMzX2VXVWh6dkJNcld6QQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.276Z"
+  },
+  "date": "2025.09.27",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.315Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "【V.W.P】V.W.P、2月28日(土) ぴあアリーナMMにて グループ史上過去最大規模公演の開催が決定！ - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820e5"
+  },
+  "link": "https://www.zan-live.com/ja/live/detail/10656",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.278Z"
+  },
+  "date": "2025.10.18",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-kaf-2.webp",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.319Z"
+  },
+  "source": "kaf-yokohamawars2026",
+  "sourceLabel": "KAF — 5th ONE-MAN LIVE「宿声 / 深愛」",
+  "title": "配信チケット発売決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820e7"
+  },
+  "link": "https://r-t.jp/kaf",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.279Z"
+  },
+  "date": "2026.01.31",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-kaf-1.webp",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.320Z"
+  },
+  "source": "kaf-yokohamawars2026",
+  "sourceLabel": "KAF — 5th ONE-MAN LIVE「宿声 / 深愛」",
+  "title": "会場チケット一般発売中！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820e9"
+  },
+  "link": "https://x.com/kamitsubaki_jp/status/2018248123198685637?s=20",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.280Z"
+  },
+  "date": "2026.02.02",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-vwp-3.webp",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.327Z"
+  },
+  "source": "vwp-yokohamawars2026",
+  "sourceLabel": "V.W.P — 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+  "title": "当日物販情報公開！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820eb"
+  },
+  "link": "https://x.com/kamitsubaki_jp/status/2022143742845808932?s=20",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.281Z"
+  },
+  "date": "2026.02.13",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2026/02/260204_KTW_yokohama_MAP_1F-1329x1166.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.327Z"
+  },
+  "source": "vwp-yokohamawars2026",
+  "sourceLabel": "V.W.P — 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+  "title": "会場連動企画情報　公開！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820f5"
+  },
+  "link": "https://www.zan-live.com/ja/live/detail/10655",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.287Z"
+  },
+  "date": "2025.10.18",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-vwp-2.webp",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.326Z"
+  },
+  "source": "vwp-yokohamawars2026",
+  "sourceLabel": "V.W.P — 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+  "title": "配信チケット詳細解禁！"
+},
+{
+  "_id": {
+    "$oid": "6a49aa6aa9fbdfc3a45820f7"
+  },
+  "link": "https://r-t.jp/v-w-p",
+  "createdAt": {
+    "$date": "2026-07-05T00:50:50.287Z"
+  },
+  "date": "2026.01.31",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-vwp-3.webp",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.326Z"
+  },
+  "source": "vwp-yokohamawars2026",
+  "sourceLabel": "V.W.P — 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+  "title": "会場チケット一般発売中！"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827ad"
+  },
+  "link": "https://www.youtube.com/shorts/LUA6_hkchcE",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.270Z"
+  },
+  "date": "2026.01.28",
+  "image": "https://i1.ytimg.com/vi/LUA6_hkchcE/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.270Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "いますぐハッピーエンドを ねえ頂戴　#廻花 「人魚」 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827af"
+  },
+  "link": "https://www.youtube.com/shorts/umoju3kXC3s",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.271Z"
+  },
+  "date": "2026.01.26",
+  "image": "https://i2.ytimg.com/vi/umoju3kXC3s/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.271Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "ほんとうならもっときたないよ #廻花 「人魚」 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827b1"
+  },
+  "link": "https://www.youtube.com/shorts/UHIoiqEIk9w",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.272Z"
+  },
+  "date": "2026.01.25",
+  "image": "https://i2.ytimg.com/vi/UHIoiqEIk9w/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.272Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "叫んでも 飾っても 縋っても むなしいんだっけな #廻花 「人魚」 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827b3"
+  },
+  "link": "https://www.youtube.com/shorts/EK4r1iZMh4w",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.272Z"
+  },
+  "date": "2026.01.24",
+  "image": "https://i2.ytimg.com/vi/EK4r1iZMh4w/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.272Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "「ねえ人魚みたい！」 #廻花 「人魚」 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827b5"
+  },
+  "link": "https://www.youtube.com/shorts/Mg77Ju9hByo",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.273Z"
+  },
+  "date": "2026.01.23",
+  "image": "https://i2.ytimg.com/vi/Mg77Ju9hByo/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.273Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "ここにいつからいるんだろう って　ここにいつまでいるんだろう って　 #廻花 「人魚」 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827b7"
+  },
+  "link": "https://www.youtube.com/shorts/qQqCQQAPIMQ",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.273Z"
+  },
+  "date": "2026.01.20",
+  "image": "https://i2.ytimg.com/vi/qQqCQQAPIMQ/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.273Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "こわれたがりな心臓よ 言葉を吐け そのドアを開け #廻花 「人魚」 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827b9"
+  },
+  "link": "https://www.youtube.com/watch?v=4hF4RawOlVY",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.274Z"
+  },
+  "date": "2026.01.18",
+  "image": "https://i1.ytimg.com/vi/4hF4RawOlVY/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.274Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "廻花「人魚」【Music Video】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827bb"
+  },
+  "link": "https://www.youtube.com/shorts/FWM5euXpits",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.275Z"
+  },
+  "date": "2025.04.01",
+  "image": "https://i3.ytimg.com/vi/FWM5euXpits/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.275Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "感情前線振り切って 世界にピントを合わせて 見えなくなってしまった あの子とあのことあの子とあの子 #廻花  「東京、ぼくらは大丈夫かな」 #廻花前線 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827bd"
+  },
+  "link": "https://www.youtube.com/watch?v=TMzVZmjOEH0",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.275Z"
+  },
+  "date": "2025.03.27",
+  "image": "https://i1.ytimg.com/vi/TMzVZmjOEH0/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.275Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "廻花「うまれるまえからきみをしってる」セルフライナーノーツ【後編】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827bf"
+  },
+  "link": "https://www.youtube.com/watch?v=yxrhRcaDhgs",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.276Z"
+  },
+  "date": "2025.03.26",
+  "image": "https://i2.ytimg.com/vi/yxrhRcaDhgs/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.276Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "廻花「うまれるまえからきみをしってる」セルフライナーノーツ【前編】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827c1"
+  },
+  "link": "https://www.youtube.com/watch?v=4wvAhRPmn5U",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.277Z"
+  },
+  "date": "2025.03.26",
+  "image": "https://i1.ytimg.com/vi/4wvAhRPmn5U/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.277Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "廻花「うまれるまえからきみをしってる」【Short Trailer】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827c3"
+  },
+  "link": "https://www.youtube.com/shorts/NmYYYUmp-bM",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.277Z"
+  },
+  "date": "2025.03.25",
+  "image": "https://i3.ytimg.com/vi/NmYYYUmp-bM/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.277Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "埋もれてゆく かなしみはしあわせに #廻花 「東京、ぼくらは大丈夫かな」 #廻花前線 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827c5"
+  },
+  "link": "https://www.youtube.com/shorts/oSd0yoU3qjw",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.278Z"
+  },
+  "date": "2025.03.24",
+  "image": "https://i4.ytimg.com/vi/oSd0yoU3qjw/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.278Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "最終回ヅラした夕日が染めた 抜け殻みたいなぼくらの間 はなればなれより遠い今 #廻花 「東京、ぼくらは大丈夫かな」 #廻花前線 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827c7"
+  },
+  "link": "https://www.youtube.com/shorts/q9QUdEBn3nw",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.278Z"
+  },
+  "date": "2025.03.22",
+  "image": "https://i2.ytimg.com/vi/q9QUdEBn3nw/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.278Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "感情前線振り切って　世界にピントを合わせて #廻花 「東京、ぼくらは大丈夫かな」 #廻花前線 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827c9"
+  },
+  "link": "https://www.youtube.com/shorts/PVRZwEp8nr8",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.279Z"
+  },
+  "date": "2025.03.19",
+  "image": "https://i1.ytimg.com/vi/PVRZwEp8nr8/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.279Z"
+  },
+  "source": "youtube-UCqoEiw6_SK2qhZ6yHMWBUTA",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "追いかけてた未来 通り過ぎたみたい #廻花 「東京、ぼくらは大丈夫かな」 #廻花前線 #KAIKA #shors"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827cb"
+  },
+  "link": "https://www.youtube.com/shorts/KAFI6jf4Yng",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.279Z"
+  },
+  "date": "2026.07.04",
+  "image": "https://i4.ytimg.com/vi/KAFI6jf4Yng/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.279Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "【Music History】#花譜 「#魔女」#KAF #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827cd"
+  },
+  "link": "https://www.youtube.com/shorts/VapjtZDQkss",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.280Z"
+  },
+  "date": "2026.07.02",
+  "image": "https://i3.ytimg.com/vi/VapjtZDQkss/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.280Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "人生初めての嘘 #花譜 #ヰ世界情緒 #未確認少女観測部 #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827cf"
+  },
+  "link": "https://www.youtube.com/shorts/prqZj2_dG8o",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.280Z"
+  },
+  "date": "2026.06.21",
+  "image": "https://i1.ytimg.com/vi/prqZj2_dG8o/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.280Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "#学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827d1"
+  },
+  "link": "https://www.youtube.com/shorts/ld3p2z4pK6U",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.281Z"
+  },
+  "date": "2026.06.20",
+  "image": "https://i1.ytimg.com/vi/ld3p2z4pK6U/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.281Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "#学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827d3"
+  },
+  "link": "https://www.youtube.com/shorts/vEPifGOw80c",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.281Z"
+  },
+  "date": "2026.06.19",
+  "image": "https://i3.ytimg.com/vi/vEPifGOw80c/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.281Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "#学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827d5"
+  },
+  "link": "https://www.youtube.com/shorts/Stx8t4X8-4o",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.282Z"
+  },
+  "date": "2026.06.12",
+  "image": "https://i4.ytimg.com/vi/Stx8t4X8-4o/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.282Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "#学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827d7"
+  },
+  "link": "https://www.youtube.com/shorts/vOB1Vb5SFVg",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.282Z"
+  },
+  "date": "2026.06.10",
+  "image": "https://i3.ytimg.com/vi/vOB1Vb5SFVg/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.282Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "「アクト」 #歌ってみた #花譜 #KAF#shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827d9"
+  },
+  "link": "https://www.youtube.com/shorts/D5x8EJKKTuE",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.282Z"
+  },
+  "date": "2026.06.07",
+  "image": "https://i1.ytimg.com/vi/D5x8EJKKTuE/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.282Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "#学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827db"
+  },
+  "link": "https://www.youtube.com/watch?v=H30TFS3dbBc",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.283Z"
+  },
+  "date": "2026.06.07",
+  "image": "https://i1.ytimg.com/vi/H30TFS3dbBc/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.283Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "【歌ってみた】アクト by 花譜"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827dd"
+  },
+  "link": "https://www.youtube.com/shorts/TjvoIzp0W6g",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.283Z"
+  },
+  "date": "2026.06.06",
+  "image": "https://i1.ytimg.com/vi/TjvoIzp0W6g/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.283Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "#学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827df"
+  },
+  "link": "https://www.youtube.com/shorts/lsZniPCe17I",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.284Z"
+  },
+  "date": "2026.06.02",
+  "image": "https://i1.ytimg.com/vi/lsZniPCe17I/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.284Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "”コレを出したら勝てる“とか算段じゃなくてさァ！おまえの魂はいまなんの手を出したいのか聞いてるんだっつーの！😠いざ…😡#学園戦線 #花譜 #深愛  #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827e1"
+  },
+  "link": "https://www.youtube.com/shorts/rqzbS0YkU8c",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.284Z"
+  },
+  "date": "2026.06.02",
+  "image": "https://i3.ytimg.com/vi/rqzbS0YkU8c/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.284Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "#学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827e3"
+  },
+  "link": "https://www.youtube.com/shorts/hz0hF3RRPLE",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.285Z"
+  },
+  "date": "2026.06.01",
+  "image": "https://i1.ytimg.com/vi/hz0hF3RRPLE/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.285Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "#学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827e5"
+  },
+  "link": "https://www.youtube.com/shorts/R0KerqJa6Z0",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.285Z"
+  },
+  "date": "2026.05.30",
+  "image": "https://i3.ytimg.com/vi/R0KerqJa6Z0/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.285Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "#学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827e7"
+  },
+  "link": "https://www.youtube.com/shorts/bFHAJBBCHDQ",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.285Z"
+  },
+  "date": "2026.05.29",
+  "image": "https://i3.ytimg.com/vi/bFHAJBBCHDQ/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.285Z"
+  },
+  "source": "youtube-UCQ1U65-CQdIoZ2_NA4Z4F7A",
+  "sourceLabel": "KAF (YouTube)",
+  "title": "1日ひとつ手札を失うスタイル❔ ✌️✋✌️✋ #学園戦線 MV公開中!! #花譜 5th Album #深愛 発売中🎧 #newmusic #dance #shorts"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827e9"
+  },
+  "link": "https://www.youtube.com/watch?v=3Bj6N-OthA0",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.286Z"
+  },
+  "date": "2026.07.02",
+  "image": "https://i4.ytimg.com/vi/3Bj6N-OthA0/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.293Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "【 #理芽歌うってよRe 】2D公開＆歌枠１周年記念歌枠‼️"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827eb"
+  },
+  "link": "https://www.youtube.com/watch?v=OEmkeO05540",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.286Z"
+  },
+  "date": "2026.07.02",
+  "image": "https://i4.ytimg.com/vi/OEmkeO05540/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.294Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "晴る - ヨルシカ Covered by 理芽 / RIM｜from 神椿【歌ってみた】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827ed"
+  },
+  "link": "https://www.youtube.com/shorts/Dq_uJTHuTSo",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.287Z"
+  },
+  "date": "2026.06.27",
+  "image": "https://i1.ytimg.com/vi/Dq_uJTHuTSo/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.294Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "愛楽 - 加藤ミリヤ×椎名林檎 Covered by 理芽×明透 / RIM×ASU｜from 神椿【歌ってみた】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827ef"
+  },
+  "link": "https://www.youtube.com/shorts/Qsit7wkx2Xo",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.287Z"
+  },
+  "date": "2026.06.24",
+  "image": "https://i2.ytimg.com/vi/Qsit7wkx2Xo/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.295Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "愛楽 - 加藤ミリヤ×椎名林檎 Covered by 理芽×明透 / RIM×ASU｜from 神椿【歌ってみた】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827f1"
+  },
+  "link": "https://www.youtube.com/shorts/q2g04LXOzho",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.288Z"
+  },
+  "date": "2026.06.19",
+  "image": "https://i2.ytimg.com/vi/q2g04LXOzho/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.295Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "MERMAID - Meg Bonus Covered by 理芽 / RIM｜from 神椿【歌ってみた】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827f3"
+  },
+  "link": "https://www.youtube.com/watch?v=6_etcDihLNk",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.288Z"
+  },
+  "date": "2026.06.18",
+  "image": "https://i3.ytimg.com/vi/6_etcDihLNk/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.296Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "愛楽 - 加藤ミリヤ×椎名林檎 Covered by 理芽×明透 / RIM×ASU｜from 神椿【歌ってみた】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827f5"
+  },
+  "link": "https://www.youtube.com/shorts/9UUfqyY0C5c",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.288Z"
+  },
+  "date": "2026.06.16",
+  "image": "https://i2.ytimg.com/vi/9UUfqyY0C5c/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.296Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "MERMAID - Meg Bonus Covered by 理芽 / RIM｜from 神椿【歌ってみた】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827f7"
+  },
+  "link": "https://www.youtube.com/watch?v=kJioQOPCKQw",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.289Z"
+  },
+  "date": "2026.06.09",
+  "image": "https://i4.ytimg.com/vi/kJioQOPCKQw/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.297Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "MERMAID - Meg Bonus Covered by 理芽 / RIM｜from 神椿【歌ってみた】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827f9"
+  },
+  "link": "https://www.youtube.com/shorts/R1wW0lB4d84",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.289Z"
+  },
+  "date": "2026.05.29",
+  "image": "https://i3.ytimg.com/vi/R1wW0lB4d84/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.298Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "Suddenly I See - KT Tunstall Covered by 理芽 / RIM｜from 神椿  #理芽  #KTTunstall #SuddenlyISee"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827fb"
+  },
+  "link": "https://www.youtube.com/shorts/oYGebaLY1cg",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.290Z"
+  },
+  "date": "2026.05.27",
+  "image": "https://i4.ytimg.com/vi/oYGebaLY1cg/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.298Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "Suddenly I See - KT Tunstall Covered by 理芽 / RIM｜from 神椿　#理芽 #KT Tunstall #SuddenlyISee"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827fd"
+  },
+  "link": "https://www.youtube.com/watch?v=QbPWr4sYaYI",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.290Z"
+  },
+  "date": "2026.05.15",
+  "image": "https://i2.ytimg.com/vi/QbPWr4sYaYI/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.299Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "Suddenly I See - KT Tunstall Covered by 理芽 / RIM｜from 神椿【歌ってみた】"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a45827ff"
+  },
+  "link": "https://www.youtube.com/shorts/dF08skWbipo",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.290Z"
+  },
+  "date": "2026.05.13",
+  "image": "https://i1.ytimg.com/vi/dF08skWbipo/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.300Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "#神椿フェス2026 開催決定　#理芽  #KAMITSUBAKIFES'26"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a4582801"
+  },
+  "link": "https://www.youtube.com/shorts/4osWNGylIag",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.291Z"
+  },
+  "date": "2026.05.13",
+  "image": "https://i1.ytimg.com/vi/4osWNGylIag/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.300Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "Spring of Life - Perfume Covered by 理芽 / RIM｜from 神椿 #理芽 #Perfume ＃springoflife"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a4582803"
+  },
+  "link": "https://www.youtube.com/shorts/J4DKkvXg_MI",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.292Z"
+  },
+  "date": "2026.05.12",
+  "image": "https://i3.ytimg.com/vi/J4DKkvXg_MI/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.301Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "Spring of Life - Perfume Covered by 理芽 / RIM｜from 神椿  #理芽 #Perfume ＃springoflife"
+},
+{
+  "_id": {
+    "$oid": "6a49bf5fa9fbdfc3a4582805"
+  },
+  "link": "https://www.youtube.com/shorts/ug0ryDCiIOM",
+  "createdAt": {
+    "$date": "2026-07-05T02:20:15.292Z"
+  },
+  "date": "2026.05.02",
+  "image": "https://i2.ytimg.com/vi/ug0ryDCiIOM/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-05T02:20:15.301Z"
+  },
+  "source": "youtube-UCfBkUgaJ6eqYA9_TX2cmq9A",
+  "sourceLabel": "RIM (YouTube)",
+  "title": "Home - Charlie Puth feat. 宇多田ヒカル Covered by 理芽 / RIM｜from 神椿　 #CharliePuth #宇多田ヒカル #理芽"
+}]

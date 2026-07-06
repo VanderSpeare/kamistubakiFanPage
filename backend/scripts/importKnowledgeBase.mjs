@@ -33,7 +33,7 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { getDb } from '../lib/mongo.mjs';
+import { getDb } from '../../lib/mongo.mjs';
 
 const DEFAULT_INPUT_PATH = path.resolve('data/kamitsubaki_cleaned.json');
 

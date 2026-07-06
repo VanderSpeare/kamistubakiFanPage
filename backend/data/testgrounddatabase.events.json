@@ -1,0 +1,2698 @@
+[{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d85"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/27/1740/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.679Z"
+  },
+  "date": "2022.11.27",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.679Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.27花譜【花譜】3rd Album「狂想」先行予約発売決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d87"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/25/1692/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.706Z"
+  },
+  "date": "2022.11.25",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.706Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.25廉【廉】「始発駅、君を待つ。」「ドールジアビス」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d89"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/24/1738/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.709Z"
+  },
+  "date": "2022.11.24",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.709Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.24ヰ世界情緒【ヰ世界情緒】作品集「息吹 〜connecting world〜」コミックマーケット101にて発売決定。発売を記念して、バーチャル特典お渡し会も開催。"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d8b"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/23/1725/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.711Z"
+  },
+  "date": "2022.11.23",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.711Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.23Guiano【Guiano】新曲「月」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d8d"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/23/1722/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.713Z"
+  },
+  "date": "2022.11.23",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.713Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.23理芽ヰ世界情緒CIEL【理芽 & ヰ世界情緒】11/23「Singularity Live」配信アルバムタイトルの誤りとお詫び"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d8f"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/19/1711/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.714Z"
+  },
+  "date": "2022.11.19",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.714Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.19OFFICIALCompilation Album「KAMITSUBAKI STUDIO SAMPLER Vol. 1」発売決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d91"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/17/1707/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.715Z"
+  },
+  "date": "2022.11.17",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.715Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.17DUSTCELL【DUSTCELL】お詫び：DUSTROOMのシステム不備について"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d93"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/17/1701/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.718Z"
+  },
+  "date": "2022.11.17",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.718Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.17DUSTCELL【DUSTCELL】12月から公式ファンクラブアプリ「DUSTROOM」始動"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d95"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/17/1700/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.720Z"
+  },
+  "date": "2022.11.17",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.720Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.17DUSTCELL【DUSTCELL】23年春 2nd Mini Album発売 & 全国ツアー開催決定"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d97"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/17/1698/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.722Z"
+  },
+  "date": "2022.11.17",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.722Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.17DUSTCELL【DUSTCELL】11/17 (木) TOKYO DOME CITY HALL / 当日券販売決定"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d99"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/16/1695/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.724Z"
+  },
+  "date": "2022.11.16",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.724Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.16DUSTCELL【DUSTCELL】11/17 (木) LIVE 2022「PREPARATION」当日ご来場いただく皆様へのご案内（注意事項 / 先行物販 / 当日券等）"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d9b"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/10/1683/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.725Z"
+  },
+  "date": "2022.11.10",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.725Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.10廉【廉】「完結型マイルーム」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d9d"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/09/1685/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.727Z"
+  },
+  "date": "2022.11.09",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.727Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.09ヰ世界情緒【ヰ世界情緒】「かたちなきもの」配信開始 & MV公開"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581d9f"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/11/02/1646/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.728Z"
+  },
+  "date": "2022.11.02",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.728Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.11.02平田義久【平田義久】「夏至下る」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581da1"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/28/1663/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.729Z"
+  },
+  "date": "2022.10.28",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.729Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.28Misumi【Misumi】新曲「不完全愛情進行中」配信開始 & MV公開"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581da3"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/21/1657/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.730Z"
+  },
+  "date": "2022.10.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.730Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.21DUSTCELL【DUSTCELL】11/17 LIVE 2022「PREPARATION」配信決定"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581da5"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/21/1653/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.731Z"
+  },
+  "date": "2022.10.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.731Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.21Guiano【Guiano】「風」配信開始 & MV公開"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581da7"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/14/1631/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.732Z"
+  },
+  "date": "2022.10.14",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.732Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.14理芽【理芽】山田悠介の新作小説「サブスクの子と呼ばれて」のテーマソングを担当"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581da9"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/11/1629/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.733Z"
+  },
+  "date": "2022.10.11",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.733Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.11大沼パセリ【大沼パセリ】10/13 (木) 初のSTUDIO LIVEをYouTube Liveで無料配信"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dab"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/09/1622/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.735Z"
+  },
+  "date": "2022.10.09",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.735Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.09音楽的同位体「狐子」【音楽的同位体 狐子(COKO)】発売日決定&予約販売開始！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dad"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/10/05/1617/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.737Z"
+  },
+  "date": "2022.10.05",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.737Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.10.05理芽【理芽】「インナアチャイルド」配信開始 & 「少年のアビス」ドラマMV公開"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581daf"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/29/1613/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.739Z"
+  },
+  "date": "2022.09.29",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.739Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.29春猿火幸祜CIEL【春猿火 / 幸祜】 11/6（日）TWO-MAN LIVE 「Singularity Live 2」オンラインにて開催決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581db1"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/26/1593/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.740Z"
+  },
+  "date": "2022.09.26",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.740Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.26OFFICIAL神椿市建設中。【KAMITSUBAKI DAO】NFTゲームプレス様にて記事掲載"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581db3"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/21/1589/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.741Z"
+  },
+  "date": "2022.09.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.741Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.21OFFICIAL神椿市建設中。【KAMITSUBAKI DAO】NFT Media様にて記事掲載"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581db5"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/16/1585/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.742Z"
+  },
+  "date": "2022.09.16",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.742Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.16OFFICIAL神椿市建設中。【KAMITSUBAKI DAO】神椿市のメタバースを共創するWeb3コミュニティ「KAMITSUBAKI DAO」発足。FiNANCiEにてトークンの新規発行・販売開始。"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581db7"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/16/1582/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.744Z"
+  },
+  "date": "2022.09.16",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.744Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.16理芽ヰ世界情緒CIEL【理芽×ヰ世界情緒】11/23 TWO-MAN LIVE「Singularity Live」Blu-ray発売決定 / 受注予約開始"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581db9"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/14/1579/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.744Z"
+  },
+  "date": "2022.09.14",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.744Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.14平田義久【平田義久】「飛燕」配信開始"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dbb"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/13/1570/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.746Z"
+  },
+  "date": "2022.09.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.746Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.13OFFICIAL神椿市建設中。【KAMITSUBAKI DAO】神椿が新たに産み出すWeb3コミュニティ「KAMITSUBAKI DAO」、9月16日(金)クラウドファンディング2.0サービスFiNANCiEにてプロジェクトの全容公開。"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dbd"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/09/12/1557/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.747Z"
+  },
+  "date": "2022.09.12",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.747Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.09.12幸祜【幸祜】ストリーミングカバーライブ「あられライブ2」の開催決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dbf"
+  },
+  "link": "https://kamitsubaki.studio/en/news/2022/08/26/1567/",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.747Z"
+  },
+  "date": "2022.08.26",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.747Z"
+  },
+  "source": "kamitsubaki-official-news",
+  "sourceLabel": "KAMITSUBAKI STUDIO — Official News",
+  "title": "2022.08.26花譜【花譜】「VTuberスタイル」9月号にて花譜が表紙決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dc1"
+  },
+  "link": "https://www.youtube.com/watch?v=exGINPKo2_4",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.748Z"
+  },
+  "date": "2026.06.25",
+  "image": "https://i2.ytimg.com/vi/exGINPKo2_4/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.748Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "【チャリティー配信】VTuber Summer Slam 2026! × KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dc3"
+  },
+  "link": "https://www.youtube.com/watch?v=BAmkHKb7KJk",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.749Z"
+  },
+  "date": "2026.06.22",
+  "image": "https://i3.ytimg.com/vi/BAmkHKb7KJk/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.749Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "目指せ動員数No.1！新作ボードゲーム「KAMITSUBAKI FES Star Reach WARS」"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dc5"
+  },
+  "link": "https://www.youtube.com/watch?v=MyeJSjr_OUY",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.750Z"
+  },
+  "date": "2026.06.18",
+  "image": "https://i2.ytimg.com/vi/MyeJSjr_OUY/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.750Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/05"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dc7"
+  },
+  "link": "https://www.youtube.com/watch?v=H5W_-NJYYsc",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.753Z"
+  },
+  "date": "2026.05.26",
+  "image": "https://i1.ytimg.com/vi/H5W_-NJYYsc/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.753Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/04"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dc9"
+  },
+  "link": "https://www.youtube.com/watch?v=LPNHLlcvwok",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.755Z"
+  },
+  "date": "2026.05.20",
+  "image": "https://i1.ytimg.com/vi/LPNHLlcvwok/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.755Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "【 #神椿フェス2026 】9月5日(土) パシフィコ横浜 国立大ホール「KAMITSUBAKI FES ’26 FIELD OF RESONANCE」開催決定ティザー映像"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dcb"
+  },
+  "link": "https://www.youtube.com/watch?v=ftUC-kdPqaw",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.756Z"
+  },
+  "date": "2026.05.18",
+  "image": "https://i3.ytimg.com/vi/ftUC-kdPqaw/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.756Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "神椿TCG倶楽部 vol.9 ー大クイズ大会 & 驚きの新情報発表！ ー"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dcd"
+  },
+  "link": "https://www.youtube.com/watch?v=RosZyttsjMU",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.757Z"
+  },
+  "date": "2026.05.07",
+  "image": "https://i3.ytimg.com/vi/RosZyttsjMU/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.757Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/03"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dcf"
+  },
+  "link": "https://www.youtube.com/watch?v=Pu4pj0KNHF4",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.759Z"
+  },
+  "date": "2026.03.22",
+  "image": "https://i1.ytimg.com/vi/Pu4pj0KNHF4/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.759Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/02"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dd1"
+  },
+  "link": "https://www.youtube.com/watch?v=dlGG9e84M2I",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.760Z"
+  },
+  "date": "2026.03.17",
+  "image": "https://i1.ytimg.com/vi/dlGG9e84M2I/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.760Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "神椿TCG倶楽部 vol.8 ーBOX開封と春のイベント情報公開！ー"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dd3"
+  },
+  "link": "https://www.youtube.com/watch?v=eGvZE2lRlXY",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.762Z"
+  },
+  "date": "2026.02.24",
+  "image": "https://i2.ytimg.com/vi/eGvZE2lRlXY/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.762Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 26/01"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dd5"
+  },
+  "link": "https://www.youtube.com/watch?v=4WFNKAdAFxA",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.764Z"
+  },
+  "date": "2026.01.29",
+  "image": "https://i1.ytimg.com/vi/4WFNKAdAFxA/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.764Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 25/12"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dd7"
+  },
+  "link": "https://www.youtube.com/watch?v=qddsY3Tl13A",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.766Z"
+  },
+  "date": "2026.01.27",
+  "image": "https://i2.ytimg.com/vi/qddsY3Tl13A/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.766Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "神椿TCG倶楽部 vol.7 ー追奏対決と新イベント情報発表！ー"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dd9"
+  },
+  "link": "https://www.youtube.com/watch?v=6hvbtEUdEXE",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.768Z"
+  },
+  "date": "2026.01.08",
+  "image": "https://i3.ytimg.com/vi/6hvbtEUdEXE/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.768Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "MONTHLY KAMITSUBAKI 25/11"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581ddb"
+  },
+  "link": "https://www.youtube.com/watch?v=M50M_X4-okw",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.770Z"
+  },
+  "date": "2026.01.07",
+  "image": "https://i2.ytimg.com/vi/M50M_X4-okw/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.770Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "新年もプレゼントはV.W.P次第！？KAMITSUBAKI VR NIGHT"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581ddd"
+  },
+  "link": "https://www.youtube.com/watch?v=ER0G2xLlhGE",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.771Z"
+  },
+  "date": "2025.12.29",
+  "image": "https://i2.ytimg.com/vi/ER0G2xLlhGE/hqdefault.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.771Z"
+  },
+  "source": "youtube-UCAOhUv73jM5iCpOhuJOQzxA",
+  "sourceLabel": "KAMITSUBAKI STUDIO (YouTube)",
+  "title": "【限定アーカイブ版】KAMITSUBAKI GRAND CHAMPIONSHIP 2025 【決勝ラウンド生放送】"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581ddf"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MUDUzMWtseUNEU2dKVExGMmxqenhramJ6MktweS0wQm4xM2poSFIweWdjT2ttQmNFYk5QUURNZ0piUVJwLUNydzBNcGI3dHVfRUdHYTVPRXE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.773Z"
+  },
+  "date": "2026.07.01",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.773Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "【Empty old City】 「Looma」English Ver.配信リリース - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581de1"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1scEt6RUVEaEMzai1OSkJRcGdEVVVaYlBrdTQ1U1c1RVlhaTZxNVY3dDlKMTNhUGw1ZEw0LTRRMjhHUFZ2cXdBVw?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.774Z"
+  },
+  "date": "2026.06.10",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.774Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "神椿のバーチャルユニット「空爽」 初の単独ライブをYouTubeで全編無料配信 - KAI-YOU"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581de3"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DRE5pWGVJT2x1TEN6OW1yeFcwcjVZb0JKU3VFS2xaTW95UzhHU0hKNDhFcEZFZUJDUHE3aXp2c1J0ZFI0RkRTTl8xNmk?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.775Z"
+  },
+  "date": "2026.07.02",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.775Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "神椿アーティストとファンが米国チャリティーイベント「VTuber Summer Slam 2026」にて寄付総額100万円を達成 - panora.tokyo"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581de5"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaNExFbnU5cjVYZ1lQSmZyWVlna1pDaE1QS2xlWHN0cExGSTZHRG5wNWVxc000NlJrazdCTWFBNzdHTVNiT0JCRA?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.777Z"
+  },
+  "date": "2026.06.19",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.777Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "KAMITSUBAKI STUDIOがチャリティー配信を実施 理芽、幸祜ら4名が参加 - KAI-YOU"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581de7"
+  },
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzT08xYVdCS0JCOU1YeTg3eHNIc2xZRUMtUm1PR1pzbG5nWGY0V2UwY2ZNRGY3RmViNjFCY28xeE9DVEpobEFISFpYWGUtMWNnUEp4X2o0eFl6aTk4eVNrSXRmTTRYUEU5UmI4anpVUXpmMzdBbU1z?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.778Z"
+  },
+  "date": "2026.06.24",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.778Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "KAMITSUBAKI STUDIO、米国チャリティーイベント「VTuber Summer Slam 2026」に出演 - Mogura VR"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581de9"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40NFptSmFOd1Z6dmxTM1RQTWJLUTBIM1UzZ24zZ0lweGFGSzU2eFF2Vmx6YzRZYVQ1bktTLTYyNzVESFNqVXpOdk03QTJfejhiRlNtOXc3NUJuZmVlUWVtRUN4LWEyYXAwM0E?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.779Z"
+  },
+  "date": "2026.06.19",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.779Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "KAMITSUBAKI STUDIOが米国チャリティーイベント「VTuber Summer Slam 2026」に参加決定！ - PR TIMES"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581deb"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8xcjJpZnBMOWltdnkyT0IwVU45c1h1VXFDM05WMzY4eVpxR1VoSWZxd3BKdVNfbWdydHdiQ0I2alhJMDNa?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.780Z"
+  },
+  "date": "2026.07.02",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.780Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "神椿アーティストがVTuber Summer Slam 2026で寄付100万円達成 - Koubo"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581ded"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sQ2ZHc3Rjc1RMYW9TdTBaRjNFQ2xDdUgzc0wwVEdBQmN0ZUgxb2lsdXhEMWJaS3A5WGlJeng5RUJ4Y2JTajJtSHJ1a3dISWdGUVpuNGFiMjVhM2FDejRHcmpWRQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.781Z"
+  },
+  "date": "2026.03.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.781Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "神椿アーティストが登場する新作ボドゲ「KAMITSUBAKI FES Star Reach WARS」が10月中発売へ。ステージを通じてファンを集める対戦型ゲーム - 4Gamer.net"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581def"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UWjVOdDNFZFBycmYzLWlSY1J2R0xKTXBOMWtFZlpVSERZRFVfaXNDV0d6cmFmZnFxbl9PTkVxSGR5OW5tX3ZLOXNNZGFtT1ZvMmVqZktsY3E?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.782Z"
+  },
+  "date": "2026.02.12",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.782Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "神椿ゲームタイトルを無料で遊べるイベントを2月14日(土)・15日(日) 新宿で開催 - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581df1"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53RTR3RUpyYm54dEh0dGxweHY1TTVMUXFaNHNNbk5ROTlCa1kwRmVieGlTajhLUUh1ZjllQzN3VlY3dU9jUlcyOVRkQm8?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.783Z"
+  },
+  "date": "2026.06.04",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.783Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAMITSUBAKI STUDIO\"",
+  "title": "花譜「宿声 in Hong Kong」ライブレポート 国や言語を超え、客席を熱狂させた歌声の価値 - panora.tokyo"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581df3"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJS2lZR01KRUlDZDAzdlBzZFdTZ09SLXVRN3AzVUJWb09kQ1o0eDZQN1RwYURJMmpablRHSEl5clJuTTg?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.785Z"
+  },
+  "date": "2026.05.27",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.785Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "【急上昇ワード】花譜、ニューアルバム『深愛』リリース - OTOTOY"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581df5"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80SnJjdFdYRW5YRnNoTzEzeHprNU5lcUgyTE1oZ3BzSkdTMDNIelZtWDUxSndqdzIwYjZ6aUx5WEF1STRYQVE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.786Z"
+  },
+  "date": "2026.05.27",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.786Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "【花譜】「学園戦線」MV公開 教室に収まらない青春が踊り出す 振付は200万人フォロワーを超えるKOTARO IDEが担当 - エイベックス・ポータル"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581df7"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TNTl5ekVNMHJtVld3OGVlRmR3NDZUZlBMTUlSQ3c2bWk1WWNCUFlibVpVbjltLXNRUlJEeXB2TnlDeC1kN0NQVHF2YjctUWxEbjFDY21qVTVHdw?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.787Z"
+  },
+  "date": "2026.06.29",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.787Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "花譜 衣装 人気バーチャルシンガー 花譜 が 燕の衣装で1 7スケールフィギュアとして登場 9月19日 金 より予約開始 商品・サービストピックス ポータルサイト - richardajkeys.com"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581df9"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11bEpBZ1EyM2g0UjJ4VDc5bHQzZU1hcmJ4bnYzTHI0SjhITzdNZmVBQmJtLXlJMkxoVElteUJBaERZWGpieVQxT3N2TktITlZkcktFNzhTYw?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.788Z"
+  },
+  "date": "2025.10.18",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.788Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "【花譜】バーチャルシンガー花譜、世界へ―― 次なる可能性の拡張。 - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dfb"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ETEhfT1N2T01SRUtGMjZWbm1UMldDblE5c3I5WUViUU1kUzFqald1MkdSUTlDM1FoOFQyQ1lGSXlCSmlUeV85a2JvcF80SVZfU3BqYUVtMUl6Y1M1WFBpS3E4cFdPVjVXY0E?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.789Z"
+  },
+  "date": "2025.10.18",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.789Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "花譜5th ONE-MAN LIVE「宿声 / 深愛」ぴあアリーナMMにて26年3月1日(日)開催決定！ - PR TIMES"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dfd"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sZVZpSUVfaHJEWDI3Vk9aT29yV0MyV3k0SUl0Mm9JYzA1Um5GSkU4ZjR1bFY1YWRsSmFIdXdVUkQzNzFodHNQMmxKLXhhazFNTkdjRlhCZmRFaDJiY0E?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.789Z"
+  },
+  "date": "2026.03.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.789Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "花譜、歩んできた7年間の軌跡を観測者と共に回顧、原点回帰した【神椿横浜決戦 DAY 2】、物語は新章へと拡張し続ける - DISK GARAGE （ディスクガレージ）"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581dff"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vRDdCRmNEN2NIenFJX2xmODB4dHZDVWx1YkJ0UTBTblVtSzRhSThSUkg2X1dPa1pucnpzcEVqM21LTEFYNGNLYQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.790Z"
+  },
+  "date": "2026.03.02",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.790Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "Vシンガー花譜、専門学校HALとのタイアップ決定 新CMソングを歌唱 - KAI-YOU"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e01"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GRlRUQndlNlExVWdIWXVpZFpaX1FzbGl4OGRvSnlMN01XMEl1VVZGT0NCakZENGhoaVJ4cWxxRVRqb0s2QjhKRVRkT3NndUVzMFVSVW1GWjdiSGRETzBiVNIBZkFVX3lxTE83M3N2T00xZkdmN3h5Q3VubkpNZ1Z5SzNEQ0JaSVFDc0x5cENadXp3YzJoYlRDaGpWbnVLVXhNTlNCYy16TTdlcUFFd3pfYmswVUNLeTlrZFNpRDhDWndoQ0h2MkVSdw?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.790Z"
+  },
+  "date": "2026.06.30",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.790Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "星街すいせい、花譜、春麗、久慈川りせらが“次元”を越えて共演　『X VORDER RUNWAY』開催が発表 - Real Sound｜リアルサウンド"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e03"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KeVVGMDVHazc1VW9QbTdiWGx1aHFuVUZrbzNOTWV6aXZ4ZGhvaklTWXVLWEdPSUFRYmhNVElvNkNhclZtSTYwMnJERC05dXM5QXI5YXRDTmtIZF9ENHVTVG1HQQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.791Z"
+  },
+  "date": "2026.03.18",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.791Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "作品情報まとめ】バーチャルシンガー・花譜の5thアルバム「深愛」起点の物語――中村 紬『カミュの歌鳥 花譜小説集 - カドブン"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e05"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zQkNIdExlSFVVVG43V2hBT0paX1dJTTJpU2hIRlNfQ1I5SWw5QjR2dVFLWFlKT3ZqNjRhU2NibkhCSk5VRUE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.792Z"
+  },
+  "date": "2026.02.25",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.792Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"KAF 花譜\"",
+  "title": "【花譜】小説・音楽・ライブが交差する5th Album『深愛』より新曲「周波数0の合言葉」を2月25日に先行配信リリース。 - エイベックス・ポータル"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e07"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HNm1fd3kxU1JQdm56RlVkaVJud3kwVTRIWkNWcDhhSGRMWmpRWTJVZlhBbWFWZG5uYlc3N1R5QmtLUVRqWlgwQS05Ml9WSEUzWnMwdkdIRjQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.792Z"
+  },
+  "date": "2026.06.01",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.792Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "神椿横浜決戦2026 dアニメストアにて期間限定・見放題配信開始 - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e09"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6WEZUbF8wRmJFMVNGLTFyb2VHNDVLalE0TFVzSEJIT2llbUVVTXhoMFhtSmE3Snl2V2U5R1VDLWZIaExqUEFPQUlsMkJkVGNmSTdLazFnZHB2UnhKRHc?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.793Z"
+  },
+  "date": "2026.03.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.793Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "V.W.P、“INTERVAL”期間前の最後のワンマンライブ！花譜、理芽、春猿火、ヰ世界情緒、幸祜5人の強い結束が感じられる充実のステージ【神椿横浜決戦 DAY 1】をレポート - DISK GARAGE （ディスクガレージ）"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e0b"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbnkwVnF4QlFFaGdSd3ZhR2h4VW1zN3labGJKMzUzTDc4TVFFQ1VfdFJaQzBROU1XeEw0eVZUSjJHV1dJVS1TbVZSVVJ3cVE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.793Z"
+  },
+  "date": "2026.02.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.793Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "PIA ARENA MM - ぴあアリーナMM"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e0d"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FM0xFSEdod1Y3Y2FHdUk2RUVXTklET1pFeDJMd0RJc1hKUF9JTHBIZTZBbXdfWmxkVjd4Y3NyenV4U01mYUdkZVNFWE5NOGpEWDJicjAyNkJrVHlDVE4tNHNwQmk0WW1XckE?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.794Z"
+  },
+  "date": "2026.02.13",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.794Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "Photomaticがバーチャルアーティストグループ「V.W.P」の4th ONE-MAN LIVE「現象Ⅳ-反転運命-」とのコラボフレームを発売 - PR TIMES"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e0f"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ubjQ1eXVxX1FIell5b2lWdVkwdUpnWjcwTFVQamMzNExTaGsxWEtQUUozaDBSc0xTbW1aSTJiczVTLTFyQ2RQeQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.794Z"
+  },
+  "date": "2026.02.14",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.794Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "花譜ら所属の「V.W.P」が充電期間前に“挑戦状” 謎解き企画「Q：軌跡」始動 - KAI-YOU"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e11"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kR1NfenVuRVpFNVcwX2xWZjYwSUVNWk9nWG5CbEJpa2Q3aHU1UlpzWWh4TXg3MGlPWEc5T2dsWHUxQkdSdVItazZTX3g?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.795Z"
+  },
+  "date": "2026.06.01",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.795Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "dアニメストアで『KAMITSUBAKI WARS 2026 神椿横浜決戦』期間限定の見放題配信がスタート 2026年6月1日より - panora.tokyo"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e13"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZ0RnZnljeFZ6UUMySkI4SmxGaWJISTB2UTNQb1J0blc0VmhvVWxYZFR3b0hNbEN6ZXZ2ZS0yQlFaVS0wRGFCNGdmdUdTX1JRUUJqOS1Ta1VXMzQ2eWhQbmdfeDB6cVU?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.795Z"
+  },
+  "date": "2026.01.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.795Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "バーチャルアーティストグループV.W.P、進化のための活動期間「INTERVAL」を発表 再開を前提とした前向きな決断 - Mogura VR"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e15"
+  },
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uQzNWSXhFbElOdS1QQUtTUGtzQU5FbHpxal9YMlBKX0FTdHIwZmd6YnNfcDBENlZtV1RJWE4xVGctcm1nbTNZVkdUOXQ3Q3cwZWJUcEtudVZsYVZxcEdMb295QkZSZGxJamdWei1DUkowMDViLXE0X0RBbVh3MWM?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.796Z"
+  },
+  "date": "2026.01.21",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.796Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "花譜・理芽・春猿火・ヰ世界情緒・幸祜によるV.W.P、活動を一時的に休む“INTERVAL”を発表 それぞれの成長に注力 - Yahoo!ニュース"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e17"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaVGVKWjZSVWM0YVpBZnlOTlVoNnZJXzVBcFh1S0l3aHZxX29oeTlsNEhxbUJfMG5DSDd6Ukc3RWg0Nm1KZXZsblo1V2ZPSHNq?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.796Z"
+  },
+  "date": "2025.11.04",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.796Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "TVアニメ『神椿市建設中。』より「V.W.P」メンバーが声優を担当する「森先化歩」と「夜河世界」が豪華仕様の“Luminasta”フィギュアとしてセガプライズに登場!! - 電撃ホビーウェブ"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e19"
+  },
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ER0pJUEQ5eWxMbmpDeTYybEpkYlB4YTRUTV9henE0ZzJxeWV5MjRMbGtVUHQwenotbG80a1ZiWkZJTnN3dTdyTWMzX2VXVWh6dkJNcld6QQ?oc=5",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.797Z"
+  },
+  "date": "2025.09.27",
+  "image": null,
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.797Z"
+  },
+  "source": "google-news",
+  "sourceLabel": "Press coverage — \"V.W.P 神椿\"",
+  "title": "【V.W.P】V.W.P、2月28日(土) ぴあアリーナMMにて グループ史上過去最大規模公演の開催が決定！ - KAMITSUBAKI STUDIO"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e1b"
+  },
+  "link": "https://www.zan-live.com/ja/live/detail/10656",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.797Z"
+  },
+  "date": "2025.10.18",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-kaf-2.webp",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.805Z"
+  },
+  "source": "kaf-yokohamawars2026",
+  "sourceLabel": "KAF — 5th ONE-MAN LIVE「宿声 / 深愛」",
+  "title": "配信チケット発売決定！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e1d"
+  },
+  "link": "https://r-t.jp/kaf",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.798Z"
+  },
+  "date": "2026.01.31",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-kaf-1.webp",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.806Z"
+  },
+  "source": "kaf-yokohamawars2026",
+  "sourceLabel": "KAF — 5th ONE-MAN LIVE「宿声 / 深愛」",
+  "title": "会場チケット一般発売中！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e1f"
+  },
+  "link": "https://x.com/kamitsubaki_jp/status/2018248123198685637?s=20",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.799Z"
+  },
+  "date": "2026.02.02",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-vwp-3.webp",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.817Z"
+  },
+  "source": "vwp-yokohamawars2026",
+  "sourceLabel": "V.W.P — 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+  "title": "当日物販情報公開！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e21"
+  },
+  "link": "https://x.com/kamitsubaki_jp/status/2022143742845808932?s=20",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.799Z"
+  },
+  "date": "2026.02.13",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2026/02/260204_KTW_yokohama_MAP_1F-1329x1166.jpg",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.818Z"
+  },
+  "source": "vwp-yokohamawars2026",
+  "sourceLabel": "V.W.P — 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+  "title": "会場連動企画情報　公開！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e2b"
+  },
+  "link": "https://www.zan-live.com/ja/live/detail/10655",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.807Z"
+  },
+  "date": "2025.10.18",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-vwp-2.webp",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.814Z"
+  },
+  "source": "vwp-yokohamawars2026",
+  "sourceLabel": "V.W.P — 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+  "title": "配信チケット詳細解禁！"
+},
+{
+  "_id": {
+    "$oid": "6a49605ea9fbdfc3a4581e2d"
+  },
+  "link": "https://r-t.jp/v-w-p",
+  "createdAt": {
+    "$date": "2026-07-04T19:34:54.808Z"
+  },
+  "date": "2026.01.31",
+  "image": "https://yokohamawars2026.kamitsubaki.jp/wp/wp-content/uploads/2025/11/news-vwp-3.webp",
+  "scrapedAt": {
+    "$date": "2026-07-04T19:34:54.815Z"
+  },
+  "source": "vwp-yokohamawars2026",
+  "sourceLabel": "V.W.P — 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+  "title": "会場チケット一般発売中！"
+},
+{
+  "_id": "event_2026_kamitsubaki_fes_day1",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2026-09-05",
+  "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+  "id": "event_2026_kamitsubaki_fes_day1",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.766Z"
+  },
+  "open": "16:00",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "rim",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "harusaruhi",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "isekaijoucho",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "koko",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "kuusou",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "akari",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "bimai",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "girls_revolution_project",
+      "role": "Performer",
+      "sub_unit": "Shinseiki"
+    },
+    {
+      "artist_id": "girls_revolution_project",
+      "role": "Performer",
+      "sub_unit": "Tsumitobatsu"
+    },
+    {
+      "artist_id": "girls_revolution_project",
+      "role": "Performer",
+      "sub_unit": "罪十罰"
+    },
+    {
+      "artist_id": "girls_revolution_project",
+      "role": "Performer",
+      "sub_unit": "心世紀"
+    }
+  ],
+  "series_id": "series_2026_kamitsubaki_wars",
+  "setlist": "TBA",
+  "source": "Official announcement from kamitsubaki.jp (2026-05-12)",
+  "start": "17:00",
+  "status": "Announced",
+  "tickets_ref": "series_2026_kamitsubaki_wars.tickets_general",
+  "title": "KAMITSUBAKI FES '26 FIELD OF RESONANCE",
+  "type": "fes",
+  "venue_ref": "series_2026_kamitsubaki_wars.venue",
+  "year": 2026,
+  "goods_special": [
+    "KAMITSUBAKI FES 2026 T-shirt (Black ver. & White ver.)",
+    "Artist visual & logo design goods",
+    "Light sticks, towels, acrylic goods, random badges"
+  ],
+  "notes": "Đây là DAY-1 của KAMITSUBAKI WARS 2026 Yokohama. Chủ đề \"FIELD OF RESONANCE\" tập trung spotlight vào các virtual artists. Kết hợp với DAY-2 là solo live của KAF."
+},
+{
+  "_id": "event_2026_kaf_5th_oneman_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2026-09-06",
+  "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+  "goods_special": [
+    "C4U KAF 3D rubber charm (đường kính ~7cm)",
+    "Reversible eye mask & blanket set (Special ver.)",
+    "KAF×vaultroom TEE",
+    "Limited goods qua FINDME STORE pre-order",
+    "Collab HIS hotel plan kèm goods"
+  ],
+  "id": "event_2026_kaf_5th_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.767Z"
+  },
+  "open": "16:30",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": "series_2026_kamitsubaki_wars",
+  "setlist": "TBA",
+  "source": "Official announcement from kamitsubaki.jp (2026-05-12) và Z-aN",
+  "start": "17:30",
+  "status": "Announced",
+  "ticket_special": "TBA — kiểm tra xem có bán vé combo 2 ngày hay tách riêng.",
+  "tickets_ref": "series_2026_kamitsubaki_wars.tickets_general",
+  "title": "KAF 5th ONE-MAN LIVE「宿声 / 深愛（巡）」",
+  "type": "one_man_live",
+  "venue_ref": "series_2026_kamitsubaki_wars.venue",
+  "year": 2026,
+  "notes": "Đây là show solo thứ 5 của KAF, chủ đề \"宿声 / 深愛（巡）\" nhấn mạnh việc quay về cội nguồn và mở rộng khả năng. Là DAY-2 của KAMITSUBAKI WARS 2026 Yokohama. Có vé streaming trên Z-aN và combo vé 2 ngày."
+},
+{
+  "_id": "event_2026_kuusou_cyan_release",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods": "TBA",
+  "id": "event_2026_kuusou_cyan_release",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.760Z"
+  },
+  "notes": "Dữ liệu gốc chỉ có tên EP, chưa có ngày/venue/tracklist cụ thể.",
+  "performers": [
+    {
+      "artist_id": "kuusou",
+      "role": "Featured Artist"
+    }
+  ],
+  "release_info": {
+    "product": "1st EP『CYAN』",
+    "tracklist": "TBA",
+    "formats": "TBA"
+  },
+  "source": "Chỉ có trong notes gốc của talent Kuusou ('1st EP CYAN (2026)'), chưa có announcement event chính thức riêng — chưa rõ có 'release event' thật hay chỉ là ngày phát hành digital.",
+  "status": "Announced",
+  "tickets": "TBA",
+  "title": "Kuusou 1st EP『CYAN』Release Event",
+  "type": "release_event",
+  "venue": "TBA",
+  "year": 2026
+},
+{
+  "_id": "event_2026_empty_old_city_oneman_live_2",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods": "TBA",
+  "id": "event_2026_empty_old_city_oneman_live_2",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.761Z"
+  },
+  "notes": "Dữ liệu gốc chỉ ghi tên show, chưa có ngày/venue cụ thể.",
+  "performers": [
+    {
+      "artist_id": "empty_old_city",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "setlist": "TBA",
+  "source": "Chỉ có trong notes gốc của talent Empty old City ('2nd ONE-MAN LIVE (2026)'), chưa có announcement event chính thức riêng (ngày/venue/vé).",
+  "status": "Announced",
+  "tickets": "TBA",
+  "title": "Empty old City 2nd ONE-MAN LIVE",
+  "type": "one_man_live",
+  "venue": "TBA",
+  "year": 2026
+},
+{
+  "_id": "event_2026_anmc_collab_live",
+  "collab_partner": "TBA — game hợp tác chưa xác định trong dữ liệu gốc",
+  "confidence": "low",
+  "data_completeness": "placeholder",
+  "date": "TBA",
+  "goods": "TBA",
+  "id": "event_2026_anmc_collab_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.762Z"
+  },
+  "notes": "Dữ liệu gốc chỉ ghi 'Game collabs' trong notes của ANMC, chưa có tên game/ngày/venue cụ thể.",
+  "performers": [
+    {
+      "artist_id": "anmc",
+      "role": "Performer"
+    }
+  ],
+  "setlist": "TBA",
+  "source": "Không có announcement — event này được Claude suy ra/dựng khung từ notes rất sơ bộ ('Game collabs') của talent ANMC trong dữ liệu gốc. Chưa xác nhận có sự kiện live thật nào tồn tại dưới tên này.",
+  "status": "Announced",
+  "tickets": "TBA",
+  "title": "ANMC Game Collaboration Live",
+  "type": "collab_live",
+  "venue": "TBA",
+  "year": 2026
+},
+{
+  "_id": "event_2026_popup_store_01",
+  "confidence": "low",
+  "data_completeness": "placeholder",
+  "date": "TBA",
+  "featured_talents": [],
+  "goods": "TBA",
+  "id": "event_2026_popup_store_01",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.763Z"
+  },
+  "notes": "Khung sẵn để thêm các popup store/exhibition trong năm 2026. Vì loại sự kiện này không gắn với performer cụ thể (mảng 'performers' để trống), nếu 1 popup gắn riêng cho 1 nghệ sĩ (VD: popup riêng của KAF), điền vào 'featured_talents'. Có thể nhân bản object này cho mỗi popup/exhibition mới, đổi id thành event_2026_popup_store_02, _03...",
+  "performers": [],
+  "source": "Không có nguồn nào trong dữ liệu gốc đề cập popup store/exhibition cụ thể cho 2026. Object này hoàn toàn là khung mẫu (template) do Claude dựng sẵn theo yêu cầu, không phản ánh sự kiện có thật đã được công bố.",
+  "status": "Placeholder — chưa có dữ liệu nguồn",
+  "title": "KAMITSUBAKI STUDIO Popup Store / Exhibition 2026",
+  "type": "exhibition_popup_store",
+  "venue": "TBA",
+  "year": 2026
+},
+{
+  "_id": "event_2026_vwp_4th_oneman_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2026-02-28",
+  "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+  "id": "event_2026_vwp_4th_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.763Z"
+  },
+  "notes": "Đây là V.W.P 4th ONE-MAN LIVE, thuộc chuỗi KAMITSUBAKI WARS 2026. Chủ đề \"現象Ⅳ-反転運命-\" (Phenomenon IV - Reversal of Fate). Đây là show lớn sau anime Kamitsubaki City Under Construction.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "rim",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "harusaruhi",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "isekaijoucho",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "koko",
+      "role": "Performer"
+    }
+  ],
+  "series_id": "series_2026_kamitsubaki_wars",
+  "setlist": "TBA",
+  "source": "Official announcement from kamitsubaki.jp and Z-aN (2025-2026 announcements)",
+  "start": "TBA",
+  "status": "Announced",
+  "tickets_ref": "series_2026_kamitsubaki_wars.tickets_general",
+  "title": "V.W.P 4th ONE-MAN LIVE「現象Ⅳ-反転運命-」",
+  "type": "one_man_live",
+  "venue": {
+    "name": "Pia Arena MM",
+    "name_jp": "ぴあアリーナMM",
+    "address": "Yokohama, Kanagawa, Japan",
+    "nearest_stations": "TBA"
+  },
+  "year": 2026
+},
+{
+  "_id": "event_2025_singularity_live_vol4",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2025-11-03",
+  "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+  "goods_special": [
+    "Artist-specific T-shirts",
+    "Key visual zipper bag",
+    "Multi pouch for fan goods",
+    "Acrylic stands, badges, towels"
+  ],
+  "id": "event_2025_singularity_live_vol4",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.767Z"
+  },
+  "notes": "Đây là Vol.4 của chuỗi Singularity Live (two-man series). Vol.1 là RIM & Isekaijoucho, Vol.2 là Harusaruhi & KOKO. Diễn ra cùng ngày với KAMITSUBAKI FES '25 OUR ONE-DAY WAR (DAY-2 của WARS 2025).",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "harusaruhi",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "isekaijoucho",
+      "role": "Performer"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Official PR Times & kamitsubaki.jp announcement (2025)",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "Singularity Live Vol.4 - Harusaruhi × Isekaijoucho TWO-MAN LIVE",
+  "type": "two_man_live",
+  "venue": {
+    "name": "Kanadevia Hall (Tokyo Dome City Hall)",
+    "name_jp": "Kanadevia Hall",
+    "address": "Tokyo, Japan"
+  },
+  "year": 2025
+},
+{
+  "_id": "event_singularity_live_vol3",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+  "goods_special": [
+    "Artist-specific T-shirts",
+    "Key visual goods",
+    "Acrylic stands, badges"
+  ],
+  "id": "event_singularity_live_vol3",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.768Z"
+  },
+  "notes": "Singularity Live là chuỗi two-man live. Vol.1: RIM & Isekaijoucho, Vol.2: Harusaruhi & KOKO, Vol.4: Harusaruhi & Isekaijoucho. Vol.3 chưa có thông tin công bố cụ thể (cặp đôi, ngày diễn) tại thời điểm dataset này được cập nhật.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "TBA",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "TBA",
+      "role": "Performer"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Chuỗi Singularity Live (two-man series) của KAMITSUBAKI STUDIO. Vol.4 đã xác nhận là Harusaruhi × Isekaijoucho (2025-11). Vol.3 chưa có announcement chính thức chi tiết (ngày, venue, cặp đôi) trong dữ liệu hiện tại.",
+  "start": "TBA",
+  "status": "Announced / Upcoming",
+  "tickets_ref": null,
+  "title": "Singularity Live Vol.3",
+  "type": "two_man_live",
+  "venue": {
+    "name": "TBA (Tokyo area)",
+    "name_jp": "TBA"
+  },
+  "year": 2025
+},
+{
+  "_id": "event_singularity_live_vol1",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+  "goods_special": [
+    "Artist-specific T-shirts",
+    "Collab goods",
+    "Acrylic stands, badges"
+  ],
+  "id": "event_singularity_live_vol1",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.769Z"
+  },
+  "notes": "Vol.1 của chuỗi Singularity Live.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "rim",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "isekaijoucho",
+      "role": "Performer"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Chuỗi Singularity Live (two-man series) của KAMITSUBAKI STUDIO",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "Singularity Live Vol.1 - RIM × Isekaijoucho TWO-MAN LIVE",
+  "type": "two_man_live",
+  "venue": {
+    "name": "TBA (Tokyo area)",
+    "name_jp": "TBA"
+  },
+  "year": 2025
+},
+{
+  "_id": "event_singularity_live_vol2",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods_ref": "series_2026_kamitsubaki_wars.merchandise_general",
+  "goods_special": [
+    "Artist-specific T-shirts",
+    "Collab goods",
+    "Acrylic stands, badges"
+  ],
+  "id": "event_singularity_live_vol2",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.770Z"
+  },
+  "notes": "Vol.2 của chuỗi Singularity Live.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "harusaruhi",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "koko",
+      "role": "Performer"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Chuỗi Singularity Live (two-man series) của KAMITSUBAKI STUDIO",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "Singularity Live Vol.2 - Harusaruhi × KOKO TWO-MAN LIVE",
+  "type": "two_man_live",
+  "venue": {
+    "name": "TBA (Tokyo area)",
+    "name_jp": "TBA"
+  },
+  "year": 2025
+},
+{
+  "_id": "event_2026_animejapan_kamitsubaki_city",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2026-03-28",
+  "goods": {
+    "venue_goods": true,
+    "official_goods": true,
+    "kamitsubaki_goods": [
+      "Kamitsubaki City merchandise",
+      "Character acrylic stands",
+      "Illustration goods",
+      "Postcards",
+      "Can badges"
+    ],
+    "online_store": "https://findmestore.thinkr.jp/"
+  },
+  "id": "event_2026_animejapan_kamitsubaki_city",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.770Z"
+  },
+  "last_updated": "2026-03-28",
+  "official_links": {
+    "animejapan": "https://anime-japan.jp/en/",
+    "kamitsubaki_events": "https://kamitsubaki.jp/event/",
+    "store": "https://findmestore.thinkr.jp/"
+  },
+  "organizer": "AnimeJapan",
+  "participating_organization": "KAMITSUBAKI STUDIO",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Voice Actress / Virtual Singer",
+      "character": "Kafu Morisaki"
+    },
+    {
+      "artist_id": "rim",
+      "role": "Voice Actress / Virtual Singer",
+      "character": "Rime Tanioki"
+    },
+    {
+      "artist_id": "harusaruhi",
+      "role": "Voice Actress / Virtual Singer",
+      "character": "Haru Asanushi"
+    },
+    {
+      "artist_id": "isekaijoucho",
+      "role": "Voice Actress / Virtual Singer",
+      "character": "Sekai Yorukawa"
+    },
+    {
+      "artist_id": "koko",
+      "role": "Voice Actress / Virtual Singer",
+      "character": "Koko Rinne"
+    }
+  ],
+  "related_anime_project": "Kamitsubaki City Under Construction",
+  "related_media": [
+    "Anime Promotion",
+    "Voice Cast Talk",
+    "Project Presentation"
+  ],
+  "schedule": {
+    "public_days": [
+      "2026-03-28",
+      "2026-03-29"
+    ],
+    "business_days": [
+      "2026-03-30",
+      "2026-03-31"
+    ],
+    "stage_time": "TBA"
+  },
+  "series": "AnimeJapan 2026",
+  "source": "Đã diễn ra (status: Completed), thông tin đầy đủ về ngày/venue/performers.",
+  "status": "Completed",
+  "streaming": {
+    "available": false,
+    "notes": "No official livestream announced at publication."
+  },
+  "ticket": {
+    "required": true,
+    "event_ticket": "AnimeJapan 2026 Admission Ticket",
+    "stage_lottery": "Some stages require advance lottery reservation.",
+    "official_ticket_page": "https://anime-japan.jp/en/tickets/"
+  },
+  "title": "Kamitsubaki City Under Construction Special Stage",
+  "type": "exhibition_stage_event",
+  "venue": {
+    "name": "Tokyo Big Sight",
+    "hall": "AnimeJapan 2026 Exhibition Area / Special Stage",
+    "city": "Tokyo",
+    "country": "Japan"
+  },
+  "year": 2026
+},
+{
+  "_id": "event_2025_valis_oneman_live_7",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods": "TBA",
+  "id": "event_2025_valis_oneman_live_7",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.771Z"
+  },
+  "notes": "Nhóm tạm ngưng hoạt động (activity pause) sau show này. Ngày/venue cụ thể chưa có trong dữ liệu gốc.",
+  "performers": [
+    {
+      "artist_id": "valis",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "setlist": "TBA",
+  "source": "Sự kiện xác nhận ĐÃ diễn ra năm 2025 (theo notes gốc: '7th ONE-MAN LIVE, activity pause after'), nhưng ngày cụ thể/venue/setlist không có trong dữ liệu gốc.",
+  "status": "Completed",
+  "tickets": "TBA",
+  "title": "VALIS 7th ONE-MAN LIVE",
+  "type": "one_man_live",
+  "venue": "TBA",
+  "year": 2025
+},
+{
+  "_id": "event_rim_1st_oneman_live",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "2021-05",
+  "goods_ref": null,
+  "goods_special": [
+    "Album 'New Romancer'",
+    "Live goods"
+  ],
+  "id": "event_rim_1st_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.771Z"
+  },
+  "notes": "First solo live of RIM.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "rim",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Official history of RIM",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "RIM 1st ONE-MAN LIVE「NEUROMANCE」",
+  "type": "one_man_live",
+  "venue": {
+    "name": "TBA",
+    "name_jp": "TBA"
+  },
+  "year": 2021
+},
+{
+  "_id": "event_rim_2nd_oneman_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2023",
+  "goods_ref": null,
+  "goods_special": [
+    "Album 'NEW ROMANCER2'",
+    "Live goods, merch"
+  ],
+  "id": "event_rim_2nd_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.773Z"
+  },
+  "notes": "Second major solo live, tied to 神椿市 theme.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "rim",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "kamitsubaki.jp and RIM official channels",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "RIM 2nd ONE-MAN LIVE「NEUROMANCE II -神椿市壱番街-」",
+  "type": "one_man_live",
+  "venue": {
+    "name": "TBA (Tokyo area)",
+    "name_jp": "TBA"
+  },
+  "year": 2023
+},
+{
+  "_id": "event_harusaruhi_1st_oneman_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2021-08-27",
+  "goods_ref": null,
+  "goods_special": [
+    "Live goods, albums"
+  ],
+  "id": "event_harusaruhi_1st_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.774Z"
+  },
+  "notes": "First solo live of Harusaruhi.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "harusaruhi",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Official Kamitsubaki history",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "Harusaruhi 1st ONE-MAN LIVE「シャーマニズム」",
+  "type": "one_man_live",
+  "venue": {
+    "name": "Hulic Hall Tokyo",
+    "name_jp": "Hulic Hall Tokyo"
+  },
+  "year": 2021
+},
+{
+  "_id": "event_harusaruhi_2nd_oneman_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2024",
+  "goods_ref": null,
+  "goods_special": [
+    "Live goods, albums, 神椿市 themed merch"
+  ],
+  "id": "event_harusaruhi_2nd_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.775Z"
+  },
+  "notes": "Second major solo live, tied to Kamitsubaki City theme.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "harusaruhi",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "kamitsubaki.jp and live archives",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "Harusaruhi 2nd ONE-MAN LIVE「シャーマニズムⅡ -神椿市弐番街-」",
+  "type": "one_man_live",
+  "venue": {
+    "name": "TBA (Tokyo area)",
+    "name_jp": "TBA"
+  },
+  "year": 2024
+},
+{
+  "_id": "event_koko_oneman_live",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods_ref": null,
+  "goods_special": [
+    "Live goods, albums"
+  ],
+  "id": "event_koko_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.776Z"
+  },
+  "notes": "Solo live của KOKO (chưa có ngày/venue chi tiết công bố).",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "koko",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Kamitsubaki Studio announcements",
+  "start": "TBA",
+  "status": "Announced / Upcoming",
+  "tickets_ref": null,
+  "title": "KOKO ONE-MAN LIVE",
+  "type": "one_man_live",
+  "venue": {
+    "name": "TBA (Tokyo area)",
+    "name_jp": "TBA"
+  },
+  "year": 2025
+},
+{
+  "_id": "event_isekaijoucho_oneman_live",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods_ref": null,
+  "goods_special": [
+    "Live goods, albums"
+  ],
+  "id": "event_isekaijoucho_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.776Z"
+  },
+  "notes": "Solo live của Isekaijoucho (chưa có ngày/venue chi tiết).",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "isekaijoucho",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Kamitsubaki Studio announcements",
+  "start": "TBA",
+  "status": "Announced / Upcoming",
+  "tickets_ref": null,
+  "title": "Isekaijoucho ONE-MAN LIVE",
+  "type": "one_man_live",
+  "venue": {
+    "name": "TBA (Tokyo area)",
+    "name_jp": "TBA"
+  },
+  "year": 2025
+},
+{
+  "_id": "event_empty_old_city_2nd_oneman_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2026-07-31",
+  "goods_ref": null,
+  "goods_special": [
+    "Live goods, albums"
+  ],
+  "id": "event_empty_old_city_2nd_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.777Z"
+  },
+  "notes": "Second solo live của Empty old City. Có thêm show.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "empty_old_city",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "kamitsubaki.jp/news (2026)",
+  "start": "TBA",
+  "status": "Announced",
+  "tickets_ref": null,
+  "title": "Empty old City 2nd ONE-MAN LIVE 「Strings in Owl ||:echo:||」",
+  "type": "one_man_live",
+  "venue": {
+    "name": "TBA",
+    "name_jp": "TBA"
+  },
+  "year": 2026
+},
+{
+  "_id": "event_valis_7th_oneman_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2025-12-21",
+  "goods_ref": null,
+  "goods_special": [
+    "ぬいちゃんメタルキーホルダー (plush metal keyholder)",
+    "Special signed images"
+  ],
+  "id": "event_valis_7th_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.777Z"
+  },
+  "notes": "Last live trước khi VALIS tạm ngưng hoạt động.",
+  "open": "17:00",
+  "performers": [
+    {
+      "artist_id": "valis",
+      "role": "Headliner (group live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Official kamitsubaki.jp",
+  "start": "18:00",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "VALIS 7th ONE-MAN LIVE「彷徨フォーエバー」",
+  "type": "one_man_live",
+  "venue": {
+    "name": "Zepp Shinjuku",
+    "name_jp": "Zepp Shinjuku (TOKYO)"
+  },
+  "year": 2025
+},
+{
+  "_id": "event_ciel_strawberry_live_3",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2026-07-25",
+  "goods_ref": null,
+  "goods_special": [],
+  "id": "event_ciel_strawberry_live_3",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.784Z"
+  },
+  "notes": "Free full streaming",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "ciel",
+      "role": "Headliner"
+    }
+  ],
+  "series_id": null,
+  "setlist": "Cover songs",
+  "source": "kamitsubaki.jp",
+  "start": "TBA",
+  "status": "Announced",
+  "tickets_ref": null,
+  "title": "CIEL STREAMING COVER LIVE「ストロベリーライブ3」",
+  "type": "streaming_cover_live",
+  "venue": {
+    "name": "YouTube Live",
+    "name_jp": "YouTube Live"
+  },
+  "year": 2026,
+  "links": {
+    "youtube": "https://www.youtube.com/channel/UCfBkUgaJ6eqYA9_TX2cmq9A (CIEL channel)"
+  }
+},
+{
+  "_id": "event_akari_bimai_joint_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2026-05-06",
+  "goods_ref": null,
+  "goods_special": [],
+  "id": "event_akari_bimai_joint_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.781Z"
+  },
+  "notes": "Simultaneous new song release + joint performance.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "akari",
+      "role": "Performer"
+    },
+    {
+      "artist_id": "bimai",
+      "role": "Performer"
+    }
+  ],
+  "series_id": null,
+  "setlist": "New songs: \"Little Bit\" (Akari), \"月夜にマリアージュ\" (Bimai)",
+  "source": "kamitsubaki.jp/news (2026-05-06)",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "Akari & Bimai Joint Live / New Song Release Event",
+  "type": "joint_live",
+  "venue": {
+    "name": "Online / TBA",
+    "name_jp": "TBA"
+  },
+  "year": 2026
+},
+{
+  "_id": "event_anmc_collab_live",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods_ref": null,
+  "goods_special": [],
+  "id": "event_anmc_collab_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.782Z"
+  },
+  "notes": "Live liên quan đến game collaboration (Platonica Space, etc.).",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "anmc",
+      "role": "Performer"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Kamitsubaki announcements",
+  "start": "TBA",
+  "status": "Announced",
+  "tickets_ref": null,
+  "title": "ANMC Game Collaboration Live / Mini Live",
+  "type": "collab_live",
+  "venue": {
+    "name": "Online / Game event",
+    "name_jp": "TBA"
+  },
+  "year": 2026
+},
+{
+  "_id": "event_kaf_5th_album_release",
+  "confidence": "medium",
+  "data_completeness": "partial",
+  "date": "TBA",
+  "goods_ref": null,
+  "goods_special": [
+    "Album limited edition",
+    "Merch bundle"
+  ],
+  "id": "event_kaf_5th_album_release",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.782Z"
+  },
+  "links": {
+    "official": "https://kaf.kamitsubaki.jp/",
+    "store": "https://findmestore.thinkr.jp/"
+  },
+  "notes": "Album đặc biệt gắn liền với 5th ONE-MAN LIVE",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Artist"
+    }
+  ],
+  "series_id": null,
+  "setlist": null,
+  "source": "KAF 5th Live announcement",
+  "start": "TBA",
+  "status": "Upcoming",
+  "tickets_ref": null,
+  "title": "KAF 5th Album『深愛』Release",
+  "type": "album_release",
+  "venue": {
+    "name": "Digital + Physical",
+    "name_jp": "Digital + Physical"
+  },
+  "year": 2026
+},
+{
+  "_id": "event_kaf_membership_stream_vol43",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "TBA",
+  "goods_ref": null,
+  "goods_special": [],
+  "id": "event_kaf_membership_stream_vol43",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.783Z"
+  },
+  "links": {
+    "example": "https://www.youtube.com/watch?v=pNgwyspYu08"
+  },
+  "notes": "Series membership stream định kỳ",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Host"
+    }
+  ],
+  "series_id": null,
+  "setlist": "Talk + Music",
+  "source": "YouTube",
+  "start": "TBA",
+  "status": "Regular",
+  "tickets_ref": null,
+  "title": "KAF YouTube MEMBERSHIP「未確認少女観測部 -配信番組 vol.43-」",
+  "type": "membership_stream",
+  "venue": {
+    "name": "YouTube Membership",
+    "name_jp": "YouTube Membership"
+  },
+  "year": 2026
+},
+{
+  "_id": "event_rim_new_song_insight",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2025-07-30",
+  "goods_ref": null,
+  "goods_special": [],
+  "id": "event_rim_new_song_insight",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.783Z"
+  },
+  "links": {
+    "mv": "https://www.youtube.com/watch?v=LYnF2X_mnBI"
+  },
+  "notes": "Ending theme cho anime Kamitsubaki City Under Construction",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "rim",
+      "role": "Artist"
+    }
+  ],
+  "series_id": null,
+  "setlist": null,
+  "source": "Official MV",
+  "start": "TBA",
+  "status": "Released",
+  "tickets_ref": null,
+  "title": "RIM New Song「閃光だった / INSIGHT」Release",
+  "type": "song_release",
+  "venue": {
+    "name": "Digital",
+    "name_jp": "Digital"
+  },
+  "year": 2025
+},
+{
+  "_id": "event_kaf_3rd_oneman_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2022-08",
+  "goods_ref": null,
+  "goods_special": [
+    "Blu-ray 2 discs (making-of + documentary)",
+    "Photo booklet"
+  ],
+  "id": "event_kaf_3rd_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.784Z"
+  },
+  "links": {
+    "blu-ray": "https://kaf.kamitsubaki.jp/discography/20230601/213/"
+  },
+  "notes": "Lần đầu tiên virtual singer biểu diễn tại Nippon Budokan.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "Official archives",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "KAF 3rd ONE-MAN LIVE「不可解参(狂)」",
+  "type": "one_man_live",
+  "venue": {
+    "name": "Nippon Budokan",
+    "name_jp": "日本武道館"
+  },
+  "year": 2022
+},
+{
+  "_id": "event_kaf_4th_oneman_live",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2024-01-14",
+  "goods_ref": null,
+  "goods_special": [
+    "FMS Limited Pheasant Plushie",
+    "Live goods"
+  ],
+  "id": "event_kaf_4th_oneman_live",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.785Z"
+  },
+  "links": {
+    "streaming": "https://www.zan-live.com/en/live/detail/10354"
+  },
+  "notes": "First arena solo live của KAF.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Headliner (solo live)"
+    }
+  ],
+  "series_id": null,
+  "setlist": "TBA",
+  "source": "kamitsubaki.jp",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "KAF 4th ONE-MAN LIVE「KAIKA (怪歌)」",
+  "type": "one_man_live",
+  "venue": {
+    "name": "Yoyogi National Gymnasium",
+    "name_jp": "国立代々木競技場 第一体育館"
+  },
+  "year": 2024
+},
+{
+  "_id": "event_kaf_anniversary_7th",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2025",
+  "goods_ref": null,
+  "goods_special": [],
+  "id": "event_kaf_anniversary_7th",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.785Z"
+  },
+  "links": {
+    "video": "https://www.youtube.com/watch?v=vqGo8rPOqfg"
+  },
+  "notes": "Stream kỷ niệm 7 năm debut.",
+  "open": "TBA",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Host"
+    }
+  ],
+  "series_id": null,
+  "setlist": "Special performance",
+  "source": "KAF official",
+  "start": "TBA",
+  "status": "Completed",
+  "tickets_ref": null,
+  "title": "KAF 7th Anniversary Special Stream",
+  "type": "anniversary_stream",
+  "venue": {
+    "name": "YouTube",
+    "name_jp": "YouTube"
+  },
+  "year": 2025
+},
+{
+  "_id": "release_kaf_1st_ep_hana_to_shinzou",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2019-05-15",
+  "id": "release_kaf_1st_ep_hana_to_shinzou",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.786Z"
+  },
+  "links": {
+    "official": "https://kaf.kamitsubaki.jp/"
+  },
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Artist"
+    }
+  ],
+  "series_id": null,
+  "source": "Official discography",
+  "status": "Released",
+  "title": "KAF 1st EP「Hana to Shinzou (花と心臓)」",
+  "type": "ep_release",
+  "year": 2019
+},
+{
+  "_id": "release_kaf_1st_album_kansoku",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2019-09-11",
+  "id": "release_kaf_1st_album_kansoku",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.786Z"
+  },
+  "links": {
+    "official": "https://kaf.kamitsubaki.jp/"
+  },
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Artist"
+    }
+  ],
+  "series_id": null,
+  "source": "Official discography",
+  "status": "Released",
+  "title": "KAF 1st Full Album「Kansoku (観測)」",
+  "type": "album_release",
+  "year": 2019
+},
+{
+  "_id": "release_kaf_4th_album_fable",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2024-12-25",
+  "id": "release_kaf_4th_album_fable",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.787Z"
+  },
+  "links": {
+    "streaming": "Apple Music / Spotify"
+  },
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Artist"
+    }
+  ],
+  "series_id": null,
+  "source": "Official",
+  "status": "Released",
+  "title": "KAF 4th Album「Fable」",
+  "type": "album_release",
+  "year": 2024
+},
+{
+  "_id": "release_kaf_5th_album_shinai",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2026 (TBA)",
+  "id": "release_kaf_5th_album_shinai",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.787Z"
+  },
+  "links": {
+    "official": "https://kaf.kamitsubaki.jp/",
+    "store": "https://findmestore.thinkr.jp/collections/kaf"
+  },
+  "notes": "Album gắn liền với 5th ONE-MAN LIVE「宿声 / 深愛（巡）」",
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Artist"
+    }
+  ],
+  "series_id": null,
+  "source": "5th Live announcement",
+  "status": "Upcoming",
+  "title": "KAF 5th Album「深愛 (Shin'ai)」",
+  "type": "album_release",
+  "year": 2026
+},
+{
+  "_id": "release_kaf_rinne",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2021",
+  "id": "release_kaf_rinne",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.788Z"
+  },
+  "links": {},
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Artist"
+    }
+  ],
+  "series_id": null,
+  "status": "Released",
+  "title": "KAF Single「輪廻 (Rinne)」feat. V.W.P",
+  "type": "single_release",
+  "year": 2021
+},
+{
+  "_id": "release_kaf_answer_english",
+  "confidence": "high",
+  "data_completeness": "confirmed",
+  "date": "2024-10-23",
+  "id": "release_kaf_answer_english",
+  "importedAt": {
+    "$date": "2026-07-05T01:11:56.789Z"
+  },
+  "links": {},
+  "performers": [
+    {
+      "artist_id": "kaf",
+      "role": "Artist"
+    }
+  ],
+  "series_id": null,
+  "status": "Released",
+  "title": "KAF Single「Answer (English Version)」",
+  "type": "single_release",
+  "year": 2024
+}]

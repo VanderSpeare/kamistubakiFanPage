@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken');
-const User = require('../models/User'); // NOTE: authController.js imports this as '../Models/User.js' (capital M).
+const User = require('./User'); // NOTE: authController.js imports this as '../Models/User.js' (capital M).
                                          // Pick ONE casing project-wide — a case-sensitive Linux server (most prod
                                          // hosts) will fail to resolve whichever one doesn't match the real folder
                                          // name, even though it works fine on Windows/Mac locally.

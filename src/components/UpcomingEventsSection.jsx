@@ -10,6 +10,20 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import SectionHero from './SectionHero'; // adjust the path if yours differs
 
+// Defense-in-depth: api/events.js already strips unsafe URL schemes
+// server-side (deepStripDangerousSchemes), but this checks again before
+// ever putting a value into href — cheap insurance if this component is
+// ever pointed at a different/unsanitized data source.
+function isSafeUrl(value) {
+  if (typeof value !== 'string') return false;
+  try {
+    const url = new URL(value);
+    return url.protocol === 'http:' || url.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
 function daysUntil(dateStr) {
   const target = new Date(`${dateStr}T00:00:00`);
   const today = new Date();
@@ -92,7 +106,7 @@ export default function UpcomingEventsSection({ limit = 4 }) {
                   <p className="text-sm text-white/50 mb-4">{event.venue.name}</p>
                 )}
 
-                {event.tickets?.official_page && (
+                {isSafeUrl(event.tickets?.official_page) && (
                   <a
                     href={event.tickets.official_page}
                     target="_blank"

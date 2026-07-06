@@ -18,6 +18,7 @@
 // ticket/goods info, regardless of whether it came from the event
 // itself or its parent series.
 import { getDb } from '../lib/mongo.mjs';
+import { toPositiveInt, toStrictBool, deepStripDangerousSchemes } from '../lib/validate.mjs';
 
 /** Reads a dotted path ("tickets_general.official_page") off an object. */
 function getPath(obj, dottedPath) {
@@ -70,8 +71,8 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const limit = Math.min(parseInt(req.query.limit, 10) || 20, 50);
-  const includeAll = req.query.all === 'true';
+  const limit = toPositiveInt(req.query.limit, { def: 20, max: 50 });
+  const includeAll = toStrictBool(req.query.all);
 
   try {
     const db = await getDb();
@@ -110,8 +111,15 @@ export default async function handler(req, res) {
 
     const enriched = await enrichWithSeriesRefs(db, upcoming);
 
+    // XSS defense: venue/tickets/goods came from imported knowledge-base
+    // data and series-ref resolution — nested objects, so the flat
+    // sanitizeItemUrls() from api/news.js doesn't reach them. This walks
+    // the whole structure and neutralizes any javascript:/data: scheme
+    // wherever it's hiding.
+    const safe = deepStripDangerousSchemes(enriched);
+
     res.setHeader('Cache-Control', 's-maxage=600, stale-while-revalidate=3600');
-    return res.status(200).json(enriched);
+    return res.status(200).json(safe);
   } catch (err) {
     console.error('[api/events] Failed to fetch events:', err);
     return res.status(500).json({ error: 'Failed to fetch events' });
