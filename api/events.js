@@ -71,7 +71,7 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const limit = toPositiveInt(req.query.limit, { def: 20, max: 50 });
+  const limit = toPositiveInt(req.query.limit, { def: 20, max: 200 });
   const includeAll = toStrictBool(req.query.all);
 
   try {

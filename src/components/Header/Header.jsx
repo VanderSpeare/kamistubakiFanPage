@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Link } from "react-router-dom";
 
-const navItems = ["Home", "About", "Services", "Portfolio", "Contact"];
+const navItems = ["Home", "About", "Services", "Calendar", "Contact"];
 
 export default function Header() {
   const [open, setOpen] = useState(false);

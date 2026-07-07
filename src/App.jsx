@@ -14,7 +14,7 @@ import Teams from "./pages/Teams";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact.jsx";
 import Admin from "./pages/lib/Admin.jsx";
-
+import Calendar from "./pages/Calendar.jsx";
 
 const ADMIN_PATH = "/kamitsubaki-internal-9f3a";
 function App() {
@@ -89,10 +89,10 @@ function App() {
           />
 
           <Route
-            path="/portfolio"
+            path="/calendar"
             element={
               <AnimatedLayout>
-                <Portfolio />
+                <Calendar />
               </AnimatedLayout>
             }
           />
