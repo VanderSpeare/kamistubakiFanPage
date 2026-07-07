@@ -21,7 +21,7 @@ const NAGI_INTRO_VIDEO = '/KADU-chan.mp4';
 // ============================================================================
 const UI = {
   vi: {
-    introSkip: 'Bỏ qua ▸',
+    introSkip: 'SKIP ▸',
     inputPlaceholder: 'Nhập điều Master muốn nói với Nagi...',
     settingsTitle: 'Google AI (Gemini) API Key',
     settingsSave: 'Lưu',
@@ -485,7 +485,7 @@ export default function About() {
   const [showArt, setShowArt] = useState(false);
   const [showLog, setShowLog] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
-  const [apiKey, setApiKey] = useState('');
+  const [apiKey, ] =  import.meta.env.VITE_GEMINI_API_KEY ? [import.meta.env.VITE_GEMINI_API_KEY, null] : useState('');
   const [apiKeyDraft, setApiKeyDraft] = useState('');
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');

@@ -6,7 +6,7 @@ import { usePremiereVideo } from '../components/premiereVideoSession' ;
 import HomeBackgroundVideo from '../components/HomeBackgroundVideo';
 import { createContext, useContext } from 'react';
 import About from './About';
-import { useEffect, useState, useMemo } from "react";
+import { useEffect, useState, useMemo, useRef } from "react";
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import UpcomingEventsSection from '../components/UpcomingEventsSection';
@@ -96,6 +96,7 @@ const SectionHero = ({ id, title, subtitle, children, className = "" }) => {
     <section
       id={id}
       ref={ref}
+      style={{ zoom: 1.2 }} // Phóng to riêng section này lên 120% (cả chiều dài lẫn chiều rộng)
       className={`relative min-h-screen flex flex-col items-center justify-center overflow-hidden
         py-12 px-4
         sm:py-16 sm:px-6
@@ -134,12 +135,110 @@ export default function Landing() {
   const { scrollY } = useScroll();
   const cloudY1 = useTransform(scrollY, [0, 1000], [0, -200]);
   const cloudY2 = useTransform(scrollY, [0, 1000], [0, -100]);
+  // Trước đây cloud dùng "fixed" không có điểm dừng nên bị gắn chặt (dính cứng) trên màn hình
+  // suốt toàn trang. Nay cho mờ dần và biến mất sau khi lướt qua khỏi vùng HERO.
+  const heroCloudOpacityL = useTransform(scrollY, [0, 500, 900], [0.3, 0.3, 0]);
+  const heroCloudOpacityR = useTransform(scrollY, [0, 500, 900], [0.2, 0.2, 0]);
   const posterY = useTransform(scrollY, [0, 1000], [0, -150]);
   const [clickStage, setClickStage] = React.useState(0); 
   const [activeId, setActiveId] = useState(1);
   const [visualIndex, setVisualIndex] = useState(1); // 1 hoặc 2
   const { openVideo } = usePremiereVideo();
   const navigate = useNavigate();
+
+  // ================================================================
+  // Ảnh trang trí theo từng phân đoạn (STAFF&CAST / MUSIC / PRODUCT).
+  // Mỗi section có MỘT timeline viewport liên tục: bắt đầu khi section bắt đầu
+  // vào viewport (p = 0) và kết thúc khi section rời khỏi viewport hoàn toàn (p = 1).
+  // Toàn bộ animation (opacity, y, scale) được map liên tục trên cùng một trục p,
+  // không chia thành các pha rời rạc / không có đoạn giữ nguyên (plateau) ở giữa.
+  // ================================================================
+  const staffDecorRef = useRef(null);
+  const musicDecorRef = useRef(null);
+  const productDecorRef = useRef(null);
+
+  const { scrollYProgress: staffProgress } = useScroll({ target: staffDecorRef, offset: ["start end", "end start"] });
+  const { scrollYProgress: musicProgress } = useScroll({ target: musicDecorRef, offset: ["start end", "end start"] });
+  const { scrollYProgress: productProgress } = useScroll({ target: productDecorRef, offset: ["start end", "end start"] });
+
+  // Trục thời gian liên tục dùng chung: 0 = bắt đầu vào viewport, 1 = rời khỏi viewport hoàn toàn.
+  // Y được animate trực tiếp theo đơn vị viewport height: +100vh (nằm dưới màn hình) → 0vh (đúng vị trí
+  // trên màn hình) → -100vh (đã đi hết lên trên màn hình), luôn tính tương đối theo viewport
+  // (position: fixed), không phải theo vị trí bên trong section.
+  // Ảnh bên phải (R) lệch nhẹ trục thời gian so với bên trái (L) để tạo so le tự nhiên,
+  // nhưng vẫn là một đường liên tục duy nhất, không có đoạn giữ nguyên.
+  const TIMELINE_L = [0, 0.5, 1];
+  const TIMELINE_R = [0.06, 0.53, 1];
+
+  // ĐIỀU CHỈNH KÍCH THƯỚC TẤT CẢ ẢNH TRANG TRÍ Ở ĐÂY:
+  // DECOR_SCALE = 1   → kích thước gốc (như hiện tại)
+  // DECOR_SCALE = 2   → phóng to gấp đôi
+  // DECOR_SCALE = 1.5 → phóng to gấp 1.5 lần
+  // Chỉ cần đổi 1 số này, toàn bộ 11 ảnh (meteorite/rubble/sand/txt1/accX/footerCloud/newsH2)
+  // sẽ phóng to/thu nhỏ đồng loạt vì scale được nhân trực tiếp vào transform CSS.
+  const DECOR_SCALE = 1;
+  const scaleRange = (mult = DECOR_SCALE) => [0.8 * mult, 1.05 * mult, 0.8 * mult];
+
+  // STAFF & CAST — acc_meteorite
+  const meteoriteLY = useTransform(staffProgress, TIMELINE_L, ["100vh", "0vh", "-100vh"]);
+  const meteoriteLOpacity = useTransform(staffProgress, TIMELINE_L, [0, 0.65, 0]);
+  const meteoriteLScale = useTransform(staffProgress, TIMELINE_L, scaleRange());
+  const meteoriteRY = useTransform(staffProgress, TIMELINE_R, ["100vh", "0vh", "-100vh"]);
+  const meteoriteROpacity = useTransform(staffProgress, TIMELINE_R, [0, 0.65, 0]);
+  const meteoriteRScale = useTransform(staffProgress, TIMELINE_R, scaleRange());
+
+  // MUSIC — acc_rubble
+  const rubbleLY = useTransform(musicProgress, TIMELINE_L, ["100vh", "0vh", "-100vh"]);
+  const rubbleLOpacity = useTransform(musicProgress, TIMELINE_L, [0, 0.65, 0]);
+  const rubbleLScale = useTransform(musicProgress, TIMELINE_L, scaleRange());
+  const rubbleRY = useTransform(musicProgress, TIMELINE_R, ["100vh", "0vh", "-100vh"]);
+  const rubbleROpacity = useTransform(musicProgress, TIMELINE_R, [0, 0.65, 0]);
+  const rubbleRScale = useTransform(musicProgress, TIMELINE_R, scaleRange());
+
+  // PRODUCT — acc_sand
+  const sandLY = useTransform(productProgress, TIMELINE_L, ["100vh", "0vh", "-100vh"]);
+  const sandLOpacity = useTransform(productProgress, TIMELINE_L, [0, 0.65, 0]);
+  const sandLScale = useTransform(productProgress, TIMELINE_L, scaleRange());
+  const sandRY = useTransform(productProgress, TIMELINE_R, ["100vh", "0vh", "-100vh"]);
+  const sandROpacity = useTransform(productProgress, TIMELINE_R, [0, 0.65, 0]);
+  const sandRScale = useTransform(productProgress, TIMELINE_R, scaleRange());
+
+  // ================================================================
+  // Lấp các khoảng trống chưa có ảnh trang trí (HOME, STORY, CHARACTERS, NEWS)
+  // bằng các ảnh nền có sẵn từ trang mẫu kamitsubaki, dùng chung công thức
+  // timeline liên tục ở trên (fixed theo viewport, y chạy +100vh → 0 → -100vh).
+  // ================================================================
+  const storyDecorRef = useRef(null);
+  const charactersDecorRef = useRef(null);
+  const newsDecorRef = useRef(null);
+
+  const { scrollYProgress: storyProgress } = useScroll({ target: storyDecorRef, offset: ["start end", "end start"] });
+  const { scrollYProgress: charactersProgress } = useScroll({ target: charactersDecorRef, offset: ["start end", "end start"] });
+  const { scrollYProgress: newsProgress } = useScroll({ target: newsDecorRef, offset: ["start end", "end start"] });
+
+  // NEWS — p-txt_1.png (bên phải) [đã đổi chỗ với footer_bg-cloud__r]
+  const txt1Y = useTransform(newsProgress, TIMELINE_L, ["100vh", "0vh", "-100vh"]);
+  const txt1Opacity = useTransform(newsProgress, TIMELINE_L, [0, 0.5, 0]);
+  const txt1Scale = useTransform(newsProgress, TIMELINE_L, scaleRange());
+
+  // STORY — p-acc_x-b.svg + footer_bg-cloud__r.png (đã chuyển từ HOME/NEWS xuống đây)
+  const accXbY = useTransform(storyProgress, TIMELINE_L, ["100vh", "0vh", "-100vh"]);
+  const accXbOpacity = useTransform(storyProgress, TIMELINE_L, [0, 0.5, 0]);
+  const accXbScale = useTransform(storyProgress, TIMELINE_L, scaleRange());
+
+  // CHARACTERS — p-acc_x.svg
+  const accXY = useTransform(charactersProgress, TIMELINE_L, ["100vh", "0vh", "-100vh"]);
+  const accXOpacity = useTransform(charactersProgress, TIMELINE_L, [0, 0.5, 0]);
+  const accXScale = useTransform(charactersProgress, TIMELINE_L, scaleRange());
+
+  // Story — footer_bg-cloud__r.png (đã đổi chỗ với p-txt_1, chuyển từ HOME xuống STORY)
+  const footerCloudRY = useTransform(storyProgress, TIMELINE_R, ["100vh", "0vh", "-100vh"]);
+  const footerCloudROpacity = useTransform(storyProgress, TIMELINE_R, [0, 0.5, 0]);
+  const footerCloudRScale = useTransform(storyProgress, TIMELINE_R, scaleRange());
+  // NEWS — news_h2.svg (dưới trái, giữ nguyên)
+  const newsH2Y = useTransform(newsProgress, TIMELINE_R, ["100vh", "0vh", "-100vh"]);
+  const newsH2Opacity = useTransform(newsProgress, TIMELINE_R, [0, 0.5, 0]);
+  const newsH2Scale = useTransform(newsProgress, TIMELINE_R, scaleRange());
   
   
   const characters = [
@@ -215,13 +314,103 @@ export default function Landing() {
       
       
 
-      {/* Đám mây parallax - scale theo màn hình */}
-      <motion.div style={{ y: cloudY1 }} className="fixed top-10 left-0 w-full opacity-30 pointer-events-none">
-        <img src="public/hero_bg-cloud__l.png" alt="cloud" className="w-full max-w-4xl" />
+      {/* Đám mây parallax - scale theo màn hình
+          Sửa lỗi: trước đây dùng "fixed" nhưng không có điểm kết thúc nên bị gắn chặt (dính cứng)
+          trên màn hình suốt toàn bộ trang. Nay thêm opacity mờ dần theo scroll để nó biến mất
+          sau khi lướt qua khỏi HERO, thay vì đứng yên vĩnh viễn. */}
+      <motion.div style={{ y: cloudY1, opacity: heroCloudOpacityL }} className="fixed top-10 left-0 w-full pointer-events-none">
+        <img src="/hero_bg-cloud__l.png" alt="cloud" className="w-full max-w-4xl" />
       </motion.div>
-      <motion.div style={{ y: cloudY2 }} className="fixed top-20 right-0 w-full opacity-20 pointer-events-none">
-        <img src="public/hero_bg-cloud__r.png" alt="cloud" className="w-full max-w-3xl ml-auto" />
+      <motion.div style={{ y: cloudY2, opacity: heroCloudOpacityR }} className="fixed top-20 right-0 w-full pointer-events-none">
+        <img src="/hero_bg-cloud__r.png" alt="cloud" className="w-full max-w-3xl ml-auto" />
       </motion.div>
+
+      {/* Ảnh trang trí theo từng phân đoạn (STAFF&CAST / MUSIC / PRODUCT)
+          Đặt cùng cấp (cùng level DOM, "fixed" root) với lớp cloud ở trên, thay vì nằm lồng
+          trong luồng section. 4 giai đoạn viewport-transition: enters → moves through →
+          reaches the top → exits (xem chi tiết ở khai báo PHASE_L/PHASE_R phía trên). */}
+      <motion.img
+        src="/acc_meteorite-l.png"
+        alt=""
+        aria-hidden="true"
+        style={{ y: meteoriteLY, opacity: meteoriteLOpacity, scale: meteoriteLScale }}
+        className="fixed top-1/3 left-0 -translate-x-1/3 w-20 sm:w-28 md:w-36 z-0 pointer-events-none select-none"
+      />
+      <motion.img
+        src="/acc_meteorite-r.png"
+        alt=""
+        aria-hidden="true"
+        style={{ y: meteoriteRY, opacity: meteoriteROpacity, scale: meteoriteRScale }}
+        className="fixed top-1/2 right-0 translate-x-1/3 w-20 sm:w-28 md:w-36 z-0 pointer-events-none select-none"
+      />
+      <motion.img
+        src="/acc_rubble-l.png"
+        alt=""
+        aria-hidden="true"
+        style={{ y: rubbleLY, opacity: rubbleLOpacity, scale: rubbleLScale }}
+        className="fixed top-1/3 left-0 -translate-x-1/3 w-20 sm:w-28 md:w-36 z-0 pointer-events-none select-none"
+      />
+      <motion.img
+        src="/acc_rubble-r.png"
+        alt=""
+        aria-hidden="true"
+        style={{ y: rubbleRY, opacity: rubbleROpacity, scale: rubbleRScale }}
+        className="fixed top-1/2 right-0 translate-x-1/3 w-20 sm:w-28 md:w-36 z-0 pointer-events-none select-none"
+      />
+      <motion.img
+        src="/acc_sand-l.png"
+        alt=""
+        aria-hidden="true"
+        style={{ y: sandLY, opacity: sandLOpacity, scale: sandLScale }}
+        className="fixed top-1/3 left-0 -translate-x-1/3 w-20 sm:w-28 md:w-36 z-0 pointer-events-none select-none"
+      />
+      <motion.img
+        src="/acc_sand-r.png"
+        alt=""
+        aria-hidden="true"
+        style={{ y: sandRY, opacity: sandROpacity, scale: sandRScale }}
+        className="fixed top-1/2 right-0 translate-x-1/3 w-20 sm:w-28 md:w-36 z-0 pointer-events-none select-none"
+      />
+
+      {/* Lấp khoảng trống chưa có ảnh trang trí: HOME / STORY / CHARACTERS / NEWS
+          Cùng cấp DOM (fixed, root-level) và cùng công thức timeline liên tục như trên. */}
+      <motion.img
+        src="/p-txt_1.png"
+        alt=""
+        aria-hidden="true"
+        style={{ y: txt1Y, opacity: txt1Opacity, scale: txt1Scale }}
+        className="fixed top-1/4 right-0 translate-x-1/4 w-24 sm:w-32 md:w-44 z-0 pointer-events-none select-none"
+      />
+      <motion.img
+        src="/p-acc_x-b.svg"
+        alt=""
+        aria-hidden="true"
+        style={{ y: accXbY, opacity: accXbOpacity, scale: accXbScale }}
+        className="fixed top-1/2 left-0 -translate-x-1/4 w-16 sm:w-24 md:w-32 z-0 pointer-events-none select-none"
+      />
+      <motion.img
+        src="/p-acc_x.svg"
+        alt=""
+        aria-hidden="true"
+        style={{ y: accXY, opacity: accXOpacity, scale: accXScale }}
+        className="fixed top-2/3 right-0 translate-x-1/4 w-16 sm:w-24 md:w-32 z-0 pointer-events-none select-none"
+      />
+      <motion.div
+        style={{ y: footerCloudRY, opacity: footerCloudROpacity, scale: footerCloudRScale }}
+        className="fixed top-16 right-0 w-56 sm:w-72 md:w-96 z-0 pointer-events-none select-none"
+      >
+        <picture>
+          <source srcSet="/footer_bg-cloud__r-s.png" media="(max-width: 767px)" />
+          <img src="/footer_bg-cloud__r.png" alt="" className="w-full" />
+        </picture>
+      </motion.div>
+      <motion.img
+        src="/news_h2.svg"
+        alt=""
+        aria-hidden="true"
+        style={{ y: newsH2Y, opacity: newsH2Opacity, scale: newsH2Scale }}
+        className="fixed bottom-10 left-0 -translate-x-1/4 w-40 sm:w-56 md:w-72 z-0 pointer-events-none select-none"
+      />
 
       {/* Right Sidebar - chỉ hiện trên lg (desktop) */}
       <nav className="fixed right-4 sm:right-8 top-1/2 -translate-y-1/2 z-40 hidden lg:block">
@@ -242,8 +431,6 @@ export default function Landing() {
       </nav>
 
 {/* HOME Section - poster nền + tiêu đề + nút đăng nhập */}
-
-
 
 <SectionHero
   id="home"
@@ -283,7 +470,7 @@ export default function Landing() {
       initial={{ scale: 0.8, opacity: 0 }}
       animate={{ scale: 1, opacity: 1 }}
       transition={{ duration: 1.5 }}
-      src="public\DaiiTri.png"
+      src="/DaiiTri.png"
       alt="Logo"
       className="mx-auto mb-6 w-10 sm:w-16 md:w-24"
     />
@@ -345,6 +532,7 @@ export default function Landing() {
         <img src="public/hero_bg-cloud__r.png" alt="cloud right" className="w-1/2 ml-auto" />
       </motion.div> */ }        
 {/* STORY - Dùng SectionHero + text kể chuyện + video trailer */}
+<div ref={storyDecorRef}>
 <SectionHero 
   id="story" >
   <div className="text-center max-w-4xl mx-auto">
@@ -441,10 +629,12 @@ export default function Landing() {
 
   </div>
 </SectionHero>
+</div>
 <DataFlow />
 
 
 {/* CHARACTER Section - poster nền + info nhân vật + thumbnail chọn nhân vật + visual chính nổi lên trên */}
+<div ref={charactersDecorRef}>
 <SectionHero id="characters" className="relative overflow-hidden min-h-screen">
 
   {/* ================================================================
@@ -555,6 +745,38 @@ export default function Landing() {
             )}
           </motion.button>
         ))}
+      </div>
+
+      {/* Nút điều hướng sang trang About */}
+      <div className="relative inline-block group z-30 mt-2">
+        <div
+          className="
+            absolute inset-0
+            rounded-full
+            bg-red-600
+            blur-2xl
+            opacity-40
+            transition-all duration-500
+            group-hover:opacity-70
+            pointer-events-none
+          "
+        />
+        <button
+          onClick={() => navigate('/about')}
+          className="
+            relative z-30
+            px-10 py-4
+            text-sm tracking-[0.3em] font-semibold text-white
+            bg-gradient-to-r from-black via-[#330000] to-red-700
+            border border-red-600/40
+            transition-all duration-500 ease-out
+            shadow-[0_0_15px_rgba(255,0,0,0.25)]
+            hover:shadow-[0_0_35px_rgba(255,0,0,0.6)]
+            hover:text-red-500 hover:tracking-[0.4em] hover:scale-105
+          "
+        >
+          MORE ABOUT
+        </button>
       </div>
     </div>
   </div>
@@ -710,7 +932,10 @@ export default function Landing() {
   </div>
 </div>
 </SectionHero>
+</div>
 {/* STAFF & CAST - Dùng SectionHero */}
+{/* Vùng neo theo dõi scroll của section này (không render gì, chỉ dùng ref để tính scrollYProgress) */}
+<div ref={staffDecorRef}>
 <SectionHero id="staff-cast" title="STAFF & CAST" subtitle=" The Team Behind Kamitsubaki">
    {/* Story-only Clouds */}
   <motion.div
@@ -791,8 +1016,11 @@ export default function Landing() {
     ))}
   </div>
 </SectionHero>
+</div>
       <DataFlow />
       {/* MUSIC - Dùng SectionHero */}
+      {/* Vùng neo theo dõi scroll của section này (không render gì) */}
+      <div ref={musicDecorRef}>
       <SectionHero id="music" title="MUSIC" subtitle="Music of Kamitsubaki">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 max-w-6xl">
           {[
@@ -825,7 +1053,10 @@ export default function Landing() {
         </div>
         
       </SectionHero>
+      </div>
         {/*PRODUCT - Dùng SectionHero */}
+        {/* Vùng neo theo dõi scroll của section này (không render gì) */}
+        <div ref={productDecorRef}>
         <SectionHero id="product" title="PRODUCT" subtitle="Merchandise & Goods">
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 max-w-6xl">
              
@@ -896,10 +1127,13 @@ export default function Landing() {
                   </button>
                 </div>
               </div>
-</SectionHero>       
+</SectionHero>
+</div>
         {/* NEWS - Dùng SectionHero */}
+        <div ref={newsDecorRef}>
         <UpcomingEventsSection />
         <NewsSection />
+        </div>
         <DataFlow />
       {/* Footer Ticker */}
         <footer className="w-full bg-black/80 backdrop-blur-md py-2 mt-20">
@@ -924,4 +1158,3 @@ export default function Landing() {
     </div>
   );
 }
-
