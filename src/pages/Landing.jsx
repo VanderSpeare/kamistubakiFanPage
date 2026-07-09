@@ -1024,7 +1024,7 @@ export default function Landing() {
       <SectionHero id="music" title="MUSIC" subtitle="Music of Kamitsubaki">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 max-w-6xl">
           {[
-            { title: 'Opening Theme', song: '"「Incomprehensible」"', artist: 'KAF', yt: 'https://www.youtube.com/watch?v=NDOJZSG9SPU' },
+            { title: 'Opening Theme', song: '"「Incomprehensi -ble」"', artist: 'KAF', yt: 'https://www.youtube.com/watch?v=NDOJZSG9SPU' },
             { title: 'Ending Theme', song: '"Carnivorous Plant "', artist: 'RIM', yt: 'https://www.youtube.com/watch?v=F9eCSWEJYjk' },
             { title: 'Theme Song', song: '"「シリウスの心臓」"', artist: 'ヰ世界情緒', yt: 'https://www.youtube.com/watch?v=UKZt1vq8bKI' },
           ].map((track, i) => (
